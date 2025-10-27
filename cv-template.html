@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$if(title)$$title$$else$Professional CV$endif$</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="custom-page-container">
+$if(name)$
+        <h1>$name$</h1>
+$endif$
+$if(subtitle)$
+        <div class="subtitle">$subtitle$</div>
+$endif$
+        <div class="highlight-bar"></div>
+
+$body$
+
+    </div>
+    
+    <script>
+        function addDots() {
+            document.querySelectorAll(".swap-item").forEach((item) => {
+                const textElement = item.querySelector(".swap-text");
+                if (!textElement) return;
+                
+                const originalHTML = textElement.innerHTML;
+                const tempSpan = document.createElement("span");
+                tempSpan.classList.add("swap-text");
+                document.body.appendChild(tempSpan);
+
+                let words = originalHTML
+                    .replace(/<[^>]*>/g, "")
+                    .replace(/\n/g, "")
+                    .replace(/\s+/g, " ")
+                    .trim()
+                    .split(/(\s+)/);
+                let currentLine = "";
+                let lines = [];
+                let max = textElement.getBoundingClientRect().width;
+
+                words.forEach((word) => {
+                    if (lines.length != 0) {
+                        max = textElement.getBoundingClientRect().width - 20;
+                    }
+                    tempSpan.innerHTML = currentLine + word;
+                    let tempWidth = 0;
+                    for (let i = 0; i < tempSpan.getClientRects().length; i++) {
+                        tempWidth += tempSpan.getClientRects()[i].width;
+                    }
+                    if (tempWidth > max) {
+                        lines.push(currentLine);
+                        currentLine = word;
+                    } else {
+                        currentLine += word;
+                    }
+                });
+                lines.push(currentLine);
+                document.body.removeChild(tempSpan);
+
+                let line = lines[lines.length - 1];
+                let textSpan = document.createElement("span");
+                textSpan.innerHTML = line;
+                textSpan.style.width = "fit-content";
+                textSpan.classList.add("swap-text");
+                document.body.appendChild(textSpan);
+                const rect = textSpan.getBoundingClientRect();
+                document.body.removeChild(textSpan);
+                textElement.style.setProperty("--after-width", "calc(100% - " + (rect.width + 10) + "px)");
+            });
+        }
+        window.onload = addDots;
+        
+        let oldWidth = window.innerWidth;
+        let oldHeight = window.innerHeight;
+        
+        window.onresize = function() {
+            let newWidth = window.innerWidth;
+            let newHeight = window.innerHeight;
+            
+            if (Math.abs(newWidth - oldWidth) > 50 || Math.abs(newHeight - oldHeight) > 50) {
+                location.reload();
+            }
+        };
+    </script>
+</body>
+</html>

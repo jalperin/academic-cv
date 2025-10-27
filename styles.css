@@ -1,0 +1,594 @@
+@font-face {
+  font-family: "AGaramondPro-Regular";
+  src: url("fonts/AGaramondPro-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AGaramondPro-Italic";
+  src: url("fonts/AGaramondPro-Italic.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AGaramondPro-BoldItalic";
+  src: url("fonts/AGaramondPro-Regular.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AGaramondPro-Bold";
+  src: url("fonts/AGaramondPro-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BrandonGrotesque-Regular";
+  src: url("fonts/HVD Fonts - BrandonGrotesque-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BrandonGrotesque-Bold";
+  src: url("fonts/HVD Fonts - BrandonGrotesque-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+.color-blue {
+  color: #165e9e !important;
+}
+
+.font-agp-regular {
+  font-family: "AGaramondPro-Regular", serif !important;
+}
+
+.font-agp-italic {
+  font-family: "AGaramondPro-Italic", serif !important;
+}
+
+.font-agp-bold {
+  font-family: "AGaramondPro-Bold", serif !important;
+}
+
+.font-bg-regular {
+  font-family: "BrandonGrotesque-Regular", serif !important;
+}
+
+.font-bg-bold {
+  font-family: "BrandonGrotesque-Bold", serif !important;
+}
+
+.font-size-15 {
+  font-size: 15px !important;
+}
+
+.font-size-14 {
+  font-size: 14px !important;
+}
+
+.font-size-12 {
+  font-size: 12px !important;
+}
+
+.margin-top-30 {
+  margin-top: 30px !important;
+}
+
+.margin-top-15 {
+  margin-top: 15px !important;
+}
+
+.margin-top-10 {
+  margin-top: 10px !important;
+}
+
+.margin-top-5 {
+  margin-top: 5px !important;
+}
+
+.margin-top-sub-10 {
+  margin-top: -10px !important;
+}
+
+.margin-bottom-5 {
+  margin-bottom: 5px !important;
+}
+
+.margin-bottom-20 {
+  margin-bottom: 20px !important;
+}
+
+.margin-left-10 {
+  margin-left: 10px !important;
+}
+
+.margin-left-20 {
+  margin-left: 20px !important;
+}
+
+.margin-right-10 {
+  margin-right: 10px !important;
+}
+
+.margin-0 {
+  margin: 0 !important;
+}
+
+.width-100-20 {
+  width: calc(100% - 20px) !important;
+}
+
+.width-80 {
+  width: 80% !important;
+}
+
+.width-70 {
+  width: 70% !important;
+}
+
+.width-30 {
+  width: 30% !important;
+}
+
+.width-20 {
+  width: 20% !important;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.justify-content-around {
+  justify-content: space-around;
+}
+
+.align-items-baseline {
+  align-items: baseline;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.align-items-top {
+  align-items: flex-start;
+}
+
+.text-decoration-none {
+  text-decoration: none !important;
+}
+
+.text-align-center {
+  text-align: center !important;
+}
+
+.height-25 {
+  height: 25px !important;
+}
+
+.float-right {
+  float: right;
+}
+
+.custom-page-container {
+  max-width: 900px; /* Adjust this value as needed for compactness */
+  min-width: 850px;
+  margin: 0 auto; /* Center align */
+}
+
+body {
+  font-family: "BrandonGrotesque-Regular", sans-serif;
+  color: #333;
+  padding: 40px;
+}
+
+img {
+  width: 22px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+em {
+  letter-spacing: 0.2px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 600;
+  font-family: "BrandonGrotesque-bold", sans-serif;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.subtitle {
+  font-size: 14px;
+  color: #7c88a0;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.highlight-bar {
+  width: 100%;
+  max-width: 610px;
+  height: 10px;
+  background: linear-gradient(90deg, #79c2d0 10%, #e4ebf0 10%);
+  margin: 10px 0 30px 0;
+}
+
+.section-box {
+  background: #f9efec;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.section-react {
+  background: #f9efec;
+  padding: 7px;
+  width: 45px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.research-box {
+  background: #f9efec;
+  padding: 20px;
+  margin-left: 20px;
+  height: fit-content;
+}
+
+.summary-title {
+  background-color: #f37853;
+  font-size: 15px;
+  color: white;
+  padding: 5px 20px;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.summary-box {
+  background-color: #f9efec;
+  padding: 10px 50px;
+  padding-bottom: 30px;
+  margin-bottom: 10px;
+}
+
+.line-item {
+  display: flex;
+  align-items: baseline;
+  font-size: 15px;
+}
+
+.line-left {
+  white-space: nowrap;
+  margin-right: 10px;
+  font-family: "AGaramondPro-Regular", serif;
+}
+
+.line-gray-text {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #555;
+}
+
+.line-right {
+  white-space: nowrap;
+  margin-left: 10px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.dotted-line {
+  border-bottom: 1px dotted #e07a2d;
+  flex-grow: 1;
+}
+
+.no-bullet {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.no-bullet li {
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+
+.research-box ul {
+  padding-left: 20px;
+}
+
+.research-box li {
+  margin-bottom: 5px;
+  font-size: 15px;
+  color: black;
+}
+
+.research-box li::marker {
+  color: #e07a2d;
+}
+
+.small-heading {
+  font-size: 14px;
+  color: #555;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.row {
+  flex-wrap: nowrap;
+}
+
+.award-line {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  font-family: "AGaramondPro-Regular", serif;
+}
+
+.award-under {
+  font-size: 14px;
+  display: flex;
+  font-family: "BrandonGrotesque-Regular", sans-serif !important;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 100%;
+}
+
+.award-title {
+  white-space: normal;
+  word-wrap: break-word;
+  font-size: 15px;
+  line-height: 1.5;
+  display: block;
+  text-indent: -20px; /* Moves the first line back */
+  padding-left: 20px;
+}
+
+/* The year aligned to the end */
+.award-year {
+  white-space: nowrap;
+  font-weight: 600;
+  font-size: 14px !important;
+  font-family: "BrandonGrotesque-Regular", sans-serif !important;
+}
+
+/* Ensure alignment */
+.award-line {
+  grid-template-columns: auto 1fr auto;
+  width: 100%;
+}
+
+.swap-award-line {
+  padding: 0.1rem 0;
+}
+
+.swap-award-title,
+.swap-award-body {
+  font-size: 15px;
+  font-family: "AGaramondPro-Regular", serif;
+}
+
+.swap-award-title {
+  text-indent: -20px; /* Moves the first line back */
+  padding-left: 20px;
+}
+
+.swap-award-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-left: 20px;
+  .award-title-dot {
+    margin: 0 10px;
+  }
+}
+
+.award-title-dot {
+  content: " ";
+  flex: 1;
+  border-bottom: 1px dotted #e07a2d;
+  height: 1px;
+}
+
+.coverage-text {
+  font-size: 15px;
+  color: #2e74b1;
+  line-height: 1.5;
+  font-weight: normal;
+}
+
+.wavy-line {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #165e9e;
+  text-decoration-line: line-through;
+  margin: 0 5px;
+  color: white;
+  user-select: none;
+  cursor: pointer;
+}
+
+.dotted-mark-line {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #e07a2d;
+  text-decoration-line: line-through;
+  margin: 0 5px;
+  color: white;
+  user-select: none;
+  cursor: pointer;
+}
+
+.google-scholar-mark {
+  font-size: 12px;
+  color: #165e9e;
+  line-height: 1.3;
+  border: 1px solid #165e9e;
+  padding: 0 4px;
+  margin: 0 4px;
+}
+
+.left-bar-content {
+  position: relative;
+  display: block;
+  width: 100%;
+  float: left;
+}
+
+.left-bar-content::after {
+  position: absolute;
+  content: "";
+  right: 0px;
+  top: 3px;
+  display: block;
+  padding: 7px;
+  height: 100%;
+  background-color: #f9efec;
+}
+
+.sub-text {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  display: block;
+  margin-left: 60px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.right-mark {
+  position: relative;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  display: block;
+  text-align: end;
+  margin-right: 70px;
+}
+
+.right-mark::after {
+  position: absolute;
+  content: "";
+  right: -70px;
+  top: 3px;
+  display: block;
+  padding: 7px 30px;
+  background-color: #f9efec;
+}
+
+.content-item {
+  width: calc(100% - 90px);
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.content-preview {
+  max-width: 50px;
+  min-width: 50px;
+  display: flex;
+  justify-content: stretch;
+  margin-right: 10px;
+}
+
+.content-text {
+  margin: 0;
+  font-size: 15px;
+  font-family: "AGaramondPro-Regular", serif;
+  text-indent: -20px; /* Moves the first line back */
+  padding-left: 20px;
+}
+
+.content-link {
+  color: #165e9e;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.super-mail {
+  width: 13px;
+  margin: 0;
+  vertical-align: super;
+}
+
+.wavy-text {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #165e9e;
+  text-decoration-thickness: from-font;
+}
+
+.underline-text {
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-color: #165e9e;
+  text-decoration-thickness: from-font;
+}
+
+.dotted-text {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #e07a2d;
+  text-decoration-thickness: from-font;
+}
+
+.swap-item {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  align-items: flex-end;
+}
+.swap-text {
+  position: relative;
+  width: 100%;
+  font-size: 15px;
+  font-family: "AGaramondPro-Regular", serif;
+  text-indent: -20px; /* Moves the first line back */
+  padding-left: 20px;
+}
+
+.swap-text::after {
+  position: absolute;
+  content: "";
+  display: block;
+  right: 10px;
+  width: var(--after-width, "0px"); /* Default width */
+  border-bottom: 1px dotted #e07a2d;
+  height: 1px;
+  bottom: 5px;
+}
