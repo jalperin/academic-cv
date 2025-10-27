@@ -540,7 +540,7 @@ function Div(el)
     -- Handle award items with year on right
     local text_content = pandoc.utils.stringify(el.content)
     text_content = text_content:gsub('%*([^%*]+)%*', '<em>%1</em>')
-    local year = el.attributes['year'] or ''
+    local year = el.attributes['date'] or el.attributes['year'] or ''
     
     return pandoc.RawBlock('html', [[
 <div class="swap-item">
@@ -716,6 +716,124 @@ function BulletList(el)
     
     return items
   end
+end
+
+-- Helper function to remove empty sections when date filtering is enabled
+local function remove_empty_sections(blocks)
+  local filtered_blocks = {}
+  local i = 1
+  
+  while i <= #blocks do
+    local block = blocks[i]
+    
+    -- Check if this is a section header (H2)
+    if block.t == "RawBlock" and block.format == "html" and 
+       block.text:match('<h2[^>]*class="section%-heading') then
+      
+      -- Collect all blocks in this section
+      local section_blocks = {block} -- Start with the header
+      local j = i + 1
+      local has_content = false
+      
+      -- Collect blocks until next H2 or end
+      while j <= #blocks do
+        local next_block = blocks[j]
+        
+        -- Stop if we hit another H2 section
+        if next_block.t == "RawBlock" and next_block.format == "html" and
+           next_block.text:match('<h2[^>]*class="section%-heading') then
+          break
+        end
+        
+        table.insert(section_blocks, next_block)
+        
+        -- Check if this block contains real content (not just headers/whitespace)
+        if next_block.t == "RawBlock" and next_block.format == "html" then
+          local content = next_block.text
+          -- Look for actual content blocks (swap-item, award-line, content-item, etc.)
+          if content:match('<div class="swap%-item">') or
+             content:match('<div class="award%-line') or  
+             content:match('<div class="content%-item') or
+             content:match('<ul') or
+             content:match('<li>') then
+            has_content = true
+          end
+        elseif next_block.t ~= "RawBlock" then
+          -- Non-raw blocks (like Para, etc.) are considered content
+          has_content = true
+        end
+        
+        j = j + 1
+      end
+      
+      -- Only keep the section if it has real content
+      if has_content then
+        for _, section_block in ipairs(section_blocks) do
+          table.insert(filtered_blocks, section_block)
+        end
+      end
+      
+      -- Move to next section
+      i = j
+      
+    -- Check if this is an H3 subsection header
+    elseif block.t == "RawBlock" and block.format == "html" and 
+           block.text:match('<h3[^>]*class="small.heading') then
+      
+      -- Collect all blocks in this H3 subsection
+      local subsection_blocks = {block} -- Start with the H3 header
+      local j = i + 1
+      local has_content = false
+      
+      -- Collect blocks until next H2, H3, or end
+      while j <= #blocks do
+        local next_block = blocks[j]
+        
+        -- Stop if we hit another H2 or H3 section
+        if next_block.t == "RawBlock" and next_block.format == "html" and
+           (next_block.text:match('<h2[^>]*class="section.heading') or
+            next_block.text:match('<h3[^>]*class="small.heading')) then
+          break
+        end
+        
+        table.insert(subsection_blocks, next_block)
+        
+        -- Check if this block contains real content
+        if next_block.t == "RawBlock" and next_block.format == "html" then
+          local content = next_block.text
+          -- Look for actual content blocks
+          if content:match('<div class="swap%-item">') or
+             content:match('<div class="award%-line') or  
+             content:match('<div class="content%-item') or
+             content:match('<ul') or
+             content:match('<li>') then
+            has_content = true
+          end
+        elseif next_block.t ~= "RawBlock" then
+          -- Non-raw blocks are considered content
+          has_content = true
+        end
+        
+        j = j + 1
+      end
+      
+      -- Only keep the H3 subsection if it has real content
+      if has_content then
+        for _, subsection_block in ipairs(subsection_blocks) do
+          table.insert(filtered_blocks, subsection_block)
+        end
+      end
+      
+      -- Move to next subsection/section
+      i = j
+    else
+      -- Not a section header, keep the block
+      table.insert(filtered_blocks, block)
+      i = i + 1
+    end
+  end
+  
+  return filtered_blocks
 end
 
 -- At the end of the document, handle sidebars and close any open wrappers

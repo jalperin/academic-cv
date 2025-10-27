@@ -92,10 +92,24 @@ PANDOC_CMD="$PANDOC_CMD --lua-filter=cv-gs-filter.lua --lua-filter=cv-filter.lua
 eval $PANDOC_CMD
 
 if [ $? -eq 0 ]; then
-    echo -e "${GREEN}✅ Successfully built: $OUTPUT${NC}"
+    # Post-process to remove empty sections if date filtering was used
+    if [ -n "$START_YEAR" ] || [ -n "$END_YEAR" ]; then
+        if [ -f "post_process_cv.py" ]; then
+            echo -e "${YELLOW}Post-processing to remove empty sections...${NC}"
+            python3 post_process_cv.py "$OUTPUT" "${OUTPUT}.tmp"
+            if [ $? -eq 0 ]; then
+                mv "${OUTPUT}.tmp" "$OUTPUT"
+            else
+                echo -e "${YELLOW}Warning: Post-processing failed, keeping original${NC}"
+                rm -f "${OUTPUT}.tmp"
+            fi
+        fi
+    fi
+    
+    echo -e "${GREEN}âœ… Successfully built: $OUTPUT${NC}"
     SIZE=$(du -h "$OUTPUT" | cut -f1)
     echo -e "${YELLOW}File size:${NC} $SIZE"
 else
-    echo -e "${RED}❌ Build failed${NC}"
+    echo -e "${RED}âŒ Build failed${NC}"
     exit 1
 fi
