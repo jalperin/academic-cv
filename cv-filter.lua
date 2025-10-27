@@ -72,6 +72,7 @@ local sidebar_content = ''
 local in_publications = false
 local in_presentations = false
 local current_year_section = nil  -- Track current year for content filtering
+local current_section = nil  -- Track current major section
 
 -- Helper function to create icon HTML
 function make_icon(icon_name)
@@ -259,6 +260,9 @@ function Header(el)
     -- Add section styling
     local id = el.identifier or ''
     local content = pandoc.utils.stringify(el.content)
+    
+    -- Track current section for special formatting
+    current_section = content:upper()
     
     -- Reset year section tracking for any H2 (major section)
     current_year_section = "valid"
@@ -462,6 +466,15 @@ function Div(el)
     return pandoc.RawBlock('html', '')
   elseif el.classes:includes('grant-item') then
     -- Handle grant items with funding, optional project, and years
+    -- Check date filtering first
+    if date_filter_enabled and el.attributes['years'] then
+      local years_text = el.attributes['years']
+      local years = extract_years(years_text)
+      if not ranges_overlap(years) then
+        return pandoc.RawBlock('html', '')  -- Skip this item
+      end
+    end
+    
     local content = pandoc.utils.stringify(el.content)
     -- Process content for Alperin bold wrapping
     content = content:gsub('Alperin, J%.P%.', '<span class="font-agp-bold">Alperin, J.P.</span>')
@@ -567,6 +580,41 @@ function BulletList(el)
   -- Skip content if we're in a filtered-out year section
   if date_filter_enabled and current_year_section == nil then
     return pandoc.RawBlock('html', '')
+  end
+  
+  -- Special handling for Professional Appointments section
+  if current_section == "PROFESSIONAL APPOINTMENTS" then
+    local html = '<ul class="no-bullet">\n'
+    for i, item in ipairs(el.content) do
+      local content = pandoc.write(pandoc.Pandoc(item), 'html')
+      -- Remove p tags
+      content = content:gsub('^<p>', ''):gsub('</p>$', ''):gsub('</p>\n$', '')
+      
+      -- Split on <br /> or <br/> to create separate divs
+      local parts = {}
+      local current_part = ""
+      
+      -- Split the content by line breaks
+      for chunk in (content .. "<br />"):gmatch("(.-)<br%s*/?%s*>") do
+        chunk = chunk:match('^%s*(.-)%s*$') or "" -- trim whitespace
+        if chunk ~= "" then
+          table.insert(parts, chunk)
+        end
+      end
+      
+      html = html .. '  <li>\n'
+      for j, part in ipairs(parts) do
+        if j == 2 then
+          -- Second part gets font-agp-regular class
+          html = html .. '    <div class="font-agp-regular">' .. part .. '</div>\n'
+        else
+          html = html .. '    <div>' .. part .. '</div>\n'
+        end
+      end
+      html = html .. '  </li>\n'
+    end
+    html = html .. '</ul>\n'
+    return pandoc.RawBlock('html', html)
   end
   
   -- Check if this is a publication/presentation list (contains icons or special markers)
