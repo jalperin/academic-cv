@@ -499,11 +499,22 @@ function Div(el)
       '</div>')
   elseif el.classes:includes('media-item') then
     -- Handle media items (used in Professional Service, etc.)
-    local content = pandoc.utils.stringify(el.content)
-    content = content:gsub('%*%*([^%*]+)%*%*', '<strong>%1</strong>')
-    content = content:gsub('%*([^%*]+)%*', '<em>%1</em>')
-    -- Add link processing
-    content = content:gsub('%[([^%]]+)%]%(([^)]+)%)', '<a href="%2" class="content-link">%1</a>')
+    -- TWO-PASS APPROACH: preserve links while adding custom formatting
+    
+    -- PASS 1: Get text for custom patterns
+    local text = pandoc.utils.stringify(el.content)
+    
+    -- PASS 2: Convert AST to HTML (preserving links and standard markdown)
+    local content = pandoc.write(pandoc.Pandoc(el.content), 'html')
+    -- Remove the wrapping <p> tags that pandoc adds
+    content = content:gsub('^<p>', ''):gsub('</p>$', ''):gsub('</p>\n$', '')
+    -- Add content-link class to all links
+    content = content:gsub('<a%s+href="([^"]*)">', '<a href="%1" class="content-link">')
+    
+    -- PASS 3: Apply custom formatting that pandoc doesn't handle
+    content = content:gsub('%.%.([^%.]+)%.%.', '<span class="dotted-text">%1</span>')
+    content = content:gsub('%^', '<img src="Links/juanicons-colour-final-05.png" class="super-mail"/>')
+    content = content:gsub('`([^`]+)`', '<span class="color-blue">%1</span>')
     
     local date = el.attributes['date'] or ''
     
@@ -644,10 +655,8 @@ function BulletList(el)
       content = content:gsub('%^', '<img src="Links/juanicons-colour-final-05.png" class="super-mail"/>')
       -- Blue text `text`
       content = content:gsub('`([^`]+)`', '<span class="color-blue">%1</span>')
-      -- Standard markdown links [text](url)
-      content = content:gsub('%[([^%]]+)%]%(([^)]+)%)', '<a href="%2" class="content-link" style="color: red; text-decoration: underline;">MDLINK:%1</a>')
       -- Links {text}(url)
-      content = content:gsub('{([^}]+)}%(([^)]+)%)', '<a href="%2" class="content-link">%1</a>')
+      content = content:gsub('{([^}]+)}%(([^)]+)%)', '<a class="content-link">%1</a>')
       
       html = html .. '  <div class="content-text">\n'
       html = html .. '    ' .. content .. '\n'
