@@ -502,6 +502,8 @@ function Div(el)
     local content = pandoc.utils.stringify(el.content)
     content = content:gsub('%*%*([^%*]+)%*%*', '<strong>%1</strong>')
     content = content:gsub('%*([^%*]+)%*', '<em>%1</em>')
+    -- Add link processing
+    content = content:gsub('%[([^%]]+)%]%(([^)]+)%)', '<a href="%2" class="content-link">%1</a>')
     
     local date = el.attributes['date'] or ''
     
@@ -642,8 +644,10 @@ function BulletList(el)
       content = content:gsub('%^', '<img src="Links/juanicons-colour-final-05.png" class="super-mail"/>')
       -- Blue text `text`
       content = content:gsub('`([^`]+)`', '<span class="color-blue">%1</span>')
+      -- Standard markdown links [text](url)
+      content = content:gsub('%[([^%]]+)%]%(([^)]+)%)', '<a href="%2" class="content-link" style="color: red; text-decoration: underline;">MDLINK:%1</a>')
       -- Links {text}(url)
-      content = content:gsub('{([^}]+)}%(([^)]+)%)', '<a class="content-link">%1</a>')
+      content = content:gsub('{([^}]+)}%(([^)]+)%)', '<a href="%2" class="content-link">%1</a>')
       
       html = html .. '  <div class="content-text">\n'
       html = html .. '    ' .. content .. '\n'
