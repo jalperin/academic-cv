@@ -556,7 +556,7 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 ### UNDER REVIEW
 
-- [journal] van Bellen, S., **Alperin, J.P.**, & Larivière, V. (2024). The oligopoly of academic publishers persists in exclusive database (arXiv: `2406.17893`). *arXiv.*
+- [journal] van Bellen, S., **Alperin, J.P.**, & Larivière, V. (2024). The oligopoly of academic publishers persists in exclusive database. *arXiv.* arXiv:2406.17893.
 
 ### IN PRESS
 
@@ -568,11 +568,11 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 ### 2025
 
-- [peer-reviewed,journal] ..Chtena, N...^, **Alperin, J.P.**^, Pinfield, S., ..Fleerackers, A..., & Pasquetto, I. Preprint servers and journals: rivals or allies? *Journal of Documentation*. {10.1108/JD-09-2024-0215}(link)
+- [peer-reviewed,journal] ..Chtena, N...^, **Alperin, J.P.**^, Pinfield, S., ..Fleerackers, A..., & Pasquetto, I. Preprint servers and journals: rivals or allies? *Journal of Documentation*. doi: 10.1108/JD-09-2024-0215
 
-- [peer-reviewed,journal] ~~Fleerackers, A.~~, Moorhead, L., Riedlinger, M., **Alperin, J.P.** Maggio, L. From impact metrics and open science to communicating research: Journalists’ awareness of academic controversies. *PLOS One*. {10.1371/journal.pone.0309274}(link)
+- [peer-reviewed,journal] ~~Fleerackers, A.~~, Moorhead, L., Riedlinger, M., **Alperin, J.P.** Maggio, L. From impact metrics and open science to communicating research: Journalists’ awareness of academic controversies. *PLOS One*. doi: 10.1371/journal.pone.0309274
 
-- [peer-reviewed,journal] Shi, J.^, Nason, M., Tullney, M. & **Alperin, J.P.**^ Identifying Metadata Quality Issues Across Cultures. *College & Research Libraries*. {10.5860/crl.86.1.101}(link)
+- [peer-reviewed,journal] Shi, J.^, Nason, M., Tullney, M. & **Alperin, J.P.**^ Identifying Metadata Quality Issues Across Cultures. *College & Research Libraries*. doi: 10.5860/crl.86.1.101
 
 ### 2024
 
@@ -580,21 +580,21 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - [journal] Haustein, S., Schares, E., **Alperin, J.P.**, Hare, M., Butler, L.-A., & Schönfelder, N. (2024). Estimating global article processing charges paid to six publishers for open access between 2019 and 2023 (arXiv: 2407.16551). *arXiv.*
 
-- [peer-reviewed,journal] ..Benson-Marshall, M..., Pinfield, S., Abbott, P., Cox, A., **Alperin, J.P.**, et.al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. Humanities and Social Sciences Communications. {10.1057/s41599-024-03804-w}(link)
+- [peer-reviewed,journal] ..Benson-Marshall, M..., Pinfield, S., Abbott, P., Cox, A., **Alperin, J.P.**, et.al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. Humanities and Social Sciences Communications. doi: 10.1057/s41599-024-03804-w
 
-- [peer-reviewed,journal] Unzurrunzaga, C., Monti, C. Zalba, G. & **Alperin, J.P.**^. Open access in Argentina: a proposal for tracking scientific publications. Información, Cultura & Sociedad. {10.34096/ics.i50.13373}(link)
+- [peer-reviewed,journal] Unzurrunzaga, C., Monti, C. Zalba, G. & **Alperin, J.P.**^. Open access in Argentina: a proposal for tracking scientific publications. Información, Cultura & Sociedad. doi: 10.34096/ics.i50.13373
 
-- [peer-reviewed,journal] Barata, G., ..Oliveira, M..., Peixoto, T., Caetano Almeida, C., Fernandes Mazoni, A., Costas Comesana, R., & **Alperin, J.P.** (2024). Comunicado de imprensa como indicador de atenção social qualificada da ciência: A construção de um banco de dados e suas potencialidades. *Liinc em Revista*, 20(1), {10.18617/89te9k42}(link)
+- [peer-reviewed,journal] Barata, G., ..Oliveira, M..., Peixoto, T., Caetano Almeida, C., Fernandes Mazoni, A., Costas Comesana, R., & **Alperin, J.P.** (2024). Comunicado de imprensa como indicador de atenção social qualificada da ciência: A construção de um banco de dados e suas potencialidades. *Liinc em Revista*, 20(1), doi: 10.18617/89te9k42
 
 - [peer-reviewed,conference] **Alperin, J.P.**, Portenoy, J., Demes, K., Larivière, V., & Haustein, S. (Sept 20). An analysis of the suitability of OpenAlex for bibliometric analyses. Science and Technology Indicators Conference. Berlin. (arXiv: `2404.17663`).
 
-- [peer-reviewed,journal] ..Oliveira, M..., Barata, G., Fleerackers, A, **Alperin, J.P.**, Falade, B., & Bauer, M. W. Bridging science communication and open science—Working inclusively toward the common good. *Frontiers in Communication*, 9.{10.3389/fcomm.2024.1473268}(link)
+- [peer-reviewed,journal] ..Oliveira, M..., Barata, G., Fleerackers, A, **Alperin, J.P.**, Falade, B., & Bauer, M. W. Bridging science communication and open science—Working inclusively toward the common good. *Frontiers in Communication*, 9. doi: 10.3389/fcomm.2024.1473268
 
-- [peer-reviewed,journal] Maggio, L. A., ..Chtena, N..., **Alperin, J.P.**, Moorhead, L., & Willinsky, J.“The best home for this paper”: A qualitative study of how authors select where to submit manuscripts. Perspectives in Medical Education. {10.5334/pme.1517}(link)
+- [peer-reviewed,journal] Maggio, L. A., ..Chtena, N..., **Alperin, J.P.**, Moorhead, L., & Willinsky, J.“The best home for this paper”: A qualitative study of how authors select where to submit manuscripts. Perspectives in Medical Education. doi: 10.5334/pme.1517
 
-- [peer-reviewed,journal] Ng, J. et al. (2024). Publisher preferences for a journal transparency tool: A modified three-round Delphi study (13:915). *F1000Research*. {10.12688/f1000research.154408.1}(link)
+- [peer-reviewed,journal] Ng, J. et al. (2024). Publisher preferences for a journal transparency tool: A modified three-round Delphi study (13:915). *F1000Research*. doi: 10.12688/f1000research.154408.1
 
-- [peer-reviewed,journal] Simard, M.-A., Butler, L.-A., **Alperin, J.P.**, & Haustein, S. (2024). We need to rethink the way we identify diamond open access journals in quantitative science studies. *Quantitative Science Studies*. {doi.org/10.1162/qss_c_00331}(link)
+- [peer-reviewed,journal] Simard, M.-A., Butler, L.-A., **Alperin, J.P.**, & Haustein, S. (2024). We need to rethink the way we identify diamond open access journals in quantitative science studies. *Quantitative Science Studies*. doi: 10.1162/qss_c_00331
 
 - [peer-reviewed,journal] {GS:1} Fleerackers, A.^, Shores, K., ..Chtena, N... & **Alperin, J.P.**^ Unreviewed science in the news: The evolution of preprint media coverage from 2014-2021. *Quantitative Science Studies*
 
@@ -602,7 +602,7 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - [peer-reviewed,journal] ..Atef, N..., ~~Fleerackers, A.~~, & **Alperin, J.P.**^ Uses and Gratifications in Health Vlogging: The Case of Egyptian Doctors Creating Content on YouTube. The Journal of Social Media in Society
 
-- [peer-reviewed,journal] {GS:11} ..Cobey, K..., et al. Community consensus on core open science practices to monitor in biomedicine. *PLOS Biology*. {10.1371/journal.pbio.3001949}(link)
+- [peer-reviewed,journal] {GS:11} ..Cobey, K..., et al. Community consensus on core open science practices to monitor in biomedicine. *PLOS Biology*. doi: 10.1371/journal.pbio.3001949
 
 - [peer-reviewed,journal] {GS:4} ..Atef, N..., ~~Fleerackers, A.~~, & **Alperin, J.P.**^ “Doctors” or “Influencers”? Physicians’ Presentation of Self in Health Vlogs. International Journal of Communication.
 
@@ -610,85 +610,85 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 ### 2022
 
-- [journal] {GS:19} **Alperin, J.P.**^ Article-processing charges weaken open access. *Nature*. {10.1038/d41586-022-03201-w}(link)
+- [journal] {GS:19} **Alperin, J.P.**^ Article-processing charges weaken open access. *Nature*. doi: 10.1038/d41586-022-03201-w
 
-- [journal] **Alperin, J.P.**^ De la tecnocracia a la equidad y la sustentabilidad: por otraciencia abierta. Revista Eletrônica de Comunicação, Informação & Inovação em Saúde. {10.29397/reciis.v16i4.3524}(link)
+- [journal] **Alperin, J.P.**^ De la tecnocracia a la equidad y la sustentabilidad: por otraciencia abierta. Revista Eletrônica de Comunicação, Informação & Inovação em Saúde. doi: 10.29397/reciis.v16i4.3524
 
-- [peer-reviewed,journal] {GS:33} ~~Khanna, S., Ball, J.,~~ **Alperin, J.P.** & WIllinsky, J. Recalibrating the scope of scholarly publishing: a modest step in a vast decolonization process. *Quantiative Science Studies*. {10.1162/qss_a_00228}(link)
+- [peer-reviewed,journal] {GS:33} ~~Khanna, S., Ball, J.,~~ **Alperin, J.P.** & WIllinsky, J. Recalibrating the scope of scholarly publishing: a modest step in a vast decolonization process. *Quantiative Science Studies*. doi: 10.1162/qss_a_00228
 
-- [peer-reviewed,journal] {GS:14} ~~Fleerackers, A.~~, Moorhead, L., Maggio, L., ~~Fagan, K.~~ & **Alperin, J.P.** Science in motion: A qualitative analysis of journalists’ use and perception of preprints. *PLOS One*. {10.1371/journal.pone.0277769}(link)
+- [peer-reviewed,journal] {GS:14} ~~Fleerackers, A.~~, Moorhead, L., Maggio, L., ~~Fagan, K.~~ & **Alperin, J.P.** Science in motion: A qualitative analysis of journalists’ use and perception of preprints. *PLOS One*. doi: 10.1371/journal.pone.0277769
 
 - [chapter] ..Ebrahimzadeh, S..., **Alperin, J.P.** & Haustein, S. Social media and altmetrics. In Handbook on Research Assessment in the Social Sciences. Edward Elgar Publishing
 
-- [peer-reviewed,journal] {GS:12} ~~Fleerackers, A.~~, Haustein, S., & **Alperin, J.P.**^ Identifying science in the news: An assessment of the precision and recall of Altmetric.com news mention data. *Scientometrics*. {10.1007/s11192-022-04510-7}(link)
+- [peer-reviewed,journal] {GS:12} ~~Fleerackers, A.~~, Haustein, S., & **Alperin, J.P.**^ Identifying science in the news: An assessment of the precision and recall of Altmetric.com news mention data. *Scientometrics*. doi: 10.1007/s11192-022-04510-7
 
-- [peer-reviewed,journal] {GS:9} ~~Morales, E.~~, ~~Fleerackers, A.~~, Kalir, J., & **Alperin, J.P.**^ Using Social annotations to construct knowledge with others: A case study across undergraduate courses. *F1000 Research*. {10.12688/f1000research.109525.2}(link)
+- [peer-reviewed,journal] {GS:9} ~~Morales, E.~~, ~~Fleerackers, A.~~, Kalir, J., & **Alperin, J.P.**^ Using Social annotations to construct knowledge with others: A case study across undergraduate courses. *F1000 Research*. doi: 10.12688/f1000research.109525.2
 
-- [peer-reviewed,journal] {GS:13} ..Dawson, D..., ~~Morales, E.~~, McKiernan, E.C., Niles, M.T., Schimanski, L.A. & **Alperin, J.P.**^ The role of collegiality in academic review, promotion, and tenure. *PLOS One*. {doi.org/10.1371/journal.pone.0265506}(link)
+- [peer-reviewed,journal] {GS:13} ..Dawson, D..., ~~Morales, E.~~, McKiernan, E.C., Niles, M.T., Schimanski, L.A. & **Alperin, J.P.**^ The role of collegiality in academic review, promotion, and tenure. *PLOS One*. doi: 10.1371/journal.pone.0265506
 
 - [chapter] {GS:5} **Alperin, J.P.**^, Schimanski, L.A., ~~La, M.~~, Niles, M.T., & McKiernan, E.C. The value of data and other non-traditional scholarly outputs in academic review, promotion, and tenure. In Open Handbook of Linguistic Data Management. MIT Press.
 
 ### 2021
 
-- [peer-reviewed,journal] {GS:30} ~~Morales, E.~~, McKiernan, E.C., Niles, M.T., Schimanski, L.A. & **Alperin, J.P.**^ How faculty define quality, prestige, and impact in research. *PLOS One*. {doi.org/10.1371/journal.pone.0257340}(link)
+- [peer-reviewed,journal] {GS:30} ~~Morales, E.~~, McKiernan, E.C., Niles, M.T., Schimanski, L.A. & **Alperin, J.P.**^ How faculty define quality, prestige, and impact in research. *PLOS One*. doi: 10.1371/journal.pone.0257340
 
-- [peer-reviewed,journal] {GS:20} ~~Rozemblum, C.~~, **Alperin, J.P.** & Unzurrunzaga, C. Las limitaciones de Sco pus como fuente de indicadores: Buscando una visibilidad integral para revistas argentinas en ciencias sociales. *e-Ciencias de la Información*. {doi.org/10.15517/eci.v11i2.44300}(link)
+- [peer-reviewed,journal] {GS:20} ~~Rozemblum, C.~~, **Alperin, J.P.** & Unzurrunzaga, C. Las limitaciones de Sco pus como fuente de indicadores: Buscando una visibilidad integral para revistas argentinas en ciencias sociales. *e-Ciencias de la Información*. doi: 10.15517/eci.v11i2.44300
 
 - [peer-reviewed,conference] ~~Fleerackers, A.~~, Riedlinger, M., Ahmed, R., Maggio, L., & **Alperin, J.P.** (May 27-31). Sharing uncertain science: Mapping the media coverage of COVID-19 preprints on Facebook and Twitter. 71st Annual ICA Conference, Engaging the Essential Work of Care: Communication, Connectedness, and Social Justice. Online
 
 - [peer-reviewed,journal] {GS:30} ..Malički, M..., Costello, J., **Alperin, J.P.**, & Maggio, L.A. From amazing work to I beg to differ: analysis of bioRxiv preprints that received one public comment till September 2019. *Biochemia Medica*.
 
-- [peer-reviewed,journal] {GS:85} ~~Fleerackers, A.~~, Riedlinger, M., Moorhead, L., Ahmed, R. & **Alperin, J.P.**^ Communicating scientific uncertainty during COVID-19: An investigation into the use of preprints by digital media outlets. *Health Communication*. doi.org/10.1080/10410236.2020.1864892
+- [peer-reviewed,journal] {GS:85} ~~Fleerackers, A.~~, Riedlinger, M., Moorhead, L., Ahmed, R. & **Alperin, J.P.**^ Communicating scientific uncertainty during COVID-19: An investigation into the use of preprints by digital media outlets. *Health Communication*. doi: 10.1080/10410236.2020.1864892
 
 ### 2020
 
 - [chapter] Reilly, K.M.A. & **Alperin, J.P.** A Stewardship Approach to Theorizing Open Data for Development. In *Open Data for Development*. MIT Press.
 
-- [peer-reviewed,journal] {GS:15} ~~Matthias, L.~~, ~~Fleerackers, A.~~ & **Alperin, J.P.**^ Framing science: How opioid research is presented in online news media. *Frontiers in Communication*. {doi.org/10.3389/fcomm.2020.00064/}(link)
+- [peer-reviewed,journal] {GS:15} ~~Matthias, L.~~, ~~Fleerackers, A.~~ & **Alperin, J.P.**^ Framing science: How opioid research is presented in online news media. *Frontiers in Communication*. doi: 10.3389/fcomm.2020.00064/
 
-- [peer-reviewed,journal] ..Didegah, F..., Ghaseminik, Z. & **Alperin, J.P.**^ Using a diabetes discussion forum and Wikipedia to detect the alignment of public interests and the research literature. *Journal of Altmetrics*. {doi.org/10.1101/496927}(link)
+- [peer-reviewed,journal] ..Didegah, F..., Ghaseminik, Z. & **Alperin, J.P.**^ Using a diabetes discussion forum and Wikipedia to detect the alignment of public interests and the research literature. *Journal of Altmetrics*. doi: 10.1101/496927
 
-- [peer-reviewed,journal] {GS:19} ~~Enkhbayar, A.~~, Haustein, ~~S., Barata, G.~~ & **Alperin, J.P.**^ How much research shared on Facebook happens outside of public pages and groups? A comparison of public and private online activity around PLOS ONE papers. *Quantitative Science Studies*. {doi.org/10.1162/qss_a_00044}(link)
+- [peer-reviewed,journal] {GS:19} ~~Enkhbayar, A.~~, Haustein, ~~S., Barata, G.~~ & **Alperin, J.P.**^ How much research shared on Facebook happens outside of public pages and groups? A comparison of public and private online activity around PLOS ONE papers. *Quantitative Science Studies*. doi: 10.1162/qss_a_00044
 
-- [peer-reviewed,journal] {GS:4} ..Moscrop, D..., ~~Wong, L.~~ & **Alperin, J.P.**^ Have You Seen This? Why Political Pundits Share Scholarly Research on Social Media. Scholarly and Research Communication, 11(1). {doi.org/10.22230/src.2020v11n1a355}(link)
+- [peer-reviewed,journal] {GS:4} ..Moscrop, D..., ~~Wong, L.~~ & **Alperin, J.P.**^ Have You Seen This? Why Political Pundits Share Scholarly Research on Social Media. Scholarly and Research Communication, 11(1). doi: 10.22230/src.2020v11n1a355
 
-- [peer-reviewed,journal] {GS:26} Kalir, J., ~~Morales, E.~~, ~~Fleerackers, A.~~ & **Alperin, J.P.**^ “When I saw my peers annotating:” Student perceptions of social annotation for learning in multiple courses. Information and Learning Sciences. {doi.org/10.1108/ILS-12-2019-0128}(link)
+- [peer-reviewed,journal] {GS:26} Kalir, J., ~~Morales, E.~~, ~~Fleerackers, A.~~ & **Alperin, J.P.**^ “When I saw my peers annotating:” Student perceptions of social annotation for learning in multiple courses. Information and Learning Sciences. doi: 10.1108/ILS-12-2019-0128
 
-- [peer-reviewed,journal] {GS:167} Niles, M., McKiernan, E., Schimanski, L.A. & **Alperin, J.P.**^ Why we publish where we do: Faculty publishing values and their relationship to review, promotion and tenure expectations. *PLOS One*. {doi.org/10.1101/706622}(link)
+- [peer-reviewed,journal] {GS:167} Niles, M., McKiernan, E., Schimanski, L.A. & **Alperin, J.P.**^ Why we publish where we do: Faculty publishing values and their relationship to review, promotion and tenure expectations. *PLOS One*. doi: 10.1101/706622
 
 ### 2019
 
 - [book] ~~MacKenzie, S.~~ & **Alperin, J.P.**^ Open Textbook: The Web, Publishing, and Ourselves. PressBooks. {sfupublishing.pressbooks.com}(link)
 
-- [peer-reviewed,journal] {GS:291} McKiernan, E., Schimanski, L.A., ~~Muñoz Nieves, C.~~, Matthias, L., Niles, M. & **Alperin, J.P.**^ Use of the Journal Impact Factor in academic review, promotion, and tenure evaluations. *eLife*. {doi.org/10.7554/eLife.47338}(link)
+- [peer-reviewed,journal] {GS:291} McKiernan, E., Schimanski, L.A., ~~Muñoz Nieves, C.~~, Matthias, L., Niles, M. & **Alperin, J.P.**^ Use of the Journal Impact Factor in academic review, promotion, and tenure evaluations. *eLife*. doi: 10.7554/eLife.47338
 
-- [peer-reviewed,chapter] {GS:5} **Alperin, J.P.**^, Willinsky, J., Owen, B., MacGregor, J., Smecher, A. & Stranack, K. The Public Knowledge Project: Reflections and Directions After Its First Two Decades. In Chan, L., & Mounier, P. (Eds.), Connecting the Knowledge Commons—From Projects to Sustainable Infrastructure: The 22nd International Conference on Electronic Publishing. Marseille: OpenEdition Press. {doi.org/10.4000/books.oep.9054}(link)
+- [peer-reviewed,chapter] {GS:5} **Alperin, J.P.**^, Willinsky, J., Owen, B., MacGregor, J., Smecher, A. & Stranack, K. The Public Knowledge Project: Reflections and Directions After Its First Two Decades. In Chan, L., & Mounier, P. (Eds.), Connecting the Knowledge Commons—From Projects to Sustainable Infrastructure: The 22nd International Conference on Electronic Publishing. Marseille: OpenEdition Press. doi: 10.4000/books.oep.9054
 
-- [peer-reviewed,journal] {GS:183} **Alperin, J.P.**^, ~~Muñoz Nieves, C.~~, Niles, M., Schimanski, L.A., Fischman, G.E., Niles, M., & McKiernan, E. How significant are the public dimensions of faculty work in review, promotion, and tenure documents? *eLife*. {doi.org/10.17613/M6W950N35}(link)
+- [peer-reviewed,journal] {GS:183} **Alperin, J.P.**^, ~~Muñoz Nieves, C.~~, Niles, M., Schimanski, L.A., Fischman, G.E., Niles, M., & McKiernan, E. How significant are the public dimensions of faculty work in review, promotion, and tenure documents? *eLife*. doi: 10.17613/M6W950N35
 
 ### 2018
 
-- [peer-reviewed,journal] {GS:11} Maggio, L.A., Ratcliff, C., Krakow, M., Moorhead, L., ~~Enkhbayar, A.~~ & **Alperin, J.P.**^ Making headlines: an analysis of US government-funded cancer research mentioned in online media. *BMJ Open*. {doi.org/10.1101/370973}(link)
+- [peer-reviewed,journal] {GS:11} Maggio, L.A., Ratcliff, C., Krakow, M., Moorhead, L., ~~Enkhbayar, A.~~ & **Alperin, J.P.**^ Making headlines: an analysis of US government-funded cancer research mentioned in online media. *BMJ Open*. doi: 10.1101/370973
 
-- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:5icHVeHT4IsC} Schimanski, L. & **Alperin, J.P.**^. The evaluation of scholarship in academic promotion and tenure processes: Past, present, and future. *F1000*. doi.org/10.12688/f1000research.16493.1
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:5icHVeHT4IsC} Schimanski, L. & **Alperin, J.P.**^. The evaluation of scholarship in academic promotion and tenure processes: Past, present, and future. *F1000*. doi: 10.12688/f1000research.16493.1
 
-- [peer-reviewed,journal] {GS:87} **Alperin, J.P.**^, Gomez, C. & Haustein, S. Identifying diffusion patterns of research on social media. Public Understanding of Science. {doi.org/10.1177/0963662518761733}(link)
+- [peer-reviewed,journal] {GS:87} **Alperin, J.P.**^, Gomez, C. & Haustein, S. Identifying diffusion patterns of research on social media. Public Understanding of Science. doi: 10.1177/0963662518761733
 
-- [peer-reviewed,journal] {GS:43} ..Siler, K..., Haustein, S., Smith, E., Larivière, V. & **Alperin, J.P.** Authorial and institutional stratification in open access publishing: The case of global health research. *PeerJ*. {doi.org/10.7717/peerj.4269}(link)
+- [peer-reviewed,journal] {GS:43} ..Siler, K..., Haustein, S., Smith, E., Larivière, V. & **Alperin, J.P.** Authorial and institutional stratification in open access publishing: The case of global health research. *PeerJ*. doi: 10.7717/peerj.4269
 
-- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:mNrWkgRL2YcC} Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, ~~Matthias, L.~~, Norlander, B., Farley, A., West, J. & Haustein, S. The State of OA: A large-scale analysis of the prevalence and impact of Open Access articles. *PeerJ* {preprint doi.org/10.7717/peerj.4375}(link)
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:mNrWkgRL2YcC} Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, ~~Matthias, L.~~, Norlander, B., Farley, A., West, J. & Haustein, S. The State of OA: A large-scale analysis of the prevalence and impact of Open Access articles. *PeerJ* doi: 10.7717/peerj.4375
 
-- [peer-reviewed,journal] {GS:30} ..Barata, G..., Haustein, S., Shores, K. & **Alperin, J.P.**^ Local chatter or international buzz? Differences in language of social posts about Zika research. *PLOS ONE*. {doi.org/10.1371/journal.pone.0190482}(link)
+- [peer-reviewed,journal] {GS:30} ..Barata, G..., Haustein, S., Shores, K. & **Alperin, J.P.**^ Local chatter or international buzz? Differences in language of social posts about Zika research. *PLOS ONE*. doi: 10.1371/journal.pone.0190482
 
 - [chapter] Willinsky, J. & **Alperin, J.P.** (2018). The academic ethics of open access to research and scholarship. In B. Smart, K. Peggs, and J. Burridge (Eds.), Critical social research ethics. Vol. 2. Los Angeles: Sage
 
 - [peer-reviewed,conference] {GS:7} ~~Enkhbayar, A.~~ & **Alperin, J.P.**^ (2018, September 12). Challenges of capturing engagement on Facebook for altmetrics. *STI 2018*. Leiden, Netherlands.
 
-- [peer-reviewed,journal] {GS:72} Shu, F., Mongeon, P., Haustein, S., ..Siler, K..., **Alperin, J.P.**, Larivière, V. Is it such a big deal? On the cost of journal use in the digital era. *College & Research Libraries*. {doi.org/10.5860/crl.79.6.785}(link)
+- [peer-reviewed,journal] {GS:72} Shu, F., Mongeon, P., Haustein, S., ..Siler, K..., **Alperin, J.P.**, Larivière, V. Is it such a big deal? On the cost of journal use in the digital era. *College & Research Libraries*. doi: 10.5860/crl.79.6.785
 
 ### 2017
 
-- [peer-reviewed,journal] {GS:127} **Alperin, J.P.**^ & ~~Rozemblum, C.~~ The Reinterpretation of the Visibility and Quality of New Policies to Assess Scientific Publications. Revista Interamericana de Bibliotecologia, 40(3). {doi.org/10.17533/udea.rib.v40n3a04}(link)
+- [peer-reviewed,journal] {GS:127} **Alperin, J.P.**^ & ~~Rozemblum, C.~~ The Reinterpretation of the Visibility and Quality of New Policies to Assess Scientific Publications. Revista Interamericana de Bibliotecologia, 40(3). doi: 10.17533/udea.rib.v40n3a04
 
 - [conference] Garnett, A., Aufreiter, M., Buchtala, O., **Alperin, J.P.** (2017, April 25). Introducing Texture: An Open Source WYSIWYG Javascript Editor for JATS. *JATS-Con Proceedings 2017*, Bethesda: National Center for Biotechnology Information.
 
@@ -696,7 +696,7 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - [peer-reviewed,journal] {GS:8} Reilly, K.M.A. & **Alperin, J.P.** Intermediation in Open Development: A Knowl edge Stewardship Approach. Global Media Journal: Canadian Edition, 6(1).
 
-- [peer-reviewed,journal] {GS:26} Carvalho Neto, S, Willinsky, J. & **Alperin, J.P.**^ Measuring, Rating, Supporting, and Strengthening Open Access Scholarly Publishing in Brazil. Education Policy Analysis Archives, 24(54). {doi.org/10.14507/epaa.24.2391}(link)
+- [peer-reviewed,journal] {GS:26} Carvalho Neto, S, Willinsky, J. & **Alperin, J.P.**^ Measuring, Rating, Supporting, and Strengthening Open Access Scholarly Publishing in Brazil. Education Policy Analysis Archives, 24(54). doi: 10.14507/epaa.24.2391
 
 - [peer-reviewed,conference] {GS:15} **Alperin, J.P.**^ Stranack, K. & Garnett, A. (2016, September 14). On the Peripheries of Scholarly Infrastructure: A look at the Journals Using Open Journal Systems. 21st International Conference on Science and Technology Indicators (STI Conference 2016), Valencia, Spain.
 
@@ -704,11 +704,11 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - [peer-reviewed,journal] {GS:71} **Alperin, J.P.**^ The Public Impact of Latin America’s Approach to Open Access. Doctoral Dissertation, Stanford University.
 
-- [peer-reviewed,journal] {GS:115} **Alperin, J.P.**^ Geographic variation in social media metrics: An analysis of Latin American journal articles, Aslib Journal of Information Management 67(3). {doi.org/10.1108/AJIM-12-2014-0176}(link)
+- [peer-reviewed,journal] {GS:115} **Alperin, J.P.**^ Geographic variation in social media metrics: An analysis of Latin American journal articles, Aslib Journal of Information Management 67(3). doi: 10.1108/AJIM-12-2014-0176
 
 - [book] {GS:118} **Alperin, J.P.**^ & Fischman, G.E. (Eds.). Made in Latin America: Open Access, Scholarly Journals, and Regional Innovations, Buenos Aires: CLACSO.
 
-- [chapter] {GS:9} ~~Shamash, K.~~, **Alperin, J.P.** & ~~Bordini, A.~~ Teaching Data Analysis in the Social Sciences: A Case Study with Article Level Metrics. In Atenas, J. &Havemann, L. (Eds) Open Data as an Open Education Resource, London: Open Knowledge Foundation. {doi.org/10.6084/m9.figshare.1590031}(link)
+- [chapter] {GS:9} ~~Shamash, K.~~, **Alperin, J.P.** & ~~Bordini, A.~~ Teaching Data Analysis in the Social Sciences: A Case Study with Article Level Metrics. In Atenas, J. &Havemann, L. (Eds) Open Data as an Open Education Resource, London: Open Knowledge Foundation. doi: 10.6084/m9.figshare.1590031
 
 - [book] {GS:93} **Alperin, J.P.**^ & Fischman, G.E. Scientific Journals Produced in Latin America. In **Alperin, J.P.** & Fischman, G.E. (eds.) (2015). Made in Latin America Open Access, Scholarly Journals, and Regional Innovations, Buenos Aires: CLACSO.
 
@@ -726,17 +726,17 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - [journal] **Alperin, J.P.**^ & Taylor, M. Science without borders: are technology and policy limiting internationalization? *ResearchTrends*. 37.
 
-- [peer-reviewed,conference] {GS:18} **Alperin, J.P.** Exploring altmetrics in an emerging country context. Altmetrics14 Workshop, WebScience Conference 2014. Bloomington, USA. {doi.org/10.6084/m9.figshare.1041797}(link)
+- [peer-reviewed,conference] {GS:18} **Alperin, J.P.** Exploring altmetrics in an emerging country context. Altmetrics14 Workshop, WebScience Conference 2014. Bloomington, USA. doi: 10.6084/m9.figshare.1041797
 
 ### 2013
 
-- [peer-reviewed,journal] {GS:32} **Alperin, J.P.**^ Brazil’s Exception to the World-Class University Movement. *Quality in Higher Education*, 19(2). {doi.org/10.1080/13538322.2013.802573}(link)
+- [peer-reviewed,journal] {GS:32} **Alperin, J.P.**^ Brazil’s Exception to the World-Class University Movement. *Quality in Higher Education*, 19(2). doi: 10.1080/13538322.2013.802573
 
-- [journal] {GS:101} **Alperin, J.P.**^ Ask Not What Altmetrics Can Do for You, but What Altmetrics Can Do for Developing Countries. Bulletin of the American Society for Information Science and Technology, 39. {doi.org/10.1002/bult.2013.1720390407}(link)
+- [journal] {GS:101} **Alperin, J.P.**^ Ask Not What Altmetrics Can Do for You, but What Altmetrics Can Do for Developing Countries. Bulletin of the American Society for Information Science and Technology, 39. doi: 10.1002/bult.2013.1720390407
 
 ### 2012
 
-- [journal] {GS:37} Willinsky, J. & **Alperin, J.P.** The Academic Ethics of Open Access to Research and Scholarship. *Ethics and Education*, 39. {doi.org/10.1080/17449642.2011.632716}(link)
+- [journal] {GS:37} Willinsky, J. & **Alperin, J.P.** The Academic Ethics of Open Access to Research and Scholarship. *Ethics and Education*, 39. doi: 10.1080/17449642.2011.632716
 
 ### 2011
 
@@ -750,31 +750,31 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 ### 2008
 
-- [peer-reviewed,journal] {GS:92} **Alperin, J.P.**^, Fischman, G.E., & Willinsky, J. “Open Access and Scholarly Publishing in Latin America: Ten flavours and a few reflections”. *Liinc em Revista*, 4. {10.18225/liinc.v4i2.269}(link)
+- [peer-reviewed,journal] {GS:92} **Alperin, J.P.**^, Fischman, G.E., & Willinsky, J. “Open Access and Scholarly Publishing in Latin America: Ten flavours and a few reflections”. *Liinc em Revista*, 4. doi: 10.18225/liinc.v4i2.269
 
 ### NON-TRADITIONAL OUTPUTS {.left}
 
 ### 2024
 
-- Butler, L-A; ~~Hare, M.~~, Schönfelder, N., Schares, E.; **Alperin, J.P.**, Haustein, S., “Open dataset of annual Article Processing Charges (APCs) of gold and hybrid journals published by Elsevier, Frontiers, MDPI, PLOS, Springer-Nature and Wiley 2019-2023”, V1, *Harvard Dataverse* {10.7910/DVN/CR1MMV}(link)
+- Butler, L-A; ~~Hare, M.~~, Schönfelder, N., Schares, E.; **Alperin, J.P.**, Haustein, S., “Open dataset of annual Article Processing Charges (APCs) of gold and hybrid journals published by Elsevier, Frontiers, MDPI, PLOS, Springer-Nature and Wiley 2019-2023”, V1, *Harvard Dataverse* doi: 10.7910/DVN/CR1MMV
 
-- Willinsky, J. & **Alperin, J.P.** The Platform Developers in a Federated Model of Diamond Open Access. *The Diamond Papers*. {https://thd.hypotheses.org/366}(link)
+- Willinsky, J. & **Alperin, J.P.** The Platform Developers in a Federated Model of Diamond Open Access. *The Diamond Papers*. [link](https://thd.hypotheses.org/366)
 
 ### 2023
 
 - ~~Khanna, S.~~, ~~Ball, J.~~, **Alperin, J.P.**, & Willinsky, J. Beyond Web of Science and Scopus there is already an open bibliodiverse world of research – We ignore it at our peril. *LSE Impact Blog*.
 
-- [dataset] ~~Shi, J.~~, Nason, M., Tullney, M., & **Alperin, J.P.** “Data for: Identifying Metadata Quality Issues Across Cultures”, {doi.org/10.7910/DVN/GZI7IA}(link), *Harvard Dataverse*
+- [dataset] ~~Shi, J.~~, Nason, M., Tullney, M., & **Alperin, J.P.** “Data for: Identifying Metadata Quality Issues Across Cultures”, *Harvard Dataverse*. doi: 10.7910/DVN/GZI7IA
 
-- [dataset] **Alperin, J.P.** ~~Fleerackers, A.~~ & Shores, K., “Data for: Unreviewed science in the news”, {doi.org/10.7910/DVN/ZHQUFD}(link), *Harvard Dataverse*.
+- [dataset] **Alperin, J.P.** ~~Fleerackers, A.~~ & Shores, K., “Data for: Unreviewed science in the news”, doi: 10.7910/DVN/ZHQUFD, *Harvard Dataverse*.
 
-- [dataset] **Alperin, J.P.** “Data on first- and second-Order citations for sample of COVID-19 research”, {doi.org/10.7910/DVN/OEKB01}(link), *Harvard Dataverse*
+- [dataset] **Alperin, J.P.** “Data on first- and second-Order citations for sample of COVID-19 research”, *Harvard Dataverse*. doi: 10.7910/DVN/OEKB01
 
 ### 2022
 
-- Botero, C., **Alperin, J.P.**, Clinio, A., Fressoli, M., & Gaitan, J. Comentarios a la Política Nacional de Ciencia Abierta N° 2201. https://web.karisma.org.co/comentarios-a-politica-nacional-de-ciencia-abierta-n-2201/
+- Botero, C., **Alperin, J.P.**, Clinio, A., Fressoli, M., & Gaitan, J. Comentarios a la Política Nacional de Ciencia Abierta N° 2201. [link](https://web.karisma.org.co/comentarios-a-politica-nacional-de-ciencia-abierta-n-2201/)
 
-- [dataset] Khanna, Saurabh; Raoni, Jonas; Smecher, Alec; Alperin, Juan Pablo; Ball, Jon; Willinsky, John, 2022, “Details of publications using software by the Public Knowledge Project”, {doi.org/10.7910/DVN/OCZNVY}(link), *Harvard Dataverse*
+- [dataset] Khanna, Saurabh; Raoni, Jonas; Smecher, Alec; Alperin, Juan Pablo; Ball, Jon; Willinsky, John, 2022, “Details of publications using software by the Public Knowledge Project”, *Harvard Dataverse*. doi: 10.7910/DVN/OCZNVY
 
 ### 2021
 
@@ -786,9 +786,9 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 ### 2020
 
-- [dataset] ~~Fleerackers, A.~~, Riedlinger, M., Moorhead, L., Ahmed, R. & **Alperin, J.P.**^ Replication Data for: Communicating scientific uncertainty in an age of COVID-19”, {doi.org/10.7910/DVN/WG9VDS}(link), *Harvard Dataverse*, V1
+- [dataset] ~~Fleerackers, A.~~, Riedlinger, M., Moorhead, L., Ahmed, R. & **Alperin, J.P.**^ Replication Data for: Communicating scientific uncertainty in an age of COVID-19”, *Harvard Dataverse*, V1. doi: 10.7910/DVN/WG9VDS
 
-- [dataset] Niles, M.T.; Schimanski, L.A.; McKiernan, E.C.; & **Alperin, J.P.**^ “Data for: Why we publish where we do”, {doi.org/10.7910/DVN/MRLHNO}(link), *Harvard Dataverse*
+- [dataset] Niles, M.T.; Schimanski, L.A.; McKiernan, E.C.; & **Alperin, J.P.**^ “Data for: Why we publish where we do”, *Harvard Dataverse*. doi: 10.7910/DVN/MRLHNO
 
 ### 2019
 
@@ -798,11 +798,11 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - **Alperin, J.P.**, ~~Morales, E.~~, McKiernan, E. & ScholCommLab. Academic review promotion and tenure documents promote a view of open access that is at odds with the wider academic community. *LSE Impact Blog*.
 
-- [dataset] ~~Enkhbayar, A.~~, Haustein, S. & **Alperin, J.P.**^, “Data for: How much research shared on Facebook is hidden from public view?”, {doi.org/10.7910/DVN/3CS5ES}(link), *Harvard Dataverse*
+- [dataset] ~~Enkhbayar, A.~~, Haustein, S. & **Alperin, J.P.**^, “Data for: How much research shared on Facebook is hidden from public view?”, doi: 10.7910/DVN/3CS5ES, *Harvard Dataverse*
 
-- [dataset] ~~Matthias, L.~~, ~~Fleerackers, A.~~, ~~Enkhbayar, A.~~, & **Alperin, J.P.**^ “Excerpts from popular online news media that mention opioid-related research in 2017-18”, {doi.org/10.7910/DVN/TAGFBL}(link), *Harvard Dataverse*
+- [dataset] ~~Matthias, L.~~, ~~Fleerackers, A.~~, ~~Enkhbayar, A.~~, & **Alperin, J.P.**^ “Excerpts from popular online news media that mention opioid-related research in 2017-18”, doi: 10.7910/DVN/TAGFBL, *Harvard Dataverse*
 
-- [dataset] ..Didegah, F..., Ghaseminik, Z. & **Alperin, J.P.**^ “Text data for comparing the language used in Wikipedia, the DiabeticConnect Forum, and Research Articles”, {doi.org/10.7910/DVN/X27DSE}(link), *Harvard Dataverse*
+- [dataset] ..Didegah, F..., Ghaseminik, Z. & **Alperin, J.P.**^ “Text data for comparing the language used in Wikipedia, the DiabeticConnect Forum, and Research Articles”, doi: 10.7910/DVN/X27DSE, *Harvard Dataverse*
 
 - ~~Fleerackers, A.~~, **Alperin, J.P.** & McKiernan, E. The “impact” of the Journal Impact Factor in the review, tenure, and promotion process. LSE Impact Blog.
 
@@ -814,13 +814,13 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - **Alperin, J.P.**^ & ~~Fleerackers, A.~~ Preliminary Findings from the Review, Promotion, and Tenure Study. ScholCommLab Blog
 
-- [dataset] **Alperin, J.P.**^, ~~Muñoz Nieves, C.~~, Schimanski, L., McKiernan, E.C., & Niles, M.T. Dataset: Terms and Concepts found in Tenure and Promotion Guidelines from the US and Canada, *Harvard Dataverse*, V1, {doi.org/10.7910/DVN/VY4TJE}(link)
+- [dataset] **Alperin, J.P.**^, ~~Muñoz Nieves, C.~~, Schimanski, L., McKiernan, E.C., & Niles, M.T. Dataset: Terms and Concepts found in Tenure and Promotion Guidelines from the US and Canada, *Harvard Dataverse*, V1. doi: 10.7910/DVN/VY4TJE
 
 ### 2017
 
 - **Alperin, J.P.**^ The number and proportion of freely available articles is growing; reaching 45% of the literature published in 2015. LSE Impact Blog.
 
-- [dataset] Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, ~~Matthias, L.~~, Norlander, B., Farley, A., West, J. & Haustein, S. Dataset from: The State of OA. *Zenodo*. {doi.org/10.5281/zenodo.837902}(link)
+- [dataset] Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, ~~Matthias, L.~~, Norlander, B., Farley, A., West, J. & Haustein, S. Dataset from: The State of OA. *Zenodo*. doi: 10.5281/zenodo.837902
 
 - **Alperin, J.P.**^ How does Open Source Software Support Knowledge Dissemination? Abierto al Público (Interamerican Development Bank Blog).
 
@@ -834,19 +834,19 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - **Alperin, J.P.**^ & ~~Bordini, A.~~ How to reach a wider audience for your research. *SciDevNet*.
 
-- **Alperin, J.P.**^, Babini, D., Chan, L., Gray, E., Guédon, J.C., Joseph, H., Rodrigues, E., Shearer, K., Vessuri, H. Open Access in Latin America: a Paragon for the Rest of the World, *The Winnower*. {doi.org/10.15200/winn.143982.27959}(link)
+- **Alperin, J.P.**^, Babini, D., Chan, L., Gray, E., Guédon, J.C., Joseph, H., Rodrigues, E., Shearer, K., Vessuri, H. Open Access in Latin America: a Paragon for the Rest of the World, *The Winnower*. doi: 10.15200/winn.143982.27959
 
-- **Alperin, J.P.**^, ~~Bordini, A.~~, ~~Pouyanne, S.~~ PLOS, Please publish our articles on Wednesdays: A look at altmetrics by day of publication, *The Winnower*. {doi.org/10.15200/winn.142972.29198}(link)
+- **Alperin, J.P.**^, ~~Bordini, A.~~, ~~Pouyanne, S.~~ PLOS, Please publish our articles on Wednesdays: A look at altmetrics by day of publication, *The Winnower*. doi: 10.15200/winn.142972.29198
 
 ### 2014
 
-- {GS:41} **Alperin, J.P.**^South America: Citation databases omit local journals (correspondence), *Nature*. {doi.org/10.1038/511155c}(link)
+- {GS:41} **Alperin, J.P.**^South America: Citation databases omit local journals (correspondence), *Nature*. doi: 10.1038/511155c
 
 - **Alperin, J.P.**^ Altmetrics could enable scholarship from developing countries to receive due recognition. *LSE Impact Blog*.
 
 ### 2011
 
-- **Alperin, J.P.**^ Academic Writing in a Global Context: The Politics and Practices of Publishing in English (book review). Journal of Scholarly Publishing, 42 (4), 545-549. {doi.org/10.1353/scp.2011.0034}(link)
+- **Alperin, J.P.**^ Academic Writing in a Global Context: The Politics and Practices of Publishing in English (book review). Journal of Scholarly Publishing, 42 (4), 545-549. doi: 10.1353/scp.2011.0034
 
 
 ## PRESENTATIONS
@@ -1015,7 +1015,7 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - [peer-reviewed,plenary] **Alperin, J.P.** (August 4). What is being published with OJS? and by whom? *PKP Scholarly Publishing Conference 2017*. Montreal, Canada.
 
-- [peer-reviewed] **Alperin, J.P.**, ~~Hanson, E.W~~, Shores, K., & Haustein, S. (July 28). Twitter bot surveys: A discrete choice experiment to increase response rates. *8th International Conference on Social Media and Society*. Toronto, Canada. doi.org/10.1145/3097286.3097313
+- [peer-reviewed] **Alperin, J.P.**, ~~Hanson, E.W~~, Shores, K., & Haustein, S. (July 28). Twitter bot surveys: A discrete choice experiment to increase response rates. *8th International Conference on Social Media and Society*. Toronto, Canada. doi: 10.1145/3097286.3097313
 
 - [invited] **Alperin, J.P.** (May 6). Studying annotations in the classroom. *iAnnotate Conference*. San Francisco, USA.
 
@@ -1035,7 +1035,7 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - [invited] **Alperin, J.P.** (May 9). Inherent Tensions in Adopting New Scholarly Practices. *61st Seminar on the Acquisition of Latin American Library Materials*. Charlottesville, USA.
 
-- [invited,plenary] **Alperin, J.P.** (April 19). Research is also for non-scholars: Lessons from Latin America. *FORCE16*. Portland, USA doi.org/10.6084/m9.figshare.3187551
+- [invited,plenary] **Alperin, J.P.** (April 19). Research is also for non-scholars: Lessons from Latin America. *FORCE16*. Portland, USA doi: 10.6084/m9.figshare.3187551
 
 - [invited] **Alperin, J.P.** (February 25). ¿Who benefits from Latin American research? *National Autonomous University of Mexico*. Mexico City, Mexico.
 
@@ -1055,7 +1055,7 @@ This edited volume offers a thorough exploration of the unique nature of Latin A
 
 - [invited] **Alperin, J.P.** (June 25). Students, Open Access & Libraries. *The SPARC-ACRL Forum on Emerging Issues in Scholarly Communication*. San Francisco, USA.
 
-- [invited] **Alperin, J.P.** & ~~Pouyanne, S.~~ (April 27). The Public Impact of Open Access: A survey of the SciELO research portal. *Advancing Research and Scholarship Conference (ARCSCon)*. Philadelphia, USA. doi.org/10.6084/m9.figshare.1391771
+- [invited] **Alperin, J.P.** & ~~Pouyanne, S.~~ (April 27). The Public Impact of Open Access: A survey of the SciELO research portal. *Advancing Research and Scholarship Conference (ARCSCon)*. Philadelphia, USA. doi: 10.6084/m9.figshare.1391771
 
 - [invited] **Alperin, J.P.** (January 8). Special Session: Critical DH (Digital Humanities) Interventions in Scholarly Communications and Publishing. *Modern Language Association Annual Meeting 2015*. Vancouver, Canada.
 
