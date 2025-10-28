@@ -215,9 +215,7 @@ O'Donnell, D. & **Alperin, J.P.** *Canada-LATAM Workshop on Open and Inclusive a
 Khanna, S., Ball, J., **Alperin, J.P.**, & Willinsky, J. (2022). Recalibrating the scope of scholarly publishing: A modest step in a vast decolonization process. *Quantitative Science Studies*, 3(4), 912–930.
 :::
 
-**significance**
-
-OJS is the world's most widely used scholarly journal management and publishing platform, with over 50,000 journals using it to publish their content. PKP is a research project that began over 25 years ago as an experiment about the impact that open source tools could have on the circulation of knowledge and on raising the quantity and quality of public knowledge. The impact of OJS and PKP on the academic community is enormous, especially in the Global South, where two thirds of the journals can be found. Every year, over 2 million articles are published using OJS, with around half of these in languages other than English.
+**significance:** OJS is the world's most widely used scholarly journal management and publishing platform, with over 50,000 journals using it to publish their content. PKP is a research project that began over 25 years ago as an experiment about the impact that open source tools could have on the circulation of knowledge and on raising the quantity and quality of public knowledge. The impact of OJS and PKP on the academic community is enormous, especially in the Global South, where two thirds of the journals can be found. Every year, over 2 million articles are published using OJS, with around half of these in languages other than English.
 
 ### (2) REVIEW, TENURE, AND PROMOTION PROJECT
 
@@ -225,9 +223,7 @@ OJS is the world's most widely used scholarly journal management and publishing 
 Set of 6 peer-reviewed publications and related infographic series from project analyzing Review, Tenure, and Promotion guidelines in the US and Canada.
 :::
 
-**significance**
-
-The six publications, resulting from a project that I secured funding for and led are significant because: i) they offer direct empirical evidence on what is found in a representative sample of RTP guidelines from Canada and the US; ii) the empirical approach helped the community move beyond speculation on what is incentivized; iii) the publications have circulated so broadly that they shaped conversations among those influencing scholarly communication tools, practices and policies.
+**significance:** The six publications, resulting from a project that I secured funding for and led are significant because: i) they offer direct empirical evidence on what is found in a representative sample of RTP guidelines from Canada and the US; ii) the empirical approach helped the community move beyond speculation on what is incentivized; iii) the publications have circulated so broadly that they shaped conversations among those influencing scholarly communication tools, practices and policies.
 
 ### (3) LARGE-SCALE STUDY OF OPEN ACCESS
 
@@ -235,9 +231,7 @@ The six publications, resulting from a project that I secured funding for and le
 Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, Matthias, L., Norlander, B., Farley, A., West, J. & Haustein, S. (2018). The State of OA: A large-scale analysis of the prevalence and impact of Open Access articles. *PeerJ*.
 :::
 
-**significance**
-
-This article was the first to use a new data source to establish on a large scale (using samples of over 100,000 articles) the extent of Open Access (OA) adoption across disciplines and publishers. In it, we identify that nearly half of what is currently published is OA, and shed light on a growing class of OA, in which articles are freely available from the publishers, but are not openly licensed, making the long-term availability of these articles unclear.
+**significance:** This article was the first to use a new data source to establish on a large scale (using samples of over 100,000 articles) the extent of Open Access (OA) adoption across disciplines and publishers. In it, we identify that nearly half of what is currently published is OA, and shed light on a growing class of OA, in which articles are freely available from the publishers, but are not openly licensed, making the long-term availability of these articles unclear.
 
 ### (4) EDITED VOLUME ON LATIN AMERICA'S OPEN ACCESS MODEL
 
@@ -245,9 +239,7 @@ This article was the first to use a new data source to establish on a large scal
 **Alperin, J.P.** & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access, Scholarly Journals, and Regional Innovations, Buenos Aires: CLACSO.
 :::
 
-**significance**
-
-This edited volume offers a thorough exploration of the unique nature of Latin America's approach to scholarly communication; an approach that results in nearly universal open access. The book is the culmination of my dissertation project, where I shed light on the value of Latin America's Approach to Open Access, including the surprising finding that ⅓ of downloads to Latin American journals come from non-academics.
+**significance:** This edited volume offers a thorough exploration of the unique nature of Latin America's approach to scholarly communication; an approach that results in nearly universal open access. The book is the culmination of my dissertation project, where I shed light on the value of Latin America's Approach to Open Access, including the surprising finding that ⅓ of downloads to Latin American journals come from non-academics.
 
 
 ## MEDIA COVERAGE
