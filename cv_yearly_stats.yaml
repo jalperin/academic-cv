@@ -1,0 +1,225 @@
+# CV Yearly Statistics
+summary:
+  scholarly_pubs: 111
+  peer_reviewed: 61
+  total_publications: 115
+
+presentation_summary:
+  total: 106
+  invited: 84
+  keynote: 20
+  plenary: 9
+  peer_reviewed: 20
+
+yearly_stats:
+  2025:
+    total: 3
+    peer_reviewed: 3
+    traditional: 3
+    nontraditional: 0
+  2024:
+    total: 13
+    peer_reviewed: 10
+    traditional: 11
+    nontraditional: 2
+  2023:
+    total: 8
+    peer_reviewed: 4
+    traditional: 4
+    nontraditional: 4
+  2022:
+    total: 11
+    peer_reviewed: 5
+    traditional: 9
+    nontraditional: 2
+  2021:
+    total: 8
+    peer_reviewed: 5
+    traditional: 5
+    nontraditional: 3
+  2020:
+    total: 9
+    peer_reviewed: 6
+    traditional: 7
+    nontraditional: 2
+  2019:
+    total: 11
+    peer_reviewed: 3
+    traditional: 4
+    nontraditional: 7
+  2018:
+    total: 13
+    peer_reviewed: 8
+    traditional: 9
+    nontraditional: 4
+  2017:
+    total: 5
+    peer_reviewed: 1
+    traditional: 2
+    nontraditional: 3
+  2016:
+    total: 5
+    peer_reviewed: 3
+    traditional: 3
+    nontraditional: 2
+  2015:
+    total: 11
+    peer_reviewed: 4
+    traditional: 8
+    nontraditional: 3
+  2014:
+    total: 6
+    peer_reviewed: 1
+    traditional: 4
+    nontraditional: 2
+  2013:
+    total: 2
+    peer_reviewed: 1
+    traditional: 2
+    nontraditional: 0
+  2012:
+    total: 1
+    peer_reviewed: 0
+    traditional: 1
+    nontraditional: 0
+  2011:
+    total: 3
+    peer_reviewed: 2
+    traditional: 2
+    nontraditional: 1
+  2010:
+    total: 1
+    peer_reviewed: 1
+    traditional: 1
+    nontraditional: 0
+  2009:
+    total: 0
+    peer_reviewed: 0
+    traditional: 0
+    nontraditional: 0
+  2008:
+    total: 1
+    peer_reviewed: 1
+    traditional: 1
+    nontraditional: 0
+  non_numeric:
+    total: 4
+    peer_reviewed: 3
+    traditional: 4
+    nontraditional: 0
+
+yearly_presentation_stats:
+  2025:
+    total: 2
+    invited: 2
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 0
+  2024:
+    total: 8
+    invited: 8
+    keynote: 2
+    plenary: 0
+    peer_reviewed: 0
+  2023:
+    total: 11
+    invited: 11
+    keynote: 2
+    plenary: 1
+    peer_reviewed: 0
+  2022:
+    total: 9
+    invited: 9
+    keynote: 2
+    plenary: 2
+    peer_reviewed: 0
+  2021:
+    total: 7
+    invited: 5
+    keynote: 2
+    plenary: 1
+    peer_reviewed: 2
+  2020:
+    total: 3
+    invited: 1
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 2
+  2019:
+    total: 12
+    invited: 9
+    keynote: 6
+    plenary: 0
+    peer_reviewed: 3
+  2018:
+    total: 14
+    invited: 7
+    keynote: 2
+    plenary: 1
+    peer_reviewed: 7
+  2017:
+    total: 11
+    invited: 9
+    keynote: 1
+    plenary: 2
+    peer_reviewed: 1
+  2016:
+    total: 8
+    invited: 8
+    keynote: 2
+    plenary: 1
+    peer_reviewed: 0
+  2015:
+    total: 8
+    invited: 7
+    keynote: 1
+    plenary: 0
+    peer_reviewed: 1
+  2014:
+    total: 3
+    invited: 3
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 0
+  2013:
+    total: 4
+    invited: 1
+    keynote: 0
+    plenary: 1
+    peer_reviewed: 2
+  2012:
+    total: 2
+    invited: 1
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 1
+  2011:
+    total: 1
+    invited: 0
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 1
+  2010:
+    total: 0
+    invited: 0
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 0
+  2009:
+    total: 3
+    invited: 3
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 0
+  2008:
+    total: 0
+    invited: 0
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 0
+  non_numeric:
+    total: 0
+    invited: 0
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 0

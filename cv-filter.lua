@@ -64,6 +64,188 @@ local icons = {
 -- Store metadata for summary
 local summary_data = {}
 local presentation_summary = {}
+local yearly_stats = {}
+local yearly_presentation_stats = {}
+
+-- Helper function to load YAML file content
+local function load_yaml_file(filename)
+  local file = io.open(filename, "r")
+  if not file then return nil end
+  local content = file:read("*all")
+  file:close()
+  return content
+end
+
+-- Simple YAML parser for yearly stats (specific to our format)
+local function parse_yearly_stats_yaml(content)
+  local stats = {}
+  local pres_stats = {}
+  local current_year = nil
+  local in_presentations = false
+  
+  for line in content:gmatch("[^\r\n]+") do
+    line = line:gsub("^%s+", ""):gsub("%s+$", "")  -- trim
+    
+    -- Check for section headers
+    if line:match("^yearly_presentation_stats:$") then
+      in_presentations = true
+      current_year = nil
+    elseif line:match("^yearly_stats:$") then
+      in_presentations = false
+      current_year = nil
+    -- Parse year headers
+    elseif line:match("^(%d+):$") then
+      local year_match = line:match("^(%d+):$")
+      current_year = tonumber(year_match)
+      if in_presentations then
+        pres_stats[current_year] = {}
+      else
+        stats[current_year] = {}
+      end
+    elseif line:match("^non_numeric:$") then
+      current_year = "non_numeric"
+      if in_presentations then
+        pres_stats["non_numeric"] = {}
+      else
+        stats["non_numeric"] = {}
+      end
+    -- Parse stat values
+    elseif current_year and line:match(":") then
+      local key, value = line:match("^([^:]+):%s*(.*)$")
+      if key and value then
+        key = key:gsub("^%s+", ""):gsub("%s+$", "")
+        value = value:gsub("^%s+", ""):gsub("%s+$", "")
+        if tonumber(value) then
+          if in_presentations then
+            pres_stats[current_year][key] = tonumber(value)
+          else
+            stats[current_year][key] = tonumber(value)
+          end
+        else
+          if in_presentations then
+            pres_stats[current_year][key] = value
+          else
+            stats[current_year][key] = value
+          end
+        end
+      end
+    end
+  end
+  
+  return stats, pres_stats
+end
+
+-- Helper function to calculate filtered summary from yearly stats
+local function calculate_filtered_summary()
+  if not next(yearly_stats) then return end
+  
+  local total_pubs = 0
+  local total_peer_reviewed = 0
+  
+  -- If no date filtering, include everything including non_numeric
+  if not date_filter_enabled then
+    for year, stats in pairs(yearly_stats) do
+      if stats.total then
+        total_pubs = total_pubs + stats.total
+      end
+      if stats.peer_reviewed then
+        total_peer_reviewed = total_peer_reviewed + stats.peer_reviewed
+      end
+    end
+  else
+    -- With date filtering, calculate only for years in range + non_numeric (treated as current year)
+    for year, stats in pairs(yearly_stats) do
+      local include_year = false
+      
+      if year == "non_numeric" then
+        -- Treat non_numeric as current year for filtering
+        include_year = year_in_range(current_year)
+      elseif type(year) == "number" then
+        include_year = year_in_range(year)
+      end
+      
+      if include_year and stats.total then
+        total_pubs = total_pubs + stats.total
+        if stats.peer_reviewed then
+          total_peer_reviewed = total_peer_reviewed + stats.peer_reviewed
+        end
+      end
+    end
+  end
+  
+  -- Update summary data with calculated values
+  summary_data['scholarly_pubs'] = tostring(total_pubs)
+  summary_data['peer_reviewed'] = tostring(total_peer_reviewed)
+end
+
+-- Helper function to calculate filtered presentation summary from yearly presentation stats
+local function calculate_filtered_presentation_summary()
+  if not next(yearly_presentation_stats) then return end
+  
+  local total_presentations = 0
+  local total_invited = 0
+  local total_keynote = 0
+  local total_plenary = 0
+  local total_peer_reviewed_presentations = 0
+  
+  -- If no date filtering, include everything including non_numeric
+  if not date_filter_enabled then
+    for year, stats in pairs(yearly_presentation_stats) do
+      if stats.total then
+        total_presentations = total_presentations + stats.total
+      end
+      if stats.invited then
+        total_invited = total_invited + stats.invited
+      end
+      if stats.keynote then
+        total_keynote = total_keynote + stats.keynote
+      end
+      if stats.plenary then
+        total_plenary = total_plenary + stats.plenary
+      end
+      if stats.peer_reviewed then
+        total_peer_reviewed_presentations = total_peer_reviewed_presentations + stats.peer_reviewed
+      end
+    end
+  else
+    -- With date filtering, calculate only for years in range + non_numeric (treated as current year)
+    for year, stats in pairs(yearly_presentation_stats) do
+      local include_year = false
+      
+      if year == "non_numeric" then
+        -- Treat non_numeric as current year for filtering
+        include_year = year_in_range(current_year)
+      elseif type(year) == "number" then
+        include_year = year_in_range(year)
+      end
+      
+      if include_year then
+        if stats.total then
+          total_presentations = total_presentations + stats.total
+        end
+        if stats.invited then
+          total_invited = total_invited + stats.invited
+        end
+        if stats.keynote then
+          total_keynote = total_keynote + stats.keynote
+        end
+        if stats.plenary then
+          total_plenary = total_plenary + stats.plenary
+        end
+        if stats.peer_reviewed then
+          total_peer_reviewed_presentations = total_peer_reviewed_presentations + stats.peer_reviewed
+        end
+      end
+    end
+  end
+  
+  -- Update presentation summary data with calculated values
+  presentation_summary['total'] = tostring(total_presentations)
+  presentation_summary['invited'] = tostring(total_invited)
+  presentation_summary['keynote'] = tostring(total_keynote)
+  presentation_summary['plenary'] = tostring(total_plenary)
+  presentation_summary['peer-reviewed'] = tostring(total_peer_reviewed_presentations)
+end
 
 -- Global variable for sidebar content (research interests)
 local sidebar_content = ''
@@ -103,7 +285,18 @@ end
 
 -- Helper function to create summary box
 function create_summary_box(data, labels)
-  local html = '    <div class="summary-title">SINCE 2019 SUMMARY</div>\n'
+  local title = "SINCE 2019 SUMMARY"
+  if date_filter_enabled then
+    if filter_start_year and filter_end_year then
+      title = filter_start_year .. "–" .. filter_end_year .. " SUMMARY"
+    elseif filter_start_year then
+      title = "SINCE " .. filter_start_year .. " SUMMARY"
+    elseif filter_end_year then
+      title = "THROUGH " .. filter_end_year .. " SUMMARY"
+    end
+  end
+  
+  local html = '    <div class="summary-title">' .. title .. '</div>\n'
   html = html .. '    <div class="summary-box">\n'
   html = html .. '      <div class="display-flex justify-content-around">\n'
   
@@ -697,8 +890,8 @@ function BulletList(el)
       -- Wavy for ~~text~~
       content = content:gsub('~~([^~]+)~~', '<span class="wavy-text">%1</span>')
       -- Dotted for ..text.. (handle both dots and ellipsis)
-      content = content:gsub('%.%.([^%.…]+)%.%.', '<span class="dotted-text">%1</span>')
-      content = content:gsub('%.%.([^%.…]+)…', '<span class="dotted-text">%1</span>')
+      content = content:gsub('%.%.([^%.â€¦]+)%.%.', '<span class="dotted-text">%1</span>')
+      content = content:gsub('%.%.([^%.â€¦]+)â€¦', '<span class="dotted-text">%1</span>')
       -- Corresponding author ^
       content = content:gsub('%^', '<img src="Links/juanicons-colour-final-05.png" class="super-mail"/>')
       -- Blue text `text`
@@ -852,6 +1045,13 @@ function Pandoc(doc)
     date_filter_enabled = true
   end
   
+  -- Load yearly stats from YAML file
+  local yaml_content = load_yaml_file("cv_yearly_stats.yaml")
+  if yaml_content then
+    yearly_stats, yearly_presentation_stats = parse_yearly_stats_yaml(yaml_content)
+    io.stderr:write("📊 Loaded yearly stats for dynamic summary calculation\n")
+  end
+  
   -- Process metadata FIRST before doing anything else
   if doc.meta.summary then
     for k, v in pairs(doc.meta.summary) do
@@ -859,17 +1059,25 @@ function Pandoc(doc)
     end
   end
   
+  -- Calculate filtered summary from yearly stats (overwrites static values if filtering is enabled)
+  calculate_filtered_summary()
+  
+  -- Process presentation metadata 
+  if doc.meta.presentation_summary then
+    for k, v in pairs(doc.meta.presentation_summary) do
+      presentation_summary[k] = pandoc.utils.stringify(v)
+    end
+  end
+  
+  -- Calculate filtered presentation summary from yearly presentation stats
+  calculate_filtered_presentation_summary()
+  
   -- Auto-update Google Scholar data from gs_author_stats YAML if available
   if doc.meta.total_citations_5y then
     summary_data['citations'] = format_with_commas(pandoc.utils.stringify(doc.meta.total_citations_5y))
   end
   if doc.meta.h_index_5y then
     summary_data['h_index'] = pandoc.utils.stringify(doc.meta.h_index_5y)
-  end
-  if doc.meta.presentation_summary then
-    for k, v in pairs(doc.meta.presentation_summary) do
-      presentation_summary[k] = pandoc.utils.stringify(v)
-    end
   end
   
   -- Check if we have sidebar in metadata and build it

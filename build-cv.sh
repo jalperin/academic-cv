@@ -74,7 +74,39 @@ fi
 echo -e "${YELLOW}Input:${NC}  $INPUT"
 echo -e "${YELLOW}Output:${NC} $OUTPUT"
 
-# Build the CV
+# Build the CV in two passes
+# Pass 1: Generate yearly stats
+echo -e "${YELLOW}Pass 1: Generating yearly statistics...${NC}"
+STATS_CMD="pandoc $INPUT"
+
+# Add date filtering metadata if specified
+if [ -n "$START_YEAR" ]; then
+    STATS_CMD="$STATS_CMD --metadata filter_start_year=$START_YEAR"
+fi
+if [ -n "$END_YEAR" ]; then
+    STATS_CMD="$STATS_CMD --metadata filter_end_year=$END_YEAR"
+fi
+
+# Generate stats only
+STATS_CMD="$STATS_CMD --lua-filter=cv-stats-filter.lua -t json -o /dev/null"
+
+# Execute stats generation
+eval $STATS_CMD
+
+if [ $? -ne 0 ]; then
+    echo -e "${RED}✗ Stats generation failed${NC}"
+    exit 1
+fi
+
+# Check if stats file was generated
+if [ ! -f "cv_yearly_stats.yaml" ]; then
+    echo -e "${RED}✗ Stats file not generated${NC}"
+    exit 1
+fi
+
+echo -e "${YELLOW}Pass 2: Building CV with statistics...${NC}"
+
+# Pass 2: Build CV with stats
 PANDOC_CMD="pandoc $INPUT"
 
 # Add date filtering metadata if specified
@@ -85,8 +117,8 @@ if [ -n "$END_YEAR" ]; then
     PANDOC_CMD="$PANDOC_CMD --metadata filter_end_year=$END_YEAR"
 fi
 
-# Add remaining options
-PANDOC_CMD="$PANDOC_CMD --lua-filter=cv-gs-filter.lua --lua-filter=cv-filter.lua --template=cv-template.html --metadata-file=gs_author_stats.yaml --standalone -f markdown-strikeout-subscript -o $OUTPUT"
+# Add remaining options (without stats filter since we already ran it)
+PANDOC_CMD="$PANDOC_CMD --lua-filter=cv-gs-filter.lua --lua-filter=cv-filter.lua --template=cv-template.html --metadata-file=gs_author_stats.yaml --metadata-file=cv_yearly_stats.yaml --standalone -f markdown-strikeout-subscript -o $OUTPUT"
 
 # Execute the command
 eval $PANDOC_CMD
@@ -95,7 +127,7 @@ if [ $? -eq 0 ]; then
     # Post-process to remove empty sections if date filtering was used
     if [ -n "$START_YEAR" ] || [ -n "$END_YEAR" ]; then
         if [ -f "post_process_cv.py" ]; then
-            echo -e "${YELLOW}Post-processing to remove empty sections...${NC}"
+            # echo -e "${YELLOW}Post-processing to remove empty sections...${NC}"
             python3 post_process_cv.py "$OUTPUT" "${OUTPUT}.tmp"
             if [ $? -eq 0 ]; then
                 mv "${OUTPUT}.tmp" "$OUTPUT"
@@ -106,10 +138,10 @@ if [ $? -eq 0 ]; then
         fi
     fi
     
-    echo -e "${GREEN}âœ… Successfully built: $OUTPUT${NC}"
+    echo -e "${GREEN}Ã¢Å“â€¦ Successfully built: $OUTPUT${NC}"
     SIZE=$(du -h "$OUTPUT" | cut -f1)
     echo -e "${YELLOW}File size:${NC} $SIZE"
 else
-    echo -e "${RED}âŒ Build failed${NC}"
+    echo -e "${RED}Ã¢ÂÅ’ Build failed${NC}"
     exit 1
 fi
