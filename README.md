@@ -72,9 +72,9 @@ Generate targeted CVs for specific time periods:
 
 ### Credits
 
-- **Code Author**: [Your Name]
+- **Code Author**: Juan Pablo Alperin
 - **AI Assistant**: Claude (Anthropic) - assisted with documentation and code organization
-- **Original Design**: [Fleck Creative Studio](https://fleckcreativestudio.com/)
+- **Original Design**: [Fleck Creative Studio](https://fleckcreativestudio.com/) 
 - **InDesign to HTML/CSS Migration**: Angelo Paolo Q. from [Upwork](https://www.upwork.com/freelancers/~01aae9ff826a944971/?mp_source=share)
 
 ### License

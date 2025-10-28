@@ -151,14 +151,13 @@ Use special markup to indicate relationship:
 
 **Formatting Rules:**
 - `**Your Name**` - Your name (bold)
-- `~~Collaborator Name~~` - Lab members/direct collaborators (strikethrough styling, but displays specially)
-- `..External Author..` - External collaborators (special styling)
+- `~~Student~~` - Student co-authors (markdown strikethrough styling, but displays as wavy underline)
+- `..Postdoc..` - Postdoctoral Fellows (dotted underline)
 
 ### Author Order Indicators
 Use symbols to indicate contribution:
 ```markdown
-- **Your Name**^ - Corresponding author (add ^ after name)
-- ~~Student Name~~ - Student first author
+- any name^ - Corresponding author (add ^ after name)
 ```
 
 ## Google Scholar Citations
@@ -167,8 +166,7 @@ Use symbols to indicate contribution:
 Reference citations using Google Scholar publication IDs:
 
 ```markdown
-{GS:paper_id} - Automatically replaced with citation count
-{GS:abc123def} - Uses actual Google Scholar publication ID
+{GS:GoogleScholar:PaperId} - Is replaced with GS citation count (if scraped)
 {GS:25} - Already a number, displays as-is
 ```
 
