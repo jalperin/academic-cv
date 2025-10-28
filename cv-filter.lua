@@ -890,8 +890,8 @@ function BulletList(el)
       -- Wavy for ~~text~~
       content = content:gsub('~~([^~]+)~~', '<span class="wavy-text">%1</span>')
       -- Dotted for ..text.. (handle both dots and ellipsis)
-      content = content:gsub('%.%.([^%.â€¦]+)%.%.', '<span class="dotted-text">%1</span>')
-      content = content:gsub('%.%.([^%.â€¦]+)â€¦', '<span class="dotted-text">%1</span>')
+      content = content:gsub('%.%.([^%.…]+)%.%.', '<span class="dotted-text">%1</span>')
+      content = content:gsub('%.%.([^%.…]+)…', '<span class="dotted-text">%1</span>')
       -- Corresponding author ^
       content = content:gsub('%^', '<img src="Links/juanicons-colour-final-05.png" class="super-mail"/>')
       -- Blue text `text`

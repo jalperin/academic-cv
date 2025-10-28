@@ -88,7 +88,7 @@ if [ -n "$END_YEAR" ]; then
 fi
 
 # Generate stats only
-STATS_CMD="$STATS_CMD --lua-filter=cv-stats-filter.lua -t json -o /dev/null"
+STATS_CMD="$STATS_CMD --lua-filter=cv-stats-filter.lua -f markdown-strikeout-subscript --to=plain -o /dev/null"
 
 # Execute stats generation
 eval $STATS_CMD
