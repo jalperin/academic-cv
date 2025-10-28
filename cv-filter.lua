@@ -485,6 +485,9 @@ function Header(el)
     local is_education = content:upper() == 'EDUCATION'
     local is_prof_appts = content:upper() == 'PROFESSIONAL APPOINTMENTS'
     
+    -- Track current section for p-tag removal
+    current_section = content
+    
     -- Close publications/presentations wrapper if this is a major section
     if in_publications and is_major then
       closing = closing .. '    </div>\n  </div>\n' .. create_legend() .. '</div>\n\n'
@@ -507,7 +510,12 @@ function Header(el)
       in_publications = true
       current_year_section = "valid"  -- Reset year tracking for new section
       local html = closing .. '<h2 class="section-heading margin-top-30 margin-bottom-5">' .. content .. '</h2>\n'
-      html = html .. '<div class="section-react"></div>\n\n'
+      -- Conditionally add section-react div
+      if not el.classes:includes('no-heading-underline') then
+        html = html .. '<div class="section-react"></div>\n\n'
+      else
+        html = html .. '\n'
+      end
       html = html .. '<div class="display-flex">\n'
       html = html .. '  <div class="width-80">\n'
       
@@ -529,7 +537,12 @@ function Header(el)
       in_presentations = true
       current_year_section = "valid"  -- Reset year tracking for new section
       local html = closing .. '<h2 class="section-heading margin-top-30 margin-bottom-5">' .. content .. '</h2>\n'
-      html = html .. '<div class="section-react"></div>\n\n'
+      -- Conditionally add section-react div
+      if not el.attributes['no-react'] then
+        html = html .. '<div class="section-react"></div>\n\n'
+      else
+        html = html .. '\n'
+      end
       html = html .. '<div class="display-flex">\n'
       html = html .. '  <div class="width-80">\n'
       
@@ -549,17 +562,18 @@ function Header(el)
     else
       -- Regular section headings
       if is_education then
-        -- EDUCATION: Just render H2, let markdown section-box handle it
-        return pandoc.RawBlock('html', closing .. '<h2 class="section-heading">' .. content .. '</h2>\n<div class="section-react"></div>')
+        -- EDUCATION: Just render H2 (no section-react since it's in section-box)
+        return pandoc.RawBlock('html', closing .. '<h2 class="section-heading">' .. content .. '</h2>')
       elseif is_prof_appts then
-        -- PROFESSIONAL APPOINTMENTS: Just render H2 with margin, stay in same section-box
-        return pandoc.RawBlock('html', '<h2 class="section-heading margin-top-30">' .. content .. '</h2>\n<div class="section-react"></div>')
+        -- PROFESSIONAL APPOINTMENTS: Just render H2 with margin (no section-react since it's in section-box)
+        return pandoc.RawBlock('html', '<h2 class="section-heading margin-top-30">' .. content .. '</h2>')
       else
-        -- All other sections: regular H2 with section-react
+        -- All other sections: regular H2 with conditional section-react
+        local react_div = el.classes:includes('no-heading-underline') and '' or '\n<div class="section-react"></div>'
         if content:upper() == 'AWARDS' or content:upper() == 'GRANT FUNDING' then
-          return pandoc.RawBlock('html', closing .. '<h2 class="section-heading margin-top-30 margin-bottom-5">' .. content .. '</h2>\n<div class="section-react"></div>')
+          return pandoc.RawBlock('html', closing .. '<h2 class="section-heading margin-top-30 margin-bottom-5">' .. content .. '</h2>' .. react_div)
         else
-          return pandoc.RawBlock('html', closing .. '<h2 class="section-heading">' .. content .. '</h2>\n<div class="section-react"></div>')
+          return pandoc.RawBlock('html', closing .. '<h2 class="section-heading">' .. content .. '</h2>' .. react_div)
         end
       end
     end
