@@ -585,8 +585,8 @@ function Header(el)
           else
             current_year_section = year  -- Track current valid year
           end
-        -- If end year is not current year, remove non-digit subsections
-        elseif filter_end_year ~= current_year and not content:match("%d") then
+        -- If end year is not current year, remove non-digit subsections (except .left headings like NON-TRADITIONAL OUTPUTS)
+        elseif filter_end_year ~= current_year and not content:match("%d") and not el.classes:includes('left') then
           current_year_section = nil  -- Mark non-year sections as filtered when end_year != current
           return pandoc.RawBlock('html', '')  -- Skip non-year subsections
         else
