@@ -285,7 +285,7 @@ end
 
 -- Helper function to create summary box
 function create_summary_box(data, labels)
-  local title = "SINCE 2019 SUMMARY"
+  local title = "SUMMARY"
   if date_filter_enabled then
     if filter_start_year and filter_end_year then
       title = filter_start_year .. "–" .. filter_end_year .. " SUMMARY"
@@ -582,7 +582,7 @@ function Header(el)
     local content = pandoc.utils.stringify(el.content)
     
     -- Skip the duplicate SINCE 2019 SUMMARY in PRESENTATIONS markdown
-    if content == "SINCE 2019 SUMMARY" and in_presentations then
+    if content == "SUMMARY" and in_presentations then
       return pandoc.RawBlock('html', '')
     end
     
@@ -1088,10 +1088,10 @@ function Pandoc(doc)
   
   -- Auto-update Google Scholar data from gs_author_stats YAML if available
   if doc.meta.total_citations_5y then
-    summary_data['citations'] = format_with_commas(pandoc.utils.stringify(doc.meta.total_citations_5y))
+    summary_data['citations'] = format_with_commas(pandoc.utils.stringify(doc.meta.total_citations))
   end
   if doc.meta.h_index_5y then
-    summary_data['h_index'] = pandoc.utils.stringify(doc.meta.h_index_5y)
+    summary_data['h_index'] = pandoc.utils.stringify(doc.meta.h_index)
   end
   
   -- Check if we have sidebar in metadata and build it
