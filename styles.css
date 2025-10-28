@@ -597,3 +597,36 @@ h3 {
   height: 1px;
   bottom: 5px;
 }
+
+/* Print Styles */
+@media print {
+  /* Avoid breaks inside content items and sections */
+  .content-item,
+  .section-box,
+  .grant-item,
+  .media-item,
+  .swap-item {
+    break-inside: avoid;
+    page-break-inside: avoid; /* fallback */
+  }
+  
+  /* Force page breaks before major sections */
+  h2.section-heading::before {
+    content: "";
+    display: block;
+    height: 0;
+    break-before: auto;
+  }
+  
+  /* Don't break between year markers and content */
+  .right-mark {
+    break-after: avoid;
+    page-break-after: avoid; /* fallback */
+  }
+  
+  /* Keep small headings with following content */
+  .small-heading {
+    break-after: avoid;
+    page-break-after: avoid; /* fallback */
+  }
+}
