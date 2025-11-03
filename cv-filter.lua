@@ -522,7 +522,7 @@ function Header(el)
       -- Add summary box
       local pub_labels = {
         {'scholarly_pubs', 'peer_reviewed', 'SCHOLARLY PUBLICATIONS', 'PEER REVIEWED'},
-        {'citations', 'h_index', 'GOOGLE SCHOLARLY CITATIONS', 'GOOGLE SCHOLARLY H-INDEX'}
+        {'citations', 'h_index', 'GOOGLE SCHOLAR CITATIONS', 'GOOGLE SCHOLAR H-INDEX'}
       }
       html = html .. create_summary_box(summary_data, pub_labels)
       
