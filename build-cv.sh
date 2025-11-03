@@ -12,7 +12,7 @@ NC='\033[0m' # No Color
 
 # Default values
 INPUT="cv.md"
-OUTPUT="cv.html"
+OUTPUT="index.html"
 START_YEAR=""
 END_YEAR=""
 

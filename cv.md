@@ -7,15 +7,6 @@ gs_author_id: QW-eo0MAAAAJ
 gs_csv: gs_citations.csv
 gs_author_stats: gs_author_stats.yaml
 gs_delay_between_requests: 2
-summary:
-  scholarly_pubs: 43
-  peer_reviewed: 3
-presentation_summary:
-  total: 57
-  invited: 43
-  plenary: 5
-  keynote: 14
-  peer-reviewed: 10
 research-interests:
   - scholarly communication
   - public's use of research
@@ -606,7 +597,7 @@ Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, Matthias, L., Norland
 
 - [journal] **Alperin, J.P.**^ De la tecnocracia a la equidad y la sustentabilidad: por otraciencia abierta. Revista Eletrônica de Comunicação, Informação & Inovação em Saúde. doi: 10.29397/reciis.v16i4.3524
 
-- [peer-reviewed,journal] {GS:33} ~~Khanna, S., Ball, J.,~~ **Alperin, J.P.** & WIllinsky, J. Recalibrating the scope of scholarly publishing: a modest step in a vast decolonization process. *Quantiative Science Studies*. doi: 10.1162/qss_a_00228
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:WC9gN4BGCRcC} ~~Khanna, S., Ball, J.,~~ **Alperin, J.P.** & WIllinsky, J. Recalibrating the scope of scholarly publishing: a modest step in a vast decolonization process. *Quantiative Science Studies*. doi: 10.1162/qss_a_00228
 
 - [peer-reviewed,journal] {GS:14} ~~Fleerackers, A.~~, Moorhead, L., Maggio, L., ~~Fagan, K.~~ & **Alperin, J.P.** Science in motion: A qualitative analysis of journalists’ use and perception of preprints. *PLOS One*. doi: 10.1371/journal.pone.0277769
 
