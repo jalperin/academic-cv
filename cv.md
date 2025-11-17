@@ -1,7 +1,7 @@
 ---
 title: Juan Pablo Alperin - CV
 name: Juan Pablo Alperin
-subtitle: Associate Professor
+subtitle: Professor
 sidebar: true
 gs_author_id: QW-eo0MAAAAJ
 gs_csv: gs_citations.csv
