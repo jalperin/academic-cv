@@ -835,8 +835,27 @@ Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, Matthias, L., Norland
 ## PRESENTATIONS
 
 ### 2025
+- [invited] **Alperin, J.P.** (Nov 17). How technology is being used to support publication of research. *COPE Publication Integrity Week*. Online. 
+
+- [invited] **Alperin, J.P.** (Nov 3). Oportunidades para la transformación digital: Una mirada hacía el futuro. *Semana de la Ciencia Universidad Complutense de Madrid*. Online. 
+
+- [invited,keynote] **Alperin, J.P.** (Oct 24). Who Owns Our Knowledge? Scholar-Led Infrastructures and the Future of Publishing. *Indiana University Open Access Week*. Online. 
+
+- [invited] **Alperin, J.P.**, Haustein, S. (Oct 23). Who Owns our Knowledge? From Closed to Open Infrastructures for Research Assessment and Metascience. *University of Ottawa Open Access Week*. Online. 
+
+- [invited,keynote] **Alperin, J.P.** (Oct 20). Who owns our knowledge? Rethinking Publishing in a Scholar-Led World. *University of Northern Iowa Open Access Week*. Online. 
+
+- [invited] **Alperin, J.P.** et al. (Sept 15). ORE Panel: Open Research Europe: A Catalyst towards Equitable Publishing. *Open Science Fair*. Zurich, Switzerland. 
+
+- [invited,keynote] **Alperin, J.P.** (Sept 10). Building Community Infrastructure for Collaborative Metadata Enrichment. *Swiss Year of Scientometrics*. Zurich, Switzerland.
+
+- [invited] **Alperin, J.P.** et al. (May 15). VOICES: The Value of Openness, Inclusion, Communication and Engagement for Science in a Post-Pandemic World. *Recovery, Renewal and Resilience in a Post-Pandemic World*. Online.
+
+- Buttrick, A., **Alperin, J.P.**, Chodacki, J. (Apr 15). COMET: Building Community Infrastructure for Persistent Identifier Metadata Enrichment. *CWTS Information & Openness focal area*. Online.
 
 - [invited] **Alperin, J.P.**, McDonald, N., Eaton, S., Motter, K. (Feb 26). Maintaining trust in published scientific research. *Canadian Science Policy Centre*. Online.
+
+- [invited] **Alperin, J.P.**, ..Céspedes, L..., & Butler, L-A. (Feb 19). Student Journals and Open Access: An Important Part of a Big Movement. *Student Journal Forum*. Online.
 
 - [invited] **Alperin, J.P.**, ..Céspedes, L..., & Butler, L-A. (Feb 19). Student Journals and Open Access: An Important Part of a Big Movement. *Student Journal Forum*. Online.
 
