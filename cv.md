@@ -539,16 +539,15 @@ Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, Matthias, L., Norland
 
 ### UNDER REVIEW
 
-- [journal] van Bellen, S., **Alperin, J.P.**, & Larivière, V. (2024). The oligopoly of academic publishers persists in exclusive database. *arXiv.* arXiv:2406.17893.
-
 ### IN PRESS
 
 - ..Donathan II, D...^, **Alperin, J.P.**^, Nason, M., Tullney, M., Shi, J. Evaluating Multilingual Metadata Quality in Crossref. *Journal of Librarianship and Scholarly Communications*. 
 
 ### 2025
+  
 - [journal] van Bellen, S., **Alperin, J.P.**, Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. doi: 10.48550/arXiv.2406.17893
 
-- ..Chavarro, D...^, **Alperin, J.P.**^, Willinsky, J. On the Open Road to Universal Indexing: OpenAlex and Open Journal Systems. *Quantitative Science Studies* doi: 10.1162/QSS.a.17
+- [peer-reviewed,journal] {GS: QW-eo0MAAAAJ:JTqpx9DYBaYC} ..Chavarro, D...^, **Alperin, J.P.**^, Willinsky, J. On the open road to universal indexing: OpenAlex and Open Journal Systems. *Quantitative Science Studies*. doi: 10.1162/QSS.a.17
 
 - ..Benson Marshall, M..., Pinfield, S., Abott, P., Cox, A., **Alperin, J.P.**, et al. “It’s messy and it’s massive”: How has the open science debate developed in the post-COVID era? *F1000*. doi: 10.12688/f1000research.162577.1
 
@@ -566,15 +565,17 @@ Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, Matthias, L., Norland
 
 ### 2024
 
+- [peer-review,journal] {GS:QW-eo0MAAAAJ:rTD5ala9j4wC} **Alperin, J.P.**^, Shores, K., ..Fleerackers, A..., ..Chtena, N... Stark Decline in Journalists’ Use of Preprints Postpandemic. *Science Communication*. doi:10.1177/10755470241285405 
+
 - [peer-reviewed,journal] {GS:2} **Alperin, J.P.**^, ~~Fleerackers, A.~~, Riedlinger, M. & Haustein, S. Second-order Citations in Altmetrics: A Case Study Analyzing the Audiences of COVID-19 Research in the News and on Social Media. *Quantitative Science Studies*.
 
-- [journal] Haustein, S., Schares, E., **Alperin, J.P.**, Hare, M., Butler, L.-A., & Schönfelder, N. (2024). Estimating global article processing charges paid to six publishers for open access between 2019 and 2023 (arXiv: 2407.16551). *arXiv.*
-
+- [journal] Haustein, S., Schares, E., **Alperin, J.P.**, Hare, M., Butler, L.-A., & Schönfelder, N. Estimating global article processing charges paid to six publishers for open access between 2019 and 2023 (arXiv: 2407.16551). *arXiv.*
+  
 - [peer-reviewed,journal] ..Benson-Marshall, M..., Pinfield, S., Abbott, P., Cox, A., **Alperin, J.P.**, et.al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. Humanities and Social Sciences Communications. doi: 10.1057/s41599-024-03804-w
 
 - [peer-reviewed,journal] Unzurrunzaga, C., Monti, C. Zalba, G. & **Alperin, J.P.**^. Open access in Argentina: a proposal for tracking scientific publications. Información, Cultura & Sociedad. doi: 10.34096/ics.i50.13373
 
-- [peer-reviewed,journal] Barata, G., ..Oliveira, M..., Peixoto, T., Caetano Almeida, C., Fernandes Mazoni, A., Costas Comesana, R., & **Alperin, J.P.** (2024). Comunicado de imprensa como indicador de atenção social qualificada da ciência: A construção de um banco de dados e suas potencialidades. *Liinc em Revista*, 20(1), doi: 10.18617/89te9k42
+- [peer-reviewed,journal] Barata, G., ..Oliveira, M..., Peixoto, T., Caetano Almeida, C., Fernandes Mazoni, A., Costas Comesana, R., & **Alperin, J.P.** Comunicado de imprensa como indicador de atenção social qualificada da ciência: A construção de um banco de dados e suas potencialidades. *Liinc em Revista*, 20(1), doi: 10.18617/89te9k42
 
 - [peer-reviewed,conference] **Alperin, J.P.**, Portenoy, J., Demes, K., Larivière, V., & Haustein, S. (Sept 20). An analysis of the suitability of OpenAlex for bibliometric analyses. Science and Technology Indicators Conference. Berlin. (arXiv: `2404.17663`).
 
@@ -582,21 +583,21 @@ Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, Matthias, L., Norland
 
 - [peer-reviewed,journal] Maggio, L. A., ..Chtena, N..., **Alperin, J.P.**, Moorhead, L., & Willinsky, J.“The best home for this paper”: A qualitative study of how authors select where to submit manuscripts. Perspectives in Medical Education. doi: 10.5334/pme.1517
 
-- [peer-reviewed,journal] Ng, J. et al. (2024). Publisher preferences for a journal transparency tool: A modified three-round Delphi study (13:915). *F1000Research*. doi: 10.12688/f1000research.154408.1
+- [peer-reviewed,journal] Ng, J. et al. Publisher preferences for a journal transparency tool: A modified three-round Delphi study (13:915). *F1000Research*. doi: 10.12688/f1000research.154408.1
 
-- [peer-reviewed,journal] Simard, M.-A., Butler, L.-A., **Alperin, J.P.**, & Haustein, S. (2024). We need to rethink the way we identify diamond open access journals in quantitative science studies. *Quantitative Science Studies*. doi: 10.1162/qss_c_00331
+- [peer-reviewed,journal] Simard, M.-A., Butler, L.-A., **Alperin, J.P.**, & Haustein, S. We need to rethink the way we identify diamond open access journals in quantitative science studies. *Quantitative Science Studies*. doi: 10.1162/qss_c_00331
 
 - [peer-reviewed,journal] {GS:1} Fleerackers, A.^, Shores, K., ..Chtena, N... & **Alperin, J.P.**^ Unreviewed science in the news: The evolution of preprint media coverage from 2014-2021. *Quantitative Science Studies*
 
 ### 2023
 
-- [peer-reviewed,journal] ..Atef, N..., ~~Fleerackers, A.~~, & **Alperin, J.P.**^ Uses and Gratifications in Health Vlogging: The Case of Egyptian Doctors Creating Content on YouTube. The Journal of Social Media in Society
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:mKu_rENv82IC} ..Atef, N...^, ~~Fleerackers, A.~~ ^, & **Alperin, J.P.**^ Why Do Health Professionals Create Contenton Social Media? Uses and Gratifications of Egyptian "Physician Vloggers" on YouTube. *The Journal of Social Media in Society*. 
 
 - [peer-reviewed,journal] {GS:11} ..Cobey, K..., et al. Community consensus on core open science practices to monitor in biomedicine. *PLOS Biology*. doi: 10.1371/journal.pbio.3001949
 
 - [peer-reviewed,journal] {GS:4} ..Atef, N..., ~~Fleerackers, A.~~, & **Alperin, J.P.**^ “Doctors” or “Influencers”? Physicians’ Presentation of Self in Health Vlogs. International Journal of Communication.
 
-- [peer-reviewed,journal] ~~Fleerackers, A.~~, ..Chtena, N..., Pinfield, S., **Alperin, J.P.**, Barata, G., ..Oliveira, M..., & Peters, I. (2023). Making science public: a review of journalists’ use of Open Science research
+- [peer-reviewed,journal] ~~Fleerackers, A.~~, ..Chtena, N..., Pinfield, S., **Alperin, J.P.**, Barata, G., ..Oliveira, M..., & Peters, I. Making science public: a review of journalists’ use of Open Science research
 
 ### 2022
 
@@ -684,7 +685,7 @@ Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, Matthias, L., Norland
 
 ### 2016
 
-- [peer-reviewed,journal] {GS:8} Reilly, K.M.A. & **Alperin, J.P.** Intermediation in Open Development: A Knowl edge Stewardship Approach. Global Media Journal: Canadian Edition, 6(1).
+- [peer-reviewed,journal] {GS:8} Reilly, K.M.A. & **Alperin, J.P.** Intermediation in Open Development: A Knowledge Stewardship Approach. Global Media Journal: Canadian Edition, 6(1).
 
 - [peer-reviewed,journal] {GS:26} Carvalho Neto, S, Willinsky, J. & **Alperin, J.P.**^ Measuring, Rating, Supporting, and Strengthening Open Access Scholarly Publishing in Brazil. Education Policy Analysis Archives, 24(54). doi: 10.14507/epaa.24.2391
 
