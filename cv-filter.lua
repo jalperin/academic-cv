@@ -783,6 +783,7 @@ function Div(el)
 end
 
 -- Process list items for publications/presentations
+-- Process list items for publications/presentations
 function BulletList(el)
   -- Skip content if we're in a filtered-out year section
   if date_filter_enabled and current_year_section == nil then
@@ -841,20 +842,15 @@ function BulletList(el)
       
       -- Extract icons from [icon1,icon2]
       local icons_list = {}
-      local content = text
       local icon_str = text:match('^%[([^%]]+)%]')
       if icon_str then
         for icon_name in icon_str:gmatch('[^,]+') do
           table.insert(icons_list, icon_name:match('^%s*(.-)%s*$'))
         end
-        content = text:gsub('^%[[^%]]+%]%s*', '')
       end
       
       -- Extract GS citations {GS:123}
-      local gs_citations = content:match('{GS:(%d+)}')
-      if gs_citations then
-        content = content:gsub('%{GS:%d+%}', '')
-      end
+      local gs_citations = text:match('{GS:(%d+)}')
       
       -- Build HTML for this item
       local html = '<div class="content-item margin-top-10">\n'
@@ -894,27 +890,49 @@ function BulletList(el)
         html = html .. '  </div>\n'
       end
       
-      -- Format the content text
-      -- Bold for **text**
-      content = content:gsub('%*%*([^%*]+)%*%*', '<span class="font-agp-bold">%1</span>')
-      -- Wrap "Alperin, J.P." in bold
-      content = content:gsub('Alperin, J%.P%.', '<span class="font-agp-bold">Alperin, J.P.</span>')
-      -- Italic for *text*
-      content = content:gsub('%*([^%*]+)%*', '<em class="font-agp-italic">%1</em>')
-      -- Wavy for ~~text~~
-      content = content:gsub('~~([^~]+)~~', '<span class="wavy-text">%1</span>')
-      -- Dotted for ..text.. (handle both dots and ellipsis)
-      content = content:gsub('%.%.([^%.…]+)%.%.', '<span class="dotted-text">%1</span>')
-      content = content:gsub('%.%.([^%.…]+)…', '<span class="dotted-text">%1</span>')
-      -- Corresponding author ^
-      content = content:gsub('%^', '<img src="Links/juanicons-colour-final-05.png" class="super-mail"/>')
-      -- Blue text `text`
-      content = content:gsub('`([^`]+)`', '<span class="color-blue">%1</span>')
-      -- Links {text}(url)
-      content = content:gsub('{([^}]+)}%(([^)]+)%)', '<a class="content-link">%1</a>')
+      -- Format the content text using Pandoc's HTML writer
+      -- Convert the ORIGINAL item (with all markdown intact) to HTML
+      local item_html = pandoc.write(pandoc.Pandoc(item), 'html')
+      
+      -- Remove the wrapping <p> tags that Pandoc adds
+      item_html = item_html:gsub('^<p>', ''):gsub('</p>$', ''):gsub('</p>\n$', '')
+      
+      -- Now remove icon markers and GS citations from the HTML (just like we remove other things)
+      -- Remove [icon,list] at the beginning
+      item_html = item_html:gsub('^%[[^%]]+%]%s*', '')
+      
+      -- Remove {GS:123} citations
+      item_html = item_html:gsub('%{GS:%d+%}', '')
+      
+      -- Apply custom formatting patterns that Pandoc doesn't handle natively
+      -- Wavy underline for ~~text~~
+      item_html = item_html:gsub('~~([^~]+)~~', '<span class="wavy-text">%1</span>')
+      
+      -- Dotted underline for ..text..
+      -- Handle ..text… (followed by ellipsis character) first - replace with dotted + period
+      item_html = item_html:gsub('%.%.([^%.]+)…', '<span class="dotted-text">%1</span>.')
+      -- Handle ..text... (followed by period) first
+      item_html = item_html:gsub('%.%.([^%.]+)%.%.%.', '<span class="dotted-text">%1</span>.')
+      -- Then handle regular ..text..
+      item_html = item_html:gsub('%.%.([^%.]+)%.%.', '<span class="dotted-text">%1</span>')
+
+      -- Corresponding author marker ^
+      item_html = item_html:gsub('%^', '<img src="Links/juanicons-colour-final-05.png" class="super-mail"/>')
+      
+      -- Blue text for `text` (Pandoc converts this to <code>, change it to our blue span)
+      item_html = item_html:gsub('<code>([^<]+)</code>', '<span class="color-blue">%1</span>')
+      
+      -- Add content-link class to all links that Pandoc created
+      item_html = item_html:gsub('<a href="([^"]*)">', '<a href="%1" class="content-link">')
+
+      -- Convert DOIs to hyperlinks with content-link class
+      item_html = item_html:gsub('doi:%s*([0-9%.]+/[^%s,%)]+)', 'doi: <a href="https://doi.org/%1" class="content-link">%1</a>')
+
+      -- Wrap "Alperin, J.P." in bold (do this after Pandoc processing)
+      item_html = item_html:gsub('Alperin, J%.P%.', '<span class="font-agp-bold">Alperin, J.P.</span>')
       
       html = html .. '  <div class="content-text">\n'
-      html = html .. '    ' .. content .. '\n'
+      html = html .. '    ' .. item_html .. '\n'
       html = html .. '  </div>\n'
       html = html .. '</div>\n'
       

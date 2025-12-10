@@ -1,7 +1,7 @@
 # CV Yearly Statistics
 summary:
   scholarly_pubs: 118
-  peer_reviewed: 64
+  peer_reviewed: 65
   total_publications: 119
 
 presentation_summary:
@@ -14,7 +14,7 @@ presentation_summary:
 yearly_stats:
   2025:
     total: 9
-    peer_reviewed: 8
+    peer_reviewed: 9
     traditional: 9
     nontraditional: 0
   2024:
