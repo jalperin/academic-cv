@@ -541,11 +541,11 @@ Piwowar, H., Priem, J., Larivière, V., **Alperin, J.P.**, Matthias, L., Norland
 
 ### IN PRESS
 
-- ..Donathan II, D...^, **Alperin, J.P.**^, Nason, M., Tullney, M., Shi, J. Evaluating Multilingual Metadata Quality in Crossref. *Journal of Librarianship and Scholarly Communications*. 
+- [peer-reviewed,journal] ..Donathan II, D...^, **Alperin, J.P.**^, Nason, M., Tullney, M., Shi, J. Evaluating Multilingual Metadata Quality in Crossref. *Journal of Librarianship and Scholarly Communications*. 
 
 ### 2025
   
-- [journal] van Bellen, S., **Alperin, J.P.**, Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. doi: 10.48550/arXiv.2406.17893
+- [peer-reviewed,journal] van Bellen, S., **Alperin, J.P.**, Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. doi: 10.48550/arXiv.2406.17893
 
 - [peer-reviewed,journal] {GS: QW-eo0MAAAAJ:JTqpx9DYBaYC} ..Chavarro, D...^, **Alperin, J.P.**^, Willinsky, J. On the open road to universal indexing: OpenAlex and Open Journal Systems. *Quantitative Science Studies*. doi: 10.1162/QSS.a.17
 
@@ -1405,13 +1405,16 @@ Courtney Onstad | 2021-present
 :::
 
 ### MASTERS COMMITTEE MEMBER
-
-::: {.media-item date="2023"}
-**Kalicia Batement** — *Case Study: Launching and Marketing ReadThinkKnow.ca.* SFU
+::: {.media-item date="2025"}
+**Jinhua Chen** - *Comparative Study of Ancient Book Cataloguing：China's National Census of Ancient Books and Europe's Universal Short Title Catalogue.* Master in Publishing. SFU
 :::
 
 ::: {.media-item date="2023"}
-**Chistina Moden** — *Innovations in Romance Novel Distribution at Harlequin, Sourcebooks, and Raincoast Books.* SFU
+**Kalicia Batement** — *Case Study: Launching and Marketing ReadThinkKnow.ca.* Master in Publishing. SFU
+:::
+
+::: {.media-item date="2023"}
+**Chistina Moden** — *Innovations in Romance Novel Distribution at Harlequin, Sourcebooks, and Raincoast Books.* Master in Publishing. SFU
 :::
 
 ::: {.media-item date="2018"}
@@ -1419,7 +1422,7 @@ Courtney Onstad | 2021-present
 :::
 
 ::: {.media-item date="2018"}
-**Taylor McGrath** — *Establishing Workflows for Library-based Open Educational Resource Production Programs in Post-secondary Institutions across Canada and the United States.* Master in Publishing
+**Taylor McGrath** — *Establishing Workflows for Library-based Open Educational Resource Production Programs in Post-secondary Institutions across Canada and the United States.* Master in Publishing. SFU
 :::
 
 ::: {.media-item date="2017"}
