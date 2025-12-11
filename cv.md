@@ -541,13 +541,15 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 ### IN PRESS
 
-- [peer-reviewed,journal] ..Donathan II, D...^, Alperin, J.P.^, Nason, M., Tullney, M., Shi, J. Evaluating Multilingual Metadata Quality in Crossref. *Journal of Librarianship and Scholarly Communications*. 
+- [peer-reviewed,journal] ..Chtena, N...^, Pasquetto, I., Fleerackers, A., Pinfield, S., ..Benson  Marshall, M..., & Alperin, J.P. "Does it feel like a scientific paper?": Discretionary valuation and epistemic boundaries on preprint servers. *Engaging Science, Technology, and Society*
+
+- [peer-reviewed,journal] ..Donathan II, D...^, Alperin, J.P.^, Nason, M., Tullney, M., & Shi, J. Evaluating Multilingual Metadata Quality in Crossref. *Journal of Librarianship and Scholarly Communications*. 
 
 ### 2025
   
-- [peer-reviewed,journal] van Bellen, S.^, Alperin, J.P., Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. doi: 10.48550/arXiv.2406.17893
+- [peer-reviewed,journal] van Bellen, S.^, Alperin, J.P. & Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. doi: 10.48550/arXiv.2406.17893
 
-- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:JTqpx9DYBaYC} ..Chavarro, D...^, Alperin, J.P.^, Willinsky, J. On the open road to universal indexing: OpenAlex and Open Journal Systems. *Quantitative Science Studies*. doi: 10.1162/QSS.a.17
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:JTqpx9DYBaYC} ..Chavarro, D...^, Alperin, J.P.^ &  Willinsky, J. On the open road to universal indexing: OpenAlex and Open Journal Systems. *Quantitative Science Studies*. doi: 10.1162/QSS.a.17
 
 - [peer-reviewed,journal] ..Benson Marshall, M..., Pinfield, S., Abott, P., Cox, A., Alperin, J.P., et al. “It’s messy and it’s massive”: How has the open science debate developed in the post-COVID era? *F1000*. doi: 10.12688/f1000research.162577.1
 

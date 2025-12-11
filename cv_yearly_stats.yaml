@@ -1,8 +1,8 @@
 # CV Yearly Statistics
 summary:
   scholarly_pubs: 118
-  peer_reviewed: 65
-  total_publications: 119
+  peer_reviewed: 66
+  total_publications: 120
 
 presentation_summary:
   total: 117
@@ -103,9 +103,9 @@ yearly_stats:
     traditional: 1
     nontraditional: 0
   non_numeric:
-    total: 1
-    peer_reviewed: 1
-    traditional: 1
+    total: 2
+    peer_reviewed: 2
+    traditional: 2
     nontraditional: 0
 
 yearly_presentation_stats:
