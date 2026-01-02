@@ -571,7 +571,7 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 - [peer-review,journal] {GS:QW-eo0MAAAAJ:rTD5ala9j4wC} Alperin, J.P.^, Shores, K., ..Fleerackers, A..., ..Chtena, N... Stark Decline in Journalists’ Use of Preprints Postpandemic. *Science Communication*. doi:10.1177/10755470241285405 
 
-- [peer-reviewed,journal] {GS:2} Alperin, J.P.^, ~~Fleerackers, A.~~, Riedlinger, M. & Haustein, S. Second-order Citations in Altmetrics: A Case Study Analyzing the Audiences of COVID-19 Research in the News and on Social Media. *Quantitative Science Studies*.
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:jE2MZjpN3IcC} Alperin, J.P.^, ~~Fleerackers, A.~~, Riedlinger, M. & Haustein, S. Second-order Citations in Altmetrics: A Case Study Analyzing the Audiences of COVID-19 Research in the News and on Social Media. *Quantitative Science Studies*.
 
 - [journal] Haustein, S., Schares, E., Alperin, J.P., Hare, M., Butler, L.-A., & Schönfelder, N. Estimating global article processing charges paid to six publishers for open access between 2019 and 2023 (arXiv: 2407.16551). *arXiv.*
   
@@ -1049,7 +1049,7 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 - [invited,keynote] Alperin, J.P. (September 1). Las limitaciones de los indicadores bibliometricos y las oportunidades del acceso abierto en América Latina. *Seminario el Nuevo Orden Academico: Pontificia Universidad Católica del Peru*. Lima, Peru.
 
-- [invited] Alperin, J.P. (May 9). Inherent Tensions in Adopting New Scholarly Practices. *61st Seminar on the Acquisition of Latin American Library Materials*. Charlottesville, USA.
+- [invited] {GS:QW-eo0MAAAAJ:qe6vwMD2xtsC} Alperin, J.P. (May 9). Inherent Tensions in Adopting New Scholarly Practices. *61st Seminar on the Acquisition of Latin American Library Materials*. Charlottesville, USA. [url](https://muse.jhu.edu/book/110103/pdf?pvk=book-110103-30749ae85c794a48c64c5bed78be183c#page=32)
 
 - [invited,plenary] Alperin, J.P. (April 19). Research is also for non-scholars: Lessons from Latin America. *FORCE16*. Portland, USA doi: 10.6084/m9.figshare.3187551
 
