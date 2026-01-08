@@ -234,8 +234,13 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 
 ## MEDIA COVERAGE
+::: {.media-item date="Jan 7, 2026"}
+*Undark*. [In Scientific Publishing, Who Should Foot the Bill?](https://undark.org/2026/01/07/apc-science-publishing/)
+:::
+
 ::: {.media-item date="Dec 11, 2025"}
 *Inside HigherEd*. [Making Publicly Engaged Research Count: A New Pathway to Tenure](https://www.insidehighered.com/opinion/views/2025/12/11/new-publicly-engaged-research-pathway-tenure-opinion)
+:::
 
 ::: {.media-item date="Oct 17, 2025"}
 *NiemanLab*. [Why right-wing authoritarians share news](https://www.niemanlab.org/2025/10/why-right-wing-authoritarians-share-news/)
