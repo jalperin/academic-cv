@@ -845,6 +845,8 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 
 ## PRESENTATIONS
+### 2026
+- [invited] Alperin, J.P. (Jan 27). Data robustness and availability for Research Assessment. *OECD Global Science Forum*. Online. 
 
 ### 2025
 - [invited] Alperin, J.P. (Nov 17). How technology is being used to support publication of research. *COPE Publication Integrity Week*. Online. 
