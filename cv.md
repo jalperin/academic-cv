@@ -551,23 +551,23 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
   
 - [peer-reviewed,journal] van Bellen, S.^, Alperin, J.P. & Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. doi: 10.48550/arXiv.2406.17893
 
-- [conference] Parth, S., Alperin, J.P. Citation Parsing and Analysis with Language Models. Workshop on Open Citations & Open Scholarly Metadata 2025 
+- [conference] {GS:QW-eo0MAAAAJ:SIv7DqKytYAC} Parth, S., Alperin, J.P. Citation Parsing and Analysis with Language Models. Workshop on Open Citations & Open Scholarly Metadata 2025. *arXiv*. doi:10.48550/arXiv.2505.15948
 
 - [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:JTqpx9DYBaYC} ..Chavarro, D...^, Alperin, J.P.^ &  Willinsky, J. On the open road to universal indexing: OpenAlex and Open Journal Systems. *Quantitative Science Studies*. doi: 10.1162/QSS.a.17
 
-- [peer-reviewed,journal] ..Benson Marshall, M..., Pinfield, S., Abott, P., Cox, A., Alperin, J.P., et al. “It’s messy and it’s massive”: How has the open science debate developed in the post-COVID era? *F1000*. doi: 10.12688/f1000research.162577.1
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:Xl6nMSl579sC} ..Benson Marshall, M..., Pinfield, S., Abott, P., Cox, A., Alperin, J.P., et al. “It’s messy and it’s massive”: How has the open science debate developed in the post-COVID era? *F1000*. doi: 10.12688/f1000research.162577.1
 
-- [peer-reviewed,journal] Chtena, N.^, Alperin, J.P.^, ~~Morales, E.~~, ..Fleerackers, A..., ..Dorsch, I..., Pinfield, S. & ~~Simard, M-A.~~ Towards an inclusive Open Science: examining EDI and public participation in policy documents across Europe and the Americas. *Royal Society Open Science*. doi: 10.1098/rsos.240857
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:k_7cPK9k7w8C} Chtena, N.^, Alperin, J.P.^, ~~Morales, E.~~, ..Fleerackers, A..., ..Dorsch, I..., Pinfield, S. & ~~Simard, M-A.~~ Towards an inclusive Open Science: examining EDI and public participation in policy documents across Europe and the Americas. *Royal Society Open Science*. doi: 10.1098/rsos.240857
 
-- [peer-reviewed,journal] ..Fleerackers, A..., ..Chtena, N..., ..Oliveira, M..., ..Dorsch, I..., Pinfield, S. & Alperin, J.P. Open data journalism: Opportunities and Future Directions. *Canadian Journal of Communications*. doi: 10.3138/cjc-2023-0040
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:65Yg0jNCQDAC} ..Fleerackers, A..., ..Chtena, N..., ..Oliveira, M..., ..Dorsch, I..., Pinfield, S. & Alperin, J.P. Open data journalism: Opportunities and Future Directions. *Canadian Journal of Communications*. doi: 10.3138/cjc-2023-0040
 
-- [peer-reviewed,journal] ..Fleerackers, A..., Moorhead, L. L., & Alperin, J.P. “I’d like to think I’d be able to spot one if I saw one”: How science journalists navigate predatory journals. *Jouranalism Practice*. doi: 10.1080/17512786.2025.2551984
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:DyXnQzXoVgIC} ..Fleerackers, A..., Moorhead, L. L., & Alperin, J.P. “I’d like to think I’d be able to spot one if I saw one”: How science journalists navigate predatory journals. *Jouranalism Practice*. doi: 10.1080/17512786.2025.2551984
 
-- [peer-reviewed,journal] ..Chtena, N...^, Alperin, J.P.^, Pinfield, S., ..Fleerackers, A..., & Pasquetto, I. Preprint servers and journals: rivals or allies? *Journal of Documentation*. doi: 10.1108/JD-09-2024-0215
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:69ZgNCALVd0C} ..Chtena, N...^, Alperin, J.P.^, Pinfield, S., ..Fleerackers, A..., & Pasquetto, I. Preprint servers and journals: rivals or allies? *Journal of Documentation*. doi: 10.1108/JD-09-2024-0215
 
-- [peer-reviewed,journal] ~~Fleerackers, A.~~, Moorhead, L., Riedlinger, M., Alperin, J.P. Maggio, L. From impact metrics and open science to communicating research: Journalists’ awareness of academic controversies. *PLOS One*. doi: 10.1371/journal.pone.0309274
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:pS0ncopqnHgC} ~~Fleerackers, A.~~, Moorhead, L., Riedlinger, M., Alperin, J.P. Maggio, L. From impact metrics and open science to communicating research: Journalists’ awareness of academic controversies. *PLOS One*. doi: 10.1371/journal.pone.0309274
 
-- [peer-reviewed,journal] Shi, J.^, Nason, M., Tullney, M. & Alperin, J.P.^ Identifying Metadata Quality Issues Across Cultures. *College & Research Libraries*. doi: 10.5860/crl.86.1.101
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:PyEswDtIyv0C} Shi, J.^, Nason, M., Tullney, M. & Alperin, J.P.^ Identifying Metadata Quality Issues Across Cultures. *College & Research Libraries*. doi: 10.5860/crl.86.1.101
 
 ### 2024
 
