@@ -756,6 +756,9 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 ### NON-TRADITIONAL OUTPUTS {.left}
 
+### 2026
+- Alperin, J.P. & Nizami, U. Exploring what it means for the Public Knowledge Project to be driven by research with Juan Pablo Alperin. *PKP Blog.* [link](https://doi.org/10.59350/pe618-tnd23)
+
 ### 2024
 
 - Butler, L-A; ~~Hare, M.~~, Schönfelder, N., Schares, E.; Alperin, J.P., Haustein, S., “Open dataset of annual Article Processing Charges (APCs) of gold and hybrid journals published by Elsevier, Frontiers, MDPI, PLOS, Springer-Nature and Wiley 2019-2023”, V1, *Harvard Dataverse* doi: 10.7910/DVN/CR1MMV
