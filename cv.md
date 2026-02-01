@@ -551,7 +551,7 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
   
 - [peer-reviewed,journal] van Bellen, S.^, Alperin, J.P. & Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. doi: 10.48550/arXiv.2406.17893
 
-- [conference] {GS:QW-eo0MAAAAJ:SIv7DqKytYAC} Parth, S., Alperin, J.P. Citation Parsing and Analysis with Language Models. Workshop on Open Citations & Open Scholarly Metadata 2025. *arXiv*. doi:10.48550/arXiv.2505.15948
+- [conference] {GS:QW-eo0MAAAAJ:SIv7DqKytYAC} Sarin, P., Alperin, J.P. Citation Parsing and Analysis with Language Models. Workshop on Open Citations & Open Scholarly Metadata 2025. *arXiv*. doi:10.48550/arXiv.2505.15948
 
 - [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:JTqpx9DYBaYC} ..Chavarro, D...^, Alperin, J.P.^ &  Willinsky, J. On the open road to universal indexing: OpenAlex and Open Journal Systems. *Quantitative Science Studies*. doi: 10.1162/QSS.a.17
 
@@ -571,45 +571,45 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 ### 2024
 
-- [peer-review,journal] {GS:QW-eo0MAAAAJ:rTD5ala9j4wC} Alperin, J.P.^, Shores, K., ..Fleerackers, A..., ..Chtena, N... Stark Decline in Journalists’ Use of Preprints Postpandemic. *Science Communication*. doi:10.1177/10755470241285405 
+- [peer-review,journal] {GS:QW-eo0MAAAAJ:rTD5ala9j4wC} Alperin, J.P.^, Shores, K., ..Fleerackers, A..., ..Chtena, N... Stark Decline in Journalists’ Use of Preprints Postpandemic. *Science Communication*. doi: 10.1177/10755470241285405 
 
 - [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:jE2MZjpN3IcC} Alperin, J.P.^, ~~Fleerackers, A.~~, Riedlinger, M. & Haustein, S. Second-order Citations in Altmetrics: A Case Study Analyzing the Audiences of COVID-19 Research in the News and on Social Media. *Quantitative Science Studies*.
 
-- [journal] Haustein, S., Schares, E., Alperin, J.P., Hare, M., Butler, L.-A., & Schönfelder, N. Estimating global article processing charges paid to six publishers for open access between 2019 and 2023 (arXiv: 2407.16551). *arXiv.*
+- [journal] {GS:QW-eo0MAAAAJ:2l5NCbZemmgC} Haustein, S., Schares, E., Alperin, J.P., Hare, M., Butler, L.-A., & Schönfelder, N. Estimating global article processing charges paid to six publishers for open access between 2019 and 2023. *arXiv*. doi: 10.48550/arXiv.2407.16551
   
-- [peer-reviewed,journal] ..Benson-Marshall, M..., Pinfield, S., Abbott, P., Cox, A., Alperin, J.P., et.al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. Humanities and Social Sciences Communications. doi: 10.1057/s41599-024-03804-w
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:TlpoogIpr_IC} ..Benson-Marshall, M..., Pinfield, S., Abbott, P., Cox, A., Alperin, J.P., et.al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. *Humanities and Social Sciences Communications*. doi: 10.1057/s41599-024-03804-w
 
-- [peer-reviewed,journal] Unzurrunzaga, C., Monti, C. Zalba, G. & Alperin, J.P.^. Open access in Argentina: a proposal for tracking scientific publications. Información, Cultura & Sociedad. doi: 10.34096/ics.i50.13373
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:raTqNPD5sRQC} Unzurrunzaga, C., Monti, C. Zalba, G. & Alperin, J.P.^. Open access in Argentina: a proposal for tracking scientific publications. *Información, Cultura & Sociedad*. doi: 10.34096/ics.i50.13373
 
-- [peer-reviewed,journal] Barata, G., ..Oliveira, M..., Peixoto, T., Caetano Almeida, C., Fernandes Mazoni, A., Costas Comesana, R., & Alperin, J.P. Comunicado de imprensa como indicador de atenção social qualificada da ciência: A construção de um banco de dados e suas potencialidades. *Liinc em Revista*, 20(1), doi: 10.18617/89te9k42
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:eO3_k5sD8BwC} Barata, G., ..Oliveira, M..., Peixoto, T., Caetano Almeida, C., Fernandes Mazoni, A., Costas Comesana, R., & Alperin, J.P. Comunicado de imprensa como indicador de atenção social qualificada da ciência: A construção de um banco de dados e suas potencialidades. *Liinc em Revista*, 20(1), doi: 10.18617/89te9k42
 
-- [peer-reviewed,conference] Alperin, J.P., Portenoy, J., Demes, K., Larivière, V., & Haustein, S. (Sept 20). An analysis of the suitability of OpenAlex for bibliometric analyses. Science and Technology Indicators Conference. Berlin. (arXiv: `2404.17663`).
+- [peer-reviewed,conference] {GS:QW-eo0MAAAAJ:YsrPvlHIBpEC} Alperin, J.P., Portenoy, J., Demes, K., Larivière, V., & Haustein, S. (Sept 20). An analysis of the suitability of OpenAlex for bibliometric analyses. Science and Technology Indicators Conference. Berlin. (arXiv: `2404.17663`).
 
-- [peer-reviewed,journal] ..Oliveira, M..., Barata, G., Fleerackers, A, Alperin, J.P., Falade, B., & Bauer, M. W. Bridging science communication and open science—Working inclusively toward the common good. *Frontiers in Communication*, 9. doi: 10.3389/fcomm.2024.1473268
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:QUX0mv85b1cC} ..Oliveira, M..., Barata, G., Fleerackers, A, Alperin, J.P., Falade, B., & Bauer, M. W. Bridging science communication and open science—Working inclusively toward the common good. *Frontiers in Communication*, 9. doi: 10.3389/fcomm.2024.1473268
 
-- [peer-reviewed,journal] Maggio, L. A., ..Chtena, N..., Alperin, J.P., Moorhead, L., & Willinsky, J.“The best home for this paper”: A qualitative study of how authors select where to submit manuscripts. Perspectives in Medical Education. doi: 10.5334/pme.1517
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:WAzi4Gm8nLoC} Maggio, L. A., ..Chtena, N..., Alperin, J.P., Moorhead, L., & Willinsky, J.“The best home for this paper”: A qualitative study of how authors select where to submit manuscripts. *Perspectives in Medical Education*. doi: 10.5334/pme.1517
 
-- [peer-reviewed,journal] Ng, J. et al. Publisher preferences for a journal transparency tool: A modified three-round Delphi study (13:915). *F1000Research*. doi: 10.12688/f1000research.154408.1
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:DkZNVXde3BIC} Ng, J. et al. Publisher preferences for a journal transparency tool: A modified three-round Delphi study (13:915). *F1000Research*. doi: 10.12688/f1000research.154408.1
 
-- [peer-reviewed,journal] Simard, M.-A., Butler, L.-A., Alperin, J.P., & Haustein, S. We need to rethink the way we identify diamond open access journals in quantitative science studies. *Quantitative Science Studies*. doi: 10.1162/qss_c_00331
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:ziOE8S1-AIUC} Simard, M.-A., Butler, L.-A., Alperin, J.P., & Haustein, S. We need to rethink the way we identify diamond open access journals in quantitative science studies. *Quantitative Science Studies*. doi: 10.1162/qss_c_00331
 
-- [peer-reviewed,journal] {GS:1} Fleerackers, A.^, Shores, K., ..Chtena, N... & Alperin, J.P.^ Unreviewed science in the news: The evolution of preprint media coverage from 2014-2021. *Quantitative Science Studies*
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:-jrNzM816MMC} Fleerackers, A.^, Shores, K., ..Chtena, N... & Alperin, J.P.^ Unreviewed science in the news: The evolution of preprint media coverage from 2014-2021. *Quantitative Science Studies*
 
 ### 2023
 
 - [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:mKu_rENv82IC} ..Atef, N...^, ~~Fleerackers, A.~~ ^, & Alperin, J.P.^ Why Do Health Professionals Create Contenton Social Media? Uses and Gratifications of Egyptian "Physician Vloggers" on YouTube. *The Journal of Social Media in Society*. 
 
-- [peer-reviewed,journal] {GS:11} ..Cobey, K..., et al. Community consensus on core open science practices to monitor in biomedicine. *PLOS Biology*. doi: 10.1371/journal.pbio.3001949
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:1Ye0OR6EYb4C} ..Cobey, K..., et al. Community consensus on core open science practices to monitor in biomedicine. *PLOS Biology*. doi: 10.1371/journal.pbio.3001949
 
-- [peer-reviewed,journal] {GS:4} ..Atef, N..., ~~Fleerackers, A.~~, & Alperin, J.P.^ “Doctors” or “Influencers”? Physicians’ Presentation of Self in Health Vlogs. International Journal of Communication.
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:-7ulzOJl1JYC} ..Atef, N..., ~~Fleerackers, A.~~, & Alperin, J.P.^ “Influencers” or “Doctors”? Physicians’ Presentation of Self in  YouTube and Facebook Videos. *International Journal of Communication*.
 
-- [peer-reviewed,journal] ~~Fleerackers, A.~~, ..Chtena, N..., Pinfield, S., Alperin, J.P., Barata, G., ..Oliveira, M..., & Peters, I. Making science public: a review of journalists’ use of Open Science research
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:5bg8sr1QxYwC} ~~Fleerackers, A.~~, ..Chtena, N..., Pinfield, S., Alperin, J.P., Barata, G., ..Oliveira, M..., & Peters, I. Making science public: a review of journalists’ use of Open Science research. *F1000 Research*. doi:10.12688/f1000research.133710.1
 
 ### 2022
 
 - [journal] {GS:19} Alperin, J.P.^ Article-processing charges weaken open access. *Nature*. doi: 10.1038/d41586-022-03201-w
 
-- [journal] Alperin, J.P.^ De la tecnocracia a la equidad y la sustentabilidad: por otraciencia abierta. Revista Eletrônica de Comunicação, Informação & Inovação em Saúde. doi: 10.29397/reciis.v16i4.3524
+- [journal] Alperin, J.P.^ De la tecnocracia a la equidad y la sustentabilidad: por otraciencia abierta. *Revista Eletrônica de Comunicação, Informação & Inovação em Saúde*. doi: 10.29397/reciis.v16i4.3524
 
 - [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:WC9gN4BGCRcC} ~~Khanna, S., Ball, J.,~~ Alperin, J.P. & WIllinsky, J. Recalibrating the scope of scholarly publishing: a modest step in a vast decolonization process. *Quantiative Science Studies*. doi: 10.1162/qss_a_00228
 
