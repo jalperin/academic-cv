@@ -136,20 +136,15 @@ Impact Award: Connection: *Social Sciences and Humanities Research Council*
 
 ### UNDER REVIEW
 
+::: {.grant-item funding="C$5,525,766", total project="C$6,907,227" years="2027-2031"} 
+Alperin, J.P. et al. *Research Information Community Hub (RICH)*. Canadian Foundation for Innovation and B.C. Knowledge Development Fund 
+::: 
+
+### CURRENT
+
 ::: {.grant-item funding="US$750,000" years="2025-2028"}
 Alperin, J.P. et al. *Investigating Preprints, Open Peer Review, and Article Revisions*. Gates Foundation.
 :::
-
-::: {.grant-item funding="C$196,770" years="2025-2027"}
-Alperin, J.P. et al. *Uncovering Citation Networks to Map the Global Scale of Research*. Social Science and Humanities Research Council (SSHRC) and Sloan Foundation.
-:::
-
-::: {.grant-item funding="C$281,437" years="2025-2027"}
-Alperin, J.P. et al. *Knowledge-based journalism: Improving the interface between research and the media*. Social Science and Humanities Research Council (SSHRC).
-:::
-
-
-### CURRENT
 
 ::: {.grant-item funding="€900,000" years="2024-2026"}
 Alperin et al. (Applicant). *Open Research Europe Platform*, European Commission.
