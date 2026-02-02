@@ -854,11 +854,13 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 - [invited] Alperin, J.P. (Jan 27). Data robustness and Availability for Research Assessment. *OECD Global Science Forum*. Online. 
 
 ### 2025
+- [invited] Alperin, J.P. (Dec 1). Who owns the long tail? Power and Sustainability in Scholarly Publishing. *Reforms of the evaluation system and open science under scrutiny: global dilemmas and academic asymmetries*. Mendoza, Argentina. [video](https://www.youtube.com/watch?v=w08e765M7sA). 
+
 - [invited] Alperin, J.P. (Nov 17). How technology is being used to support publication of research. *COPE Publication Integrity Week*. Online. 
 
 - [invited] Alperin, J.P. (Nov 3). Oportunidades para la transformación digital: Una mirada hacía el futuro. *Semana de la Ciencia Universidad Complutense de Madrid*. Online.
 
-- Alperin, J.P. (Oct 30). PKP Pub Courses Webinar. 
+- Alperin, J.P. (Oct 30). Shaping the Future of Open Publishing - Introduction to New PKP + SFU Courses. [Online](https://www.youtube.com/watch?v=_iy0UFexoKU).
 
 - [invited,keynote] Alperin, J.P. (Oct 24). Who Owns Our Knowledge? Scholar-Led Infrastructures and the Future of Publishing. *Indiana University Open Access Week*. Online. 
 
