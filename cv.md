@@ -1058,7 +1058,7 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 - [invited,keynote] Alperin, J.P. (September 1). Las limitaciones de los indicadores bibliometricos y las oportunidades del acceso abierto en América Latina. *Seminario el Nuevo Orden Academico: Pontificia Universidad Católica del Peru*. Lima, Peru.
 
-- [invited] {GS:QW-eo0MAAAAJ:qe6vwMD2xtsC} Alperin, J.P. (May 9). Inherent Tensions in Adopting New Scholarly Practices. *61st Seminar on the Acquisition of Latin American Library Materials*. Charlottesville, USA. [url](https://muse.jhu.edu/book/110103/pdf?pvk=book-110103-30749ae85c794a48c64c5bed78be183c#page=32)
+- [invited] {GS:QW-eo0MAAAAJ:qe6vwMD2xtsC} Alperin, J.P. (May 9). Inherent Tensions in Adopting New Scholarly Practices. *61st Seminar on the Acquisition of Latin American Library Materials*. Charlottesville, USA. [video](https://muse.jhu.edu/book/110103/pdf?pvk=book-110103-30749ae85c794a48c64c5bed78be183c#page=32)
 
 - [invited,plenary] Alperin, J.P. (April 19). Research is also for non-scholars: Lessons from Latin America. *FORCE16*. Portland, USA doi: 10.6084/m9.figshare.3187551
 
@@ -1360,6 +1360,14 @@ Courtney Onstad | 2021-present
 
 
 ### MASTERS SUPERVISION
+
+::: {.media-item date="expected 2026"}
+**Vanessa Gomez Beltran** — *The Creation of a New Platform for Young Publishing Professionals: The Publishing Guide & Printed.* SFU
+:::
+
+::: {.media-item date="expected 2026"}
+**Jinhua Chen** — *Comparative Study of Ancient Book Cataloguing: China's National Census of Ancient Books and Europe's Universal Short Title Catalogue.* SFU
+:::
 
 ::: {.media-item date="expected 2024"}
 **Mary Denyo** — *Developing Customer Experience Journey Documentation for Hemlock Printers.* SFU
