@@ -607,35 +607,35 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 ### 2022
 
-- [journal] {GS:19} Alperin, J.P.^ Article-processing charges weaken open access. *Nature*. doi: 10.1038/d41586-022-03201-w
+- [journal] {GS:QW-eo0MAAAAJ:rHJHxKgnXwkC} Alperin, J.P.^ Article-processing charges weaken open access. *Nature*. doi: 10.1038/d41586-022-03201-w
 
 - [journal] Alperin, J.P.^ De la tecnocracia a la equidad y la sustentabilidad: por otraciencia abierta. *Revista Eletrônica de Comunicação, Informação & Inovação em Saúde*. doi: 10.29397/reciis.v16i4.3524
 
 - [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:WC9gN4BGCRcC} ~~Khanna, S., Ball, J.,~~ Alperin, J.P. & WIllinsky, J. Recalibrating the scope of scholarly publishing: a modest step in a vast decolonization process. *Quantiative Science Studies*. doi: 10.1162/qss_a_00228
 
-- [peer-reviewed,journal] {GS:14} ~~Fleerackers, A.~~, Moorhead, L., Maggio, L., ~~Fagan, K.~~ & Alperin, J.P. Science in motion: A qualitative analysis of journalists’ use and perception of preprints. *PLOS One*. doi: 10.1371/journal.pone.0277769
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:-mN3Mh-tlDkC} ~~Fleerackers, A.~~, Moorhead, L., Maggio, L., ~~Fagan, K.~~ & Alperin, J.P. Science in motion: A qualitative analysis of journalists’ use and perception of preprints. *PLOS One*. doi: 10.1371/journal.pone.0277769
 
-- [chapter] ..Ebrahimzadeh, S..., Alperin, J.P. & Haustein, S. Social media and altmetrics. In Handbook on Research Assessment in the Social Sciences. Edward Elgar Publishing
+- [chapter] {GS:QW-eo0MAAAAJ:Br1UauaknNIC} ..Ebrahimzadeh, S..., Alperin, J.P. & Haustein, S. Social media and altmetrics. In Handbook on Research Assessment in the Social Sciences. Edward Elgar Publishing
 
-- [peer-reviewed,journal] {GS:12} ~~Fleerackers, A.~~, Haustein, S., & Alperin, J.P.^ Identifying science in the news: An assessment of the precision and recall of Altmetric.com news mention data. *Scientometrics*. doi: 10.1007/s11192-022-04510-7
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:Ade32sEp0pkC} ~~Fleerackers, A.~~, Haustein, S., & Alperin, J.P.^ Identifying science in the news: An assessment of the precision and recall of Altmetric.com news mention data. *Scientometrics*. doi: 10.1007/s11192-022-04510-7
 
-- [peer-reviewed,journal] {GS:9} ~~Morales, E.~~, ~~Fleerackers, A.~~, Kalir, J., & Alperin, J.P.^ Using Social annotations to construct knowledge with others: A case study across undergraduate courses. *F1000 Research*. doi: 10.12688/f1000research.109525.2
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:yxmsSjX2EkcC} ~~Morales, E.~~, ~~Fleerackers, A.~~, Kalir, J., & Alperin, J.P.^ Using Social annotations to construct knowledge with others: A case study across undergraduate courses. *F1000 Research*. doi: 10.12688/f1000research.109525.2
 
-- [peer-reviewed,journal] {GS:13} ..Dawson, D..., ~~Morales, E.~~, McKiernan, E.C., Niles, M.T., Schimanski, L.A. & Alperin, J.P.^ The role of collegiality in academic review, promotion, and tenure. *PLOS One*. doi: 10.1371/journal.pone.0265506
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:L1USKYWJimsC} ..Dawson, D..., ~~Morales, E.~~, McKiernan, E.C., Niles, M.T., Schimanski, L.A. & Alperin, J.P.^ The role of collegiality in academic review, promotion, and tenure. *PLOS One*. doi: 10.1371/journal.pone.0265506
 
-- [chapter] {GS:5} Alperin, J.P.^, Schimanski, L.A., ~~La, M.~~, Niles, M.T., & McKiernan, E.C. The value of data and other non-traditional scholarly outputs in academic review, promotion, and tenure. In Open Handbook of Linguistic Data Management. MIT Press.
+- [chapter] {GS:QW-eo0MAAAAJ:IaI1MmNe2tcC} Alperin, J.P.^, Schimanski, L.A., ~~La, M.~~, Niles, M.T., & McKiernan, E.C. The value of data and other non-traditional scholarly outputs in academic review, promotion, and tenure. In Open Handbook of Linguistic Data Management. MIT Press.
 
 ### 2021
 
-- [peer-reviewed,journal] {GS:30} ~~Morales, E.~~, McKiernan, E.C., Niles, M.T., Schimanski, L.A. & Alperin, J.P.^ How faculty define quality, prestige, and impact in research. *PLOS One*. doi: 10.1371/journal.pone.0257340
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:WC23djZS0W4C} ~~Morales, E.~~, McKiernan, E.C., Niles, M.T., Schimanski, L.A. & Alperin, J.P.^ How faculty define quality, prestige, and impact in research. *PLOS One*. doi: 10.1371/journal.pone.0257340
 
-- [peer-reviewed,journal] {GS:20} ~~Rozemblum, C.~~, Alperin, J.P. & Unzurrunzaga, C. Las limitaciones de Sco pus como fuente de indicadores: Buscando una visibilidad integral para revistas argentinas en ciencias sociales. *e-Ciencias de la Información*. doi: 10.15517/eci.v11i2.44300
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:owLR8QvbtFgC} ~~Rozemblum, C.~~, Alperin, J.P. & Unzurrunzaga, C. Las limitaciones de Scopus como fuente de indicadores: Buscando una visibilidad integral para revistas argentinas en ciencias sociales. *e-Ciencias de la Información*. doi: 10.15517/eci.v11i2.44300
 
 - [peer-reviewed,conference] ~~Fleerackers, A.~~, Riedlinger, M., Ahmed, R., Maggio, L., & Alperin, J.P. (May 27-31). Sharing uncertain science: Mapping the media coverage of COVID-19 preprints on Facebook and Twitter. 71st Annual ICA Conference, Engaging the Essential Work of Care: Communication, Connectedness, and Social Justice. Online
 
 - [peer-reviewed,journal] {GS:30} ..Malički, M..., Costello, J., Alperin, J.P., & Maggio, L.A. From amazing work to I beg to differ: analysis of bioRxiv preprints that received one public comment till September 2019. *Biochemia Medica*.
 
-- [peer-reviewed,journal] {GS:85} ~~Fleerackers, A.~~, Riedlinger, M., Moorhead, L., Ahmed, R. & Alperin, J.P.^ Communicating scientific uncertainty during COVID-19: An investigation into the use of preprints by digital media outlets. *Health Communication*. doi: 10.1080/10410236.2020.1864892
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:kw52XkFRtyQC} ~~Fleerackers, A.~~, Riedlinger, M., Moorhead, L., Ahmed, R. & Alperin, J.P.^ Communicating scientific uncertainty during COVID-19: An investigation into the use of preprints by digital media outlets. *Health Communication*. doi: 10.1080/10410236.2020.1864892
 
 ### 2020
 
