@@ -641,113 +641,113 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 - [chapter] Reilly, K.M.A. & Alperin, J.P. A Stewardship Approach to Theorizing Open Data for Development. In *Open Data for Development*. MIT Press.
 
-- [peer-reviewed,journal] {GS:15} ~~Matthias, L.~~, ~~Fleerackers, A.~~ & Alperin, J.P.^ Framing science: How opioid research is presented in online news media. *Frontiers in Communication*. doi: 10.3389/fcomm.2020.00064/
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:4xDN1ZYqzskC} ~~Matthias, L.~~, ~~Fleerackers, A.~~ & Alperin, J.P.^ Framing science: How opioid research is presented in online news media. *Frontiers in Communication*. doi: 10.3389/fcomm.2020.00064/
 
-- [peer-reviewed,journal] ..Didegah, F..., Ghaseminik, Z. & Alperin, J.P.^ Using a diabetes discussion forum and Wikipedia to detect the alignment of public interests and the research literature. *Journal of Altmetrics*. doi: 10.1101/496927
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:Ak0FvsSvgGUC} ..Didegah, F..., Ghaseminik, Z. & Alperin, J.P.^ Using a diabetes discussion forum and Wikipedia to detect the alignment of public interests and the research literature. *Journal of Altmetrics*. doi: 10.1101/496927
 
-- [peer-reviewed,journal] {GS:19} ~~Enkhbayar, A.~~, Haustein, ~~S., Barata, G.~~ & Alperin, J.P.^ How much research shared on Facebook happens outside of public pages and groups? A comparison of public and private online activity around PLOS ONE papers. *Quantitative Science Studies*. doi: 10.1162/qss_a_00044
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:LdasjJ6CEcoC} ~~Enkhbayar, A.~~, Haustein, ~~S., Barata, G.~~ & Alperin, J.P.^ How much research shared on Facebook happens outside of public pages and groups? A comparison of public and private online activity around PLOS ONE papers. *Quantitative Science Studies*. doi: 10.1162/qss_a_00044
 
-- [peer-reviewed,journal] {GS:4} ..Moscrop, D..., ~~Wong, L.~~ & Alperin, J.P.^ Have You Seen This? Why Political Pundits Share Scholarly Research on Social Media. Scholarly and Research Communication, 11(1). doi: 10.22230/src.2020v11n1a355
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:MpfHP-DdYjUC} ..Moscrop, D..., ~~Wong, L.~~ & Alperin, J.P.^ Have You Seen This? Why Political Pundits Share Scholarly Research on Social Media. Scholarly and Research Communication, 11(1). doi: 10.22230/src.2020v11n1a355
 
-- [peer-reviewed,journal] {GS:26} Kalir, J., ~~Morales, E.~~, ~~Fleerackers, A.~~ & Alperin, J.P.^ “When I saw my peers annotating:” Student perceptions of social annotation for learning in multiple courses. Information and Learning Sciences. doi: 10.1108/ILS-12-2019-0128
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:kVjdVfd2voEC} Kalir, J., ~~Morales, E.~~, ~~Fleerackers, A.~~ & Alperin, J.P.^ “When I saw my peers annotating:” Student perceptions of social annotation for learning in multiple courses. Information and Learning Sciences. doi: 10.1108/ILS-12-2019-0128
 
-- [peer-reviewed,journal] {GS:167} Niles, M., McKiernan, E., Schimanski, L.A. & Alperin, J.P.^ Why we publish where we do: Faculty publishing values and their relationship to review, promotion and tenure expectations. *PLOS One*. doi: 10.1101/706622
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:uDGL6kOW6j0C} Niles, M., McKiernan, E., Schimanski, L.A. & Alperin, J.P.^ Why we publish where we do: Faculty publishing values and their relationship to review, promotion and tenure expectations. *PLOS One*. doi: 10.1101/706622
 
 ### 2019
 
 - [book] ~~MacKenzie, S.~~ & Alperin, J.P.^ Open Textbook: The Web, Publishing, and Ourselves. PressBooks. {sfupublishing.pressbooks.com}(link)
 
-- [peer-reviewed,journal] {GS:291} McKiernan, E., Schimanski, L.A., ~~Muñoz Nieves, C.~~, Matthias, L., Niles, M. & Alperin, J.P.^ Use of the Journal Impact Factor in academic review, promotion, and tenure evaluations. *eLife*. doi: 10.7554/eLife.47338
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:sJsF-0ZLhtgC} McKiernan, E., Schimanski, L.A., ~~Muñoz Nieves, C.~~, Matthias, L., Niles, M. & Alperin, J.P.^ Use of the Journal Impact Factor in academic review, promotion, and tenure evaluations. *eLife*. doi: 10.7554/eLife.47338
 
-- [peer-reviewed,chapter] {GS:5} Alperin, J.P.^, Willinsky, J., Owen, B., MacGregor, J., Smecher, A. & Stranack, K. The Public Knowledge Project: Reflections and Directions After Its First Two Decades. In Chan, L., & Mounier, P. (Eds.), Connecting the Knowledge Commons—From Projects to Sustainable Infrastructure: The 22nd International Conference on Electronic Publishing. Marseille: OpenEdition Press. doi: 10.4000/books.oep.9054
+- [peer-reviewed,chapter] {GS:QW-eo0MAAAAJ:0CzhzZyukY4C} Alperin, J.P.^, Willinsky, J., Owen, B., MacGregor, J., Smecher, A. & Stranack, K. The Public Knowledge Project: Reflections and Directions After Its First Two Decades. In Chan, L., & Mounier, P. (Eds.), Connecting the Knowledge Commons—From Projects to Sustainable Infrastructure: The 22nd International Conference on Electronic Publishing. Marseille: OpenEdition Press. doi: 10.4000/books.oep.9054
 
-- [peer-reviewed,journal] {GS:183} Alperin, J.P.^, ~~Muñoz Nieves, C.~~, Niles, M., Schimanski, L.A., Fischman, G.E., Niles, M., & McKiernan, E. How significant are the public dimensions of faculty work in review, promotion, and tenure documents? *eLife*. doi: 10.17613/M6W950N35
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:tH6gc1N1XXoC} Alperin, J.P.^, ~~Muñoz Nieves, C.~~, Niles, M., Schimanski, L.A., Fischman, G.E., Niles, M., & McKiernan, E. How significant are the public dimensions of faculty work in review, promotion, and tenure documents? *eLife*. doi: 10.17613/M6W950N35
 
 ### 2018
 
-- [peer-reviewed,journal] {GS:11} Maggio, L.A., Ratcliff, C., Krakow, M., Moorhead, L., ~~Enkhbayar, A.~~ & Alperin, J.P.^ Making headlines: an analysis of US government-funded cancer research mentioned in online media. *BMJ Open*. doi: 10.1101/370973
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:lvd772isFD0C} Maggio, L.A., Ratcliff, C., Krakow, M., Moorhead, L., ~~Enkhbayar, A.~~ & Alperin, J.P.^ Making headlines: an analysis of US government-funded cancer research mentioned in online media. *BMJ Open*. doi: 10.1101/370973
 
 - [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:5icHVeHT4IsC} Schimanski, L. & Alperin, J.P.^. The evaluation of scholarship in academic promotion and tenure processes: Past, present, and future. *F1000*. doi: 10.12688/f1000research.16493.1
 
-- [peer-reviewed,journal] {GS:87} Alperin, J.P.^, Gomez, C. & Haustein, S. Identifying diffusion patterns of research on social media. Public Understanding of Science. doi: 10.1177/0963662518761733
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:8xutWZnSdmoC} Alperin, J.P.^, Gomez, C. & Haustein, S. Identifying diffusion patterns of research articles on Twitter: A case study of online engagement with open access articles. *Public Understanding of Science*. doi: 10.1177/0963662518761733
 
-- [peer-reviewed,journal] {GS:43} ..Siler, K..., Haustein, S., Smith, E., Larivière, V. & Alperin, J.P. Authorial and institutional stratification in open access publishing: The case of global health research. *PeerJ*. doi: 10.7717/peerj.4269
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:OP4eGU-M3BUC} ..Siler, K..., Haustein, S., Smith, E., Larivière, V. & Alperin, J.P. Authorial and institutional stratification in open access publishing: The case of global health research. *PeerJ*. doi: 10.7717/peerj.4269
 
 - [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:mNrWkgRL2YcC} Piwowar, H., Priem, J., Larivière, V., Alperin, J.P., ~~Matthias, L.~~, Norlander, B., Farley, A., West, J. & Haustein, S. The State of OA: A large-scale analysis of the prevalence and impact of Open Access articles. *PeerJ* doi: 10.7717/peerj.4375
 
-- [peer-reviewed,journal] {GS:30} ..Barata, G..., Haustein, S., Shores, K. & Alperin, J.P.^ Local chatter or international buzz? Differences in language of social posts about Zika research. *PLOS ONE*. doi: 10.1371/journal.pone.0190482
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:OR75R8vi5nAC} ..Barata, G..., Haustein, S., Shores, K. & Alperin, J.P.^ Local chatter or international buzz? Language of social posts about Zika research on Twitter and Facebook. *PLOS ONE*. doi: 10.1371/journal.pone.0190482
 
 - [chapter] Willinsky, J. & Alperin, J.P. (2018). The academic ethics of open access to research and scholarship. In B. Smart, K. Peggs, and J. Burridge (Eds.), Critical social research ethics. Vol. 2. Los Angeles: Sage
 
-- [peer-reviewed,conference] {GS:7} ~~Enkhbayar, A.~~ & Alperin, J.P.^ (2018, September 12). Challenges of capturing engagement on Facebook for altmetrics. *STI 2018*. Leiden, Netherlands.
+- [peer-reviewed,conference] {GS:QW-eo0MAAAAJ:gVv57TyPmFsC} ~~Enkhbayar, A.~~ & Alperin, J.P.^ (2018, September 12). Challenges of capturing engagement on Facebook for altmetrics. *STI 2018*. Leiden, Netherlands.
 
-- [peer-reviewed,journal] {GS:72} Shu, F., Mongeon, P., Haustein, S., ..Siler, K..., Alperin, J.P., Larivière, V. Is it such a big deal? On the cost of journal use in the digital era. *College & Research Libraries*. doi: 10.5860/crl.79.6.785
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:BzfGm06jWhQC} Shu, F., Mongeon, P., Haustein, S., ..Siler, K..., Alperin, J.P., Larivière, V. Is it such a big deal? On the cost of journal use in the digital era. *College & Research Libraries*. doi: 10.5860/crl.79.6.785
 
 ### 2017
 
-- [peer-reviewed,journal] {GS:127} Alperin, J.P.^ & ~~Rozemblum, C.~~ The Reinterpretation of the Visibility and Quality of New Policies to Assess Scientific Publications. Revista Interamericana de Bibliotecologia, 40(3). doi: 10.17533/udea.rib.v40n3a04
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:cWzG1nlazyYC} Alperin, J.P.^ & ~~Rozemblum, C.~~ The Reinterpretation of the Visibility and Quality of New Policies to Assess Scientific Publications. *Revista Interamericana de Bibliotecologia*. doi: 10.17533/udea.rib.v40n3a04
 
 - [conference] Garnett, A., Aufreiter, M., Buchtala, O., Alperin, J.P. (2017, April 25). Introducing Texture: An Open Source WYSIWYG Javascript Editor for JATS. *JATS-Con Proceedings 2017*, Bethesda: National Center for Biotechnology Information.
 
 ### 2016
 
-- [peer-reviewed,journal] {GS:8} Reilly, K.M.A. & Alperin, J.P. Intermediation in Open Development: A Knowledge Stewardship Approach. Global Media Journal: Canadian Edition, 6(1).
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:4hFrxpcac9AC} Reilly, K.M.A. & Alperin, J.P. Intermediation in Open Development: A Knowledge Stewardship Approach. *Global Media Journal: Canadian Edition*
 
-- [peer-reviewed,journal] {GS:26} Carvalho Neto, S, Willinsky, J. & Alperin, J.P.^ Measuring, Rating, Supporting, and Strengthening Open Access Scholarly Publishing in Brazil. Education Policy Analysis Archives, 24(54). doi: 10.14507/epaa.24.2391
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:HtEfBTGE9r8C} Carvalho Neto, S, Willinsky, J. & Alperin, J.P.^ Measuring, Rating, Supporting, and Strengthening Open Access Scholarly Publishing in Brazil. *Education Policy Analysis Archives*. doi: 10.14507/epaa.24.2391
 
-- [peer-reviewed,conference] {GS:15} Alperin, J.P.^ Stranack, K. & Garnett, A. (2016, September 14). On the Peripheries of Scholarly Infrastructure: A look at the Journals Using Open Journal Systems. 21st International Conference on Science and Technology Indicators (STI Conference 2016), Valencia, Spain.
+- [peer-reviewed,conference] {GS:QW-eo0MAAAAJ:IUKN3-7HHlwC} Alperin, J.P.^ Stranack, K. & Garnett, A. (2016, September 14). On the peripheries of scholarly infrastructure: A look at the Journals Using Open Journal Systems. *21st International Conference on Science and Technology Indicators (STI Conference 2016)*. Valencia, Spain.
 
 ### 2015
 
-- [peer-reviewed,journal] {GS:71} Alperin, J.P.^ The Public Impact of Latin America’s Approach to Open Access. Doctoral Dissertation, Stanford University.
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:kh2fBNsKQNwC} Alperin, J.P.^ The public impact of Latin America’s approach to Open Access. Doctoral Dissertation, Stanford University.
 
-- [peer-reviewed,journal] {GS:115} Alperin, J.P.^ Geographic variation in social media metrics: An analysis of Latin American journal articles, Aslib Journal of Information Management 67(3). doi: 10.1108/AJIM-12-2014-0176
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:_axFR9aDTf0C} Alperin, J.P.^ Geographic variation in social media metrics: An analysis of Latin American journal articles. *Aslib Journal of Information Management*. doi: 10.1108/AJIM-12-2014-0176
 
 - [book] {GS:118} Alperin, J.P.^ & Fischman, G.E. (Eds.). Made in Latin America: Open Access, Scholarly Journals, and Regional Innovations, Buenos Aires: CLACSO.
 
-- [chapter] {GS:9} ~~Shamash, K.~~, Alperin, J.P. & ~~Bordini, A.~~ Teaching Data Analysis in the Social Sciences: A Case Study with Article Level Metrics. In Atenas, J. &Havemann, L. (Eds) Open Data as an Open Education Resource, London: Open Knowledge Foundation. doi: 10.6084/m9.figshare.1590031
+- [chapter] {GS:QW-eo0MAAAAJ:GtLg2Ama23sC} ~~Shamash, K.~~, Alperin, J.P. & ~~Bordini, A.~~ Teaching Data Analysis in the Social Sciences: A case study with article level metrics. In Atenas, J. &Havemann, L. (Eds) *Open Data as an Open Education Resource*. London: Open Knowledge Foundation. doi: 10.6084/m9.figshare.1590031
 
 - [book] {GS:93} Alperin, J.P.^ & Fischman, G.E. Scientific Journals Produced in Latin America. In Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America Open Access, Scholarly Journals, and Regional Innovations, Buenos Aires: CLACSO.
 
 - [chapter] {GS:9} Fischman, G.E. & Alperin, J.P.^ About Lights and Shadows: Latin American Scientific Journals. In Alperin, J.P. & Fischman, G.E. (eds.) (2015).Made in Latin America Open Access, Scholarly Journals, and Regional Innovations, Buenos Aires: CLACSO.
 
-- [peer-reviewed,conference] {GS:11} Alperin, J.P. (October 9). Moving beyond counts: A method for surveying Twitter users. Altmetrics15 Workshop, Altmetrics Conference. Amsterdam, Netherlands.
+- [peer-reviewed,conference] {GS:QW-eo0MAAAAJ:4fGpz3EwCPoC} Alperin, J.P. (October 9). Moving beyond counts: A method for surveying Twitter users. Altmetrics15 Workshop *Altmetrics Conference*. Amsterdam, Netherlands.
 
-- [peer-reviewed,conference] {GS:1} Garnett, A., Alperin, J.P., Willinsky, J. (2015, April 21). The Public Knowledge Project XML Publishing Service and meTypeset: Don’t call it “Yet Another Word-to-JATS Conversion Kit”, *JATS-Con Proceedings 2015*, Bethesda: National Center for Biotechnology Information.
+- [peer-reviewed,conference] {GS:QW-eo0MAAAAJ:rmuvC79q63oC} Garnett, A., Alperin, J.P., Willinsky, J. (2015, April 21). The Public Knowledge Project XML Publishing Service and meTypeset: Don’t call it “Yet Another Word-to-JATS Conversion Kit”, *JATS-Con Proceedings 2015*. Bethesda: National Center for Biotechnology Information.
 
 ### 2014
 
-- [book] {GS:54} Alperin, J.P.^, Babini, D., & Fischman, G.E. (Eds.). Open Access Indicators and Scholarly Communications in Latin America, Buenos Aires: CLACSO.
+- [book] {GS:QW-eo0MAAAAJ:a9-T7VOCCH8C} Alperin, J.P.^, Babini, D., & Fischman, G.E. (Eds.). Open Access Indicators and Scholarly Communications in Latin America, Buenos Aires: CLACSO.
 
-- [chapter] {GS:50} Alperin, J.P.^ Assessing the Growth and Use of Open Access Resources from Developing Regions: The Case of Latin America, Open Access Indicators and Scholarly Communications. In Alperin, J.P., Babini, D., & Fischman, G.E. (eds.) (2014). Open Access Indicators and Scholarly Communications in Latin America, Buenos Aires: CLACSO.
+- [chapter] {GS:50} Alperin, J.P.^ Assessing the Growth and Use of Open Access Resources from Developing Regions: The Case of Latin America, Open Access Indicators and Scholarly Communications. In Alperin, J.P., Babini, D., & Fischman, G.E. (eds.) Open Access Indicators and Scholarly Communications in Latin America, Buenos Aires: CLACSO.
 
-- [journal] Alperin, J.P.^ & Taylor, M. Science without borders: are technology and policy limiting internationalization? *ResearchTrends*. 37.
+- [journal] {GS:QW-eo0MAAAAJ:5qfkUJPXOUwC} Alperin, J.P.^ & Taylor, M. Science without borders: are technology and policy limiting internationalization? *ResearchTrends*.
 
-- [peer-reviewed,conference] {GS:18} Alperin, J.P. Exploring altmetrics in an emerging country context. Altmetrics14 Workshop, WebScience Conference 2014. Bloomington, USA. doi: 10.6084/m9.figshare.1041797
+- [peer-reviewed,conference] {GS:QW-eo0MAAAAJ:XvxMoLDsR5gC} Alperin, J.P. Exploring altmetrics in an emerging country context. Altmetrics14 Workshop *WebScience Conference 2014*. Bloomington, USA. doi: 10.6084/m9.figshare.1041797
 
 ### 2013
 
-- [peer-reviewed,journal] {GS:32} Alperin, J.P.^ Brazil’s Exception to the World-Class University Movement. *Quality in Higher Education*, 19(2). doi: 10.1080/13538322.2013.802573
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:Se3iqnhoufwC} Alperin, J.P.^ Brazil’s Exception to the World-Class University Movement. *Quality in Higher Education*. doi: 10.1080/13538322.2013.802573
 
-- [journal] {GS:101} Alperin, J.P.^ Ask Not What Altmetrics Can Do for You, but What Altmetrics Can Do for Developing Countries. Bulletin of the American Society for Information Science and Technology, 39. doi: 10.1002/bult.2013.1720390407
+- [journal] {GS:QW-eo0MAAAAJ:LkGwnXOMwfcC} Alperin, J.P.^ Ask not what altmetrics can do for you, but What altmetrics can do for developing countries. *Bulletin of the American Society for Information Science and Technology*. doi: 10.1002/bult.2013.1720390407
 
 ### 2012
 
-- [journal] {GS:37} Willinsky, J. & Alperin, J.P. The Academic Ethics of Open Access to Research and Scholarship. *Ethics and Education*, 39. doi: 10.1080/17449642.2011.632716
+- [journal] {GS:QW-eo0MAAAAJ:Y0pCki6q_DkC} Willinsky, J. & Alperin, J.P. The Academic Ethics of Open Access to Research and Scholarship. *Ethics and Education*. doi: 10.1080/17449642.2011.632716
 
 ### 2011
 
-- [peer-reviewed,journal] {GS:66} Alperin, J.P.^, Fischman, G.E., & Willinsky, J. Scholarly Communication Strategies in Latin America’s Research Universities. *Educación Superior y Sociedad*, 16(2).
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:W7OEmFMy1HYC} Alperin, J.P.^, Fischman, G.E., & Willinsky, J. Scholarly communication strategies in Latin America’s research-intensive universities. *Educación Superior y Sociedad*
 
 - [peer-reviewed,chapter] Fischman, G.E., Alperin, J.P., & Willisnky, J. Old and New Challenges for Scholarly Communications in Spanish. In Cetto, A.M., & Alonso, O. Quality and Impact of Ibero-American Scientific Journals. Mexico: UNAM.
 
 ### 2010
 
-- [peer-reviewed,journal] {GS:72} Fischman, G.E., Alperin, J.P., & Willinsky, J. Visibility and Quality in spanish-Language Latin American Scholarly Publishing. Information Technologies & International Development, 6(4).
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:9yKSN-GCB0IC} Fischman, G.E., Alperin, J.P., & Willinsky, J. Visibility and Quality in Spanish-language Latin American scholarly publishing. *Information Technologies & International Development*.
 
 ### 2008
 
-- [peer-reviewed,journal] {GS:92} Alperin, J.P.^, Fischman, G.E., & Willinsky, J. “Open Access and Scholarly Publishing in Latin America: Ten flavours and a few reflections”. *Liinc em Revista*, 4. doi: 10.18225/liinc.v4i2.269
+- [peer-reviewed,journal] {GS:QW-eo0MAAAAJ:u5HHmVD_uO8C} Alperin, J.P.^, Fischman, G.E., & Willinsky, J. Open Access and Scholarly Publishing in Latin America: Ten flavours and a few reflections. *Liinc em Revista*. doi: 10.18225/liinc.v4i2.269
 
 ### NON-TRADITIONAL OUTPUTS {.left}
 
