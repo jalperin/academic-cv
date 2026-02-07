@@ -851,6 +851,8 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 ## PRESENTATIONS
 ### 2026
+- [invited] Alperin, J.P. (Feb 2). Beyond Articles: Rethinking Diamond OA for a Data-Driven Research Future. *3rd Global Summit on Diamond Open Access*. Online.
+
 - [invited] Alperin, J.P. (Jan 27). Data robustness and Availability for Research Assessment. *OECD Global Science Forum*. Online. 
 
 ### 2025
