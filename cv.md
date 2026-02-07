@@ -1362,11 +1362,11 @@ Courtney Onstad | 2021-present
 ### MASTERS SUPERVISION
 
 ::: {.media-item date="expected 2026"}
-**Vanessa Gomez Beltran** — *The Creation of a New Platform for Young Publishing Professionals: The Publishing Guide & Printed.* SFU
+**Vanessa Gomez Beltran** — *The Creation of a New Platform for Young Publishing Professionals: The Publishing Guide & Printed.* Master in Publishing. SFU
 :::
 
 ::: {.media-item date="expected 2026"}
-**Jinhua Chen** — *Comparative Study of Ancient Book Cataloguing: China's National Census of Ancient Books and Europe's Universal Short Title Catalogue.* SFU
+**Jinhua Chen** — *Comparative Study of Ancient Book Cataloguing: China's National Census of Ancient Books and Europe's Universal Short Title Catalogue.* Master in Publishing. SFU
 :::
 
 ::: {.media-item date="expected 2024"}
@@ -1540,6 +1540,10 @@ Numerous Journals, including *Nature, Scientometrics, and eLife (10+/yr)*
 ### WORKING GROUPS
 
 ::: {.media-item date="current"}
+OpenAlex Colors Working Group
+:::
+
+::: {.media-item date="current"}
 Collaborative Metadata Enrichment Taskforce (COMET), Future of Scientific Publishing
 :::
 
@@ -1548,6 +1552,10 @@ Metadata 2020 Working Group, BOAI 15 Working group, SPARC Student Advisory Group
 :::
 
 ## UNIVERSITY SERVICE
+
+::: {.media-item date="2025"}
+*Vice-President, Research and International Re-Appointment Committee*
+:::
 
 ::: {.media-item date="2014–present"}
 *Faculty hiring committees (5)*
