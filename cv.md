@@ -1221,6 +1221,14 @@ Latin American Open Access Publishing Workshop Series, nine countries
 
 ### VISITING SCHOLARS
 
+::: {.media-item date="2026"}
+**Elias Entrup**
+:::
+
+::: {.media-item date="2026"}
+**Sarah Wendt**, Humboldt University of Berlin, Germany
+:::
+
 ::: {.media-item date="2022-2024"}
 **Lucia Céspedes**, Universidad de Córdoba, Argentina
 :::
