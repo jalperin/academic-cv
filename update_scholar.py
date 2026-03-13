@@ -11,7 +11,7 @@ from scholarly import scholarly
 # ----------------------------
 
 if len(sys.argv) < 2:
-    print("Usage: python fetch_citations.py <markdown_file>")
+    print("Usage: python update_scholar.py <markdown_file>")
     sys.exit(1)
 
 MARKDOWN_FILE = sys.argv[1]
@@ -67,11 +67,17 @@ def fetch_author_profile(author_id):
     return author_filled
 
 def fetch_publications(author_filled, existing_data):
-    """Fetch all publications, saving CSV after each publication."""
+    """Fetch all publications, starting from the one least recently scraped."""
     pubs_list = author_filled.get('publications', [])
     total_pubs = len(pubs_list)
 
-    for idx, pub in enumerate(pubs_list, start=1):
+    # Sort publications by date_scraped (oldest first)
+    # Publications not in existing_data go first (date_scraped = None)
+    pubs_sorted = sorted(pubs_list, key=lambda pub: (
+        existing_data.get(pub['bib'].get('title', ''), {}).get('date_scraped') or '0000-00-00'
+    ))
+
+    for idx, pub in enumerate(pubs_sorted, start=1):
         try:
             pub_filled = scholarly.fill(pub)
             title = pub_filled['bib'].get('title', '')
@@ -129,12 +135,12 @@ if __name__ == "__main__":
     author_profile = fetch_author_profile(AUTHOR_ID)
     existing_data = load_existing_csv(CITE_FILE)
 
-    # Fetch publications, writing CSV after each iteration
-    fetch_publications(author_profile, existing_data)
-
     # Fetch author stats
     author_stats = fetch_author_stats(author_profile)
     save_author_stats(author_stats, AUTHOR_STATS_FILE)
+
+    # Fetch publications, writing CSV after each iteration
+    fetch_publications(author_profile, existing_data)
 
     print(f"\nCompleted. Publications CSV: {CITE_FILE}")
     print(f"Author statistics CSV: {AUTHOR_STATS_FILE}")

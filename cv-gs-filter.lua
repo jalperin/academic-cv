@@ -59,8 +59,11 @@ local function replace_gs_ids(s)
   return (s:gsub("{GS:%s*(.-)%s*}", function(id)
     local count = citations[id]
     if count then
-      -- citation found, format it
-      return "{GS:" .. count .. "}" -- formatted citation
+      count = tonumber(count) or 0
+      if count == 0 then
+        return ""  -- remove if count is 0
+      end
+      return "{GS:" .. count .. "}"
     elseif tonumber(id) then
       -- id itself is numeric, leave as-is
       return "{GS:" .. id .. "}"

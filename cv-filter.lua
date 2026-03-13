@@ -509,7 +509,7 @@ function Header(el)
       
       in_publications = true
       current_year_section = "valid"  -- Reset year tracking for new section
-      local html = closing .. '<h2 class="section-heading margin-top-30 margin-bottom-5">' .. content .. '</h2>\n'
+      local html = closing .. '<h2 class="section-heading margin-top-30 margin-bottom-5 page-break-before">' .. content .. '</h2>\n'
       -- Conditionally add section-react div
       if not el.classes:includes('no-heading-underline') then
         html = html .. '<div class="section-react"></div>\n\n'
@@ -536,7 +536,7 @@ function Header(el)
       
       in_presentations = true
       current_year_section = "valid"  -- Reset year tracking for new section
-      local html = closing .. '<h2 class="section-heading margin-top-30 margin-bottom-5">' .. content .. '</h2>\n'
+      local html = closing .. '<h2 class="section-heading margin-top-30 margin-bottom-5 page-break-before">' .. content .. '</h2>\n'
       -- Conditionally add section-react div
       if not el.attributes['no-react'] then
         html = html .. '<div class="section-react"></div>\n\n'
