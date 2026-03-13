@@ -1,21 +1,26 @@
 # CV Yearly Statistics
 summary:
-  scholarly_pubs: 118
+  scholarly_pubs: 120
   peer_reviewed: 66
-  total_publications: 120
+  total_publications: 122
 
 presentation_summary:
-  total: 117
-  invited: 93
+  total: 120
+  invited: 96
   keynote: 23
   plenary: 9
   peer_reviewed: 20
 
 yearly_stats:
+  2026:
+    total: 1
+    peer_reviewed: 0
+    traditional: 0
+    nontraditional: 1
   2025:
-    total: 9
+    total: 10
     peer_reviewed: 9
-    traditional: 9
+    traditional: 10
     nontraditional: 0
   2024:
     total: 14
@@ -109,9 +114,15 @@ yearly_stats:
     nontraditional: 0
 
 yearly_presentation_stats:
+  2026:
+    total: 2
+    invited: 2
+    keynote: 0
+    plenary: 0
+    peer_reviewed: 0
   2025:
-    total: 13
-    invited: 11
+    total: 14
+    invited: 12
     keynote: 3
     plenary: 0
     peer_reviewed: 0

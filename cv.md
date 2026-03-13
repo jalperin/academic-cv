@@ -1,7 +1,7 @@
 ---
 title: Juan Pablo Alperin - CV
 name: Juan Pablo Alperin
-subtitle: Professor
+subtitle: Associate Professor
 sidebar: true
 gs_author_id: QW-eo0MAAAAJ
 gs_csv: gs_citations.csv
@@ -134,14 +134,7 @@ Impact Award: Connection: *Social Sciences and Humanities Research Council*
 
 ## GRANT FUNDING
 
-### UNDER REVIEW
-
-::: {.grant-item funding="C$5,525,766", total project="C$6,907,227" years="2027-2031"} 
-Alperin, J.P. et al. *Research Information Community Hub (RICH)*. Canadian Foundation for Innovation and B.C. Knowledge Development Fund 
-::: 
-
 ### CURRENT
-
 ::: {.grant-item funding="US$750,000" years="2025-2028"}
 Alperin, J.P. et al. *Investigating Preprints, Open Peer Review, and Article Revisions*. Gates Foundation.
 :::
