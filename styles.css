@@ -610,12 +610,10 @@ h3 {
     page-break-inside: avoid; /* fallback */
   }
   
-  /* Force page breaks before major sections */
-  h2.section-heading::before {
-    content: "";
-    display: block;
-    height: 0;
-    break-before: auto;
+  /* Page break before sections with the page-break-before class */
+  .page-break-before {
+    break-before: page !important;
+    page-break-before: always !important;
   }
   
   /* Don't break between year markers and content */

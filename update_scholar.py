@@ -24,7 +24,7 @@ post = frontmatter.load(MARKDOWN_FILE)
 AUTHOR_ID = post.metadata.get("gs_author_id")
 CITE_FILE = post.metadata.get("gs_csv")
 AUTHOR_STATS_FILE = post.metadata.get("gs_author_stats", "gs_author_stats.yaml")
-DELAY_BETWEEN_REQUESTS = post.metadata.get("gs_delay_between_requests", 2)
+DELAY_BETWEEN_REQUESTS = post.metadata.get("gs_delay_between_requests", 5)
 
 if not AUTHOR_ID or not CITE_FILE:
     raise ValueError("Both 'gs_author_id' and 'gs_csv' must be defined in YAML metadata")
