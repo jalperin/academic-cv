@@ -222,6 +222,10 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 
 ## MEDIA COVERAGE
+::: {.media-item date="Apr 30, 2026"}
+*Nature*. [Why preprint servers are increasing moderation — and what that means for researchers](https://www.nature.com/articles/d41586-026-01203-6)
+:::
+
 ::: {.media-item date="Jan 7, 2026"}
 *Undark*. [In Scientific Publishing, Who Should Foot the Bill?](https://undark.org/2026/01/07/apc-science-publishing/)
 :::
