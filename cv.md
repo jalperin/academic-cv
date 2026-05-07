@@ -1219,7 +1219,7 @@ Latin American Open Access Publishing Workshop Series, nine countries
 ### VISITING SCHOLARS
 
 ::: {.media-item date="2026"}
-**Elias Entrup**
+**Elias Entrup**, Leibniz Information Centre for Science and Technology (TIB), Germany
 :::
 
 ::: {.media-item date="2026"}
@@ -1265,7 +1265,7 @@ Latin American Open Access Publishing Workshop Series, nine countries
 **Diego Chavarro**
 :::
 
-::: {.media-item date="2022-current"}
+::: {.media-item date="2022-2026"}
 **Natascha Chtena**
 :::
 
@@ -1303,11 +1303,15 @@ Latin American Open Access Publishing Workshop Series, nine countries
 
 ### RESEARCH ASSISTANTS
 
-::: {.media-item date="2018-present"}
+::: {.media-item date="2025-current"}
+**Müge Bakioğlu** (Doctoral)
+:::
+
+::: {.media-item date="2018-2024"}
 **Olivia Aguiar** (Doctoral)
 :::
 
-::: {.media-item date="2018-present"}
+::: {.media-item date="2018-2024"}
 **Esteban Morales** (Masters/Doctoral)
 :::
 
@@ -1315,7 +1319,7 @@ Latin American Open Access Publishing Workshop Series, nine countries
 **Asura Enkhbayar** (Masters/Doctoral)
 :::
 
-::: {.media-item date="2018-"}
+::: {.media-item date="2018-2019"}
 **Michelle La** (Masters)
 :::
 
@@ -1333,7 +1337,7 @@ Latin American Open Access Publishing Workshop Series, nine countries
 
 ### DOCTORAL SUPERVISION
 
-::: {.media-item date="WHEN-present"}
+::: {.media-item date="2024-present"}
 **Chantal Ripp**
 :::
 
@@ -1374,10 +1378,6 @@ Courtney Onstad | 2021-present
 
 ::: {.media-item date="expected 2026"}
 **Jinhua Chen** — *Comparative Study of Ancient Book Cataloguing: China's National Census of Ancient Books and Europe's Universal Short Title Catalogue.* Master in Publishing. SFU
-:::
-
-::: {.media-item date="expected 2024"}
-**Mary Denyo** — *Developing Customer Experience Journey Documentation for Hemlock Printers.* SFU
 :::
 
 ::: {.media-item date="2023"}
