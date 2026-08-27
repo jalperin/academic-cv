@@ -1,0 +1,550 @@
+@font-face {
+  font-family: "AGaramondPro-Regular";
+  src: url("fonts/AGaramondPro-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AGaramondPro-Italic";
+  src: url("fonts/AGaramondPro-Italic.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AGaramondPro-BoldItalic";
+  src: url("fonts/AGaramondPro-Regular.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AGaramondPro-Bold";
+  src: url("fonts/AGaramondPro-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BrandonGrotesque-Regular";
+  src: url("fonts/HVD Fonts - BrandonGrotesque-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BrandonGrotesque-Bold";
+  src: url("fonts/HVD Fonts - BrandonGrotesque-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+.color-blue {
+  color: #165e9e !important;
+}
+
+.font-agp-regular {
+  font-family: "AGaramondPro-Regular", serif !important;
+}
+
+.font-agp-bold {
+  font-family: "AGaramondPro-Bold", serif !important;
+}
+
+.font-size-15 {
+  font-size: 15px !important;
+}
+
+.font-size-14 {
+  font-size: 14px !important;
+}
+
+.font-size-12 {
+  font-size: 12px !important;
+}
+
+.margin-top-30 {
+  margin-top: 30px !important;
+}
+
+.margin-top-15 {
+  margin-top: 15px !important;
+}
+
+.margin-top-10 {
+  margin-top: 10px !important;
+}
+
+.margin-top-5 {
+  margin-top: 5px !important;
+}
+
+.margin-bottom-5 {
+  margin-bottom: 5px !important;
+}
+
+.margin-bottom-20 {
+  margin-bottom: 20px !important;
+}
+
+.margin-left-10 {
+  margin-left: 10px !important;
+}
+
+.margin-left-20 {
+  margin-left: 20px !important;
+}
+
+.margin-right-10 {
+  margin-right: 10px !important;
+}
+
+.margin-0 {
+  margin: 0 !important;
+}
+
+.width-80 {
+  width: 80% !important;
+}
+
+.width-70 {
+  width: 70% !important;
+}
+
+.width-30 {
+  width: 30% !important;
+}
+
+.width-20 {
+  width: 20% !important;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.justify-content-around {
+  justify-content: space-around;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.text-align-center {
+  text-align: center !important;
+}
+
+.height-25 {
+  height: 25px !important;
+}
+
+.float-right {
+  float: right;
+}
+
+.custom-page-container {
+  max-width: 900px; /* Adjust this value as needed for compactness */
+  min-width: 850px;
+  margin: 0 auto; /* Center align */
+}
+
+body {
+  font-family: "BrandonGrotesque-Regular", sans-serif;
+  color: #333;
+  padding: 40px;
+}
+
+img {
+  width: 22px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+em {
+  letter-spacing: 0.2px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 600;
+  font-family: "BrandonGrotesque-bold", sans-serif;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.subtitle {
+  font-size: 14px;
+  color: #7c88a0;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.highlight-bar {
+  width: 100%;
+  max-width: 610px;
+  height: 10px;
+  background: linear-gradient(90deg, #79c2d0 10%, #e4ebf0 10%);
+  margin: 10px 0 30px 0;
+}
+
+.section-box {
+  background: #f9efec;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.section-box p {
+   margin: 0;
+   margin-top: 0.5rem; /* optional small spacing */
+}
+
+.section-react {
+  background: #f9efec;
+  padding: 7px;
+  width: 45px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.research-box {
+  background: #f9efec;
+  padding: 20px;
+  margin-left: 20px;
+  height: fit-content;
+}
+
+.summary-title {
+  background-color: #f37853;
+  font-size: 15px;
+  color: white;
+  padding: 5px 20px;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.summary-box {
+  background-color: #f9efec;
+  padding: 10px 50px;
+  padding-bottom: 30px;
+  margin-bottom: 10px;
+}
+
+.line-item {
+  display: flex;
+  align-items: baseline;
+  font-size: 15px;
+}
+
+.line-left {
+  white-space: nowrap;
+  margin-right: 10px;
+  font-family: "AGaramondPro-Regular", serif;
+}
+
+.line-right {
+  white-space: nowrap;
+  margin-left: 10px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.dotted-line {
+  border-bottom: 1px dotted #e07a2d;
+  flex-grow: 1;
+}
+
+.no-bullet {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.no-bullet li {
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+
+.research-box ul {
+  padding-left: 20px;
+}
+
+.research-box li {
+  margin-bottom: 5px;
+  font-size: 15px;
+  color: black;
+}
+
+.research-box li::marker {
+  color: #e07a2d;
+}
+
+.small-heading {
+  font-size: 14px;
+  color: #555;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.award-line {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  font-family: "AGaramondPro-Regular", serif;
+}
+
+.award-under {
+  font-size: 14px;
+  display: flex;
+  font-family: "BrandonGrotesque-Regular", sans-serif !important;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 100%;
+}
+
+.award-title {
+  white-space: normal;
+  word-wrap: break-word;
+  font-size: 15px;
+  line-height: 1.5;
+  display: block;
+  text-indent: -20px; /* Moves the first line back */
+  padding-left: 20px;
+}
+
+/* The year aligned to the end */
+.award-year {
+  white-space: nowrap;
+  font-weight: 600;
+  font-size: 14px !important;
+  font-family: "BrandonGrotesque-Regular", sans-serif !important;
+}
+
+/* Ensure alignment */
+.award-line {
+  grid-template-columns: auto 1fr auto;
+  width: 100%;
+}
+
+.swap-award-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-left: 20px;
+  .award-title-dot {
+    margin: 0 10px;
+  }
+}
+
+.wavy-line {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #165e9e;
+  text-decoration-line: line-through;
+  margin: 0 5px;
+  color: white;
+  user-select: none;
+  cursor: pointer;
+}
+
+.dotted-mark-line {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #e07a2d;
+  text-decoration-line: line-through;
+  margin: 0 5px;
+  color: white;
+  user-select: none;
+  cursor: pointer;
+}
+
+.google-scholar-mark {
+  font-size: 12px;
+  color: #165e9e;
+  line-height: 1.3;
+  border: 1px solid #165e9e;
+  padding: 0 4px;
+  margin: 0 4px;
+}
+
+.left-bar-content {
+  position: relative;
+  display: block;
+  width: 100%;
+  float: left;
+}
+
+.left-bar-content::after {
+  position: absolute;
+  content: "";
+  right: 0px;
+  top: 3px;
+  display: block;
+  padding: 7px;
+  height: 100%;
+  background-color: #f9efec;
+}
+
+.right-mark {
+  position: relative;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  display: block;
+  text-align: end;
+  margin-right: 70px;
+}
+
+.right-mark::after {
+  position: absolute;
+  content: "";
+  right: -70px;
+  top: 3px;
+  display: block;
+  padding: 7px 30px;
+  background-color: #f9efec;
+}
+
+.content-item {
+  width: calc(100% - 90px);
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.content-preview {
+  max-width: 50px;
+  min-width: 50px;
+  display: flex;
+  justify-content: stretch;
+  margin-right: 10px;
+}
+
+.content-text {
+  margin: 0;
+  font-size: 15px;
+  font-family: "AGaramondPro-Regular", serif;
+  text-indent: -20px; /* Moves the first line back */
+  padding-left: 20px;
+}
+
+.content-link {
+  color: #165e9e;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.super-mail {
+  width: 13px;
+  margin: 0;
+  vertical-align: super;
+}
+
+.wavy-text {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #165e9e;
+  text-decoration-thickness: from-font;
+}
+
+.dotted-text {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #e07a2d;
+  text-decoration-thickness: from-font;
+}
+
+.swap-item {
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+  gap: 6px;
+}
+.swap-text {
+  flex: 0 1 auto;
+  font-size: 15px;
+  font-family: "AGaramondPro-Regular", serif;
+  text-indent: -20px; /* Moves the first line back */
+  padding-left: 20px;
+}
+
+/* Dotted leader fills the gap between the entry and its right-aligned date.
+   Pure CSS: no measuring script, prints reliably. */
+.swap-fill {
+  flex: 1 1 auto;
+  min-width: 18px;
+  align-self: flex-end;
+  border-bottom: 1px dotted #e07a2d;
+  transform: translateY(-4px);
+}
+
+/* Print Styles */
+@page {
+  margin: 1.5cm 1.4cm;
+}
+
+@media print {
+  /* Keep the pink boxes, teal bar, and icons in the printed output. */
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Publications and Presentations each start on a fresh page. */
+  .page-break-before {
+    break-before: page !important;
+    page-break-before: always !important;
+  }
+
+  /* Never split a single entry across a page boundary. */
+  .content-item,
+  .swap-item,
+  .line-item,
+  .award-line,
+  .summary-box,
+  .research-box,
+  .no-bullet li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Never strand a heading at the foot of a page. */
+  h1, h2,
+  .section-heading,
+  .small-heading,
+  .right-mark {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  /* A summary box should stay with the first items beneath it. */
+  .summary-title { break-after: avoid; page-break-after: avoid; }
+
+  p { orphans: 3; widows: 3; }
+}
