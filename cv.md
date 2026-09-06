@@ -93,6 +93,8 @@ Impact Award: Connection: *Social Sciences and Humanities Research Council* | 20
 ## GRANT FUNDING
 
 ### CURRENT
+McCurdy et al. (Collaborator). *Auditing AI's Climate Coverage: A Research Partnership with The Narwhal on Generative Engine Optimization and Public-Interest Journalism*. SSHRC| $45,000 | 2026-2027
+
 Alperin, J.P. et al. *Investigating Preprints, Open Peer Review, and Article Revisions*. Gates Foundation. | US$750,000 | 2025-2028
 
 Alperin et al. (Applicant). *Open Research Europe Platform*, European Commission. | €900,000 | 2024-2026
