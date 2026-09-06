@@ -624,6 +624,10 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 ## PRESENTATIONS
 ### 2026 
+- [invited] Alperin, J.P. (July 16). Avoiding Rankings Is Not the Same as Valuing the Public. *July Dr. RIRC*. Online. 
+  
+-  Alperin, J.P., Nason, M., Cormier, D. (May 12). Questions with Difficult Answers : AI technologies and Open Community Infrastructures. *CRKN Virtual Conference: Creative Collaborations, Collective Momentum*. Online. 
+
 - [invited] Alperin, J.P., Aspler, J. (May 7). Am I Missing Something? Understanding How to Improve Repository Discoverability. *Canadian Association of Research Libraries (CARL)*. Online.
 
 - [invited] Alperin, J.P., Deschênes, M., Lair, S., Larivière, V. (April 15). Canada in an international context. *Advancing Diamond*. Montreal, Canada.
