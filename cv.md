@@ -311,6 +311,11 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 ### IN PRESS
 
 - [peer-reviewed,journal] ~Chtena, N~^, Pasquetto, I., Fleerackers, A., Pinfield, S., ~Benson  Marshall, M~, & Alperin, J.P. "Does it feel like a scientific paper?": Discretionary valuation and epistemic boundaries on preprint servers. *Engaging Science, Technology, and Society*
+  
+### 2026
+- [journal] Alperin, J.P.^, Kramer, B., Farley, A., Church, A., van Eck, N. J., Mitchell, D., Marcum, C., Takenaka, R., Harrison, M., Gatti, R. Recommendations for Revising the Open Access Classification System in OpenAlex. *Zenodo*. doi: 10.5281/zenodo.21934113 
+
+- [journal] Matthias, L.^, Alperin, J.P., Laakso, M. Diamond Fractures: Tracing Journal Transitions Away from Diamond Open Access. *arXiv*. arXiv:2606.31302 
 
 - [peer-reviewed,journal] ~Donathan II, D~^, Alperin, J.P.^, Nason, M., Tullney, M., & Shi, J. Evaluating Multilingual Metadata Quality in Crossref. *Journal of Librarianship and Scholarly Communications*. 
 
