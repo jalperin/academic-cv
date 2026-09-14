@@ -1128,6 +1128,10 @@ Review Editor, *Scholarly Metrics and Analytics* | 2016-2019
 
 ### REVIEWER
 
+Numerous Journals, including *Nature, Scientometrics, and eLife* | (10+ / year) ongoing
+
+Killam Fellowship External Reviewer | 2026
+
 SSHRC Partnership Development Grand Adjudication Committee | 2024
 
 Volkswagenstiftung (VW Foundation) Grant Adjudication Committee | 2023
@@ -1136,7 +1140,6 @@ SSHRC Insight Development Grant Adjudication Committee | 2021
 
 SSHRC Insight Grant Adjudication Committee | 2019
 
-Numerous Journals, including *Nature, Scientometrics, and eLife (10+/yr)* | ongoing
 
 ### WORKING GROUPS
 
