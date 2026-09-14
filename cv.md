@@ -337,7 +337,7 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 - [peer-reviewed,journal] ~Fleerackers, A~, ~Chtena, N~, ~Oliveira, M~, ~Dorsch, I~, Pinfield, S. & Alperin, J.P. Open data journalism: Opportunities and Future Directions. *Canadian Journal of Communications*. doi: 10.3138/cjc-2023-0040
 
-- [peer-reviewed,journal] ~Fleerackers, A~, Moorhead, L. L., & Alperin, J.P. “I’d like to think I’d be able to spot one if I saw one”: How science journalists navigate predatory journals. *Jouranalism Practice*. doi: 10.1080/17512786.2025.2551984 {gs:DyXnQzXoVgIC}
+- [peer-reviewed,journal] ~Fleerackers, A~, Moorhead, L. L., & Alperin, J.P. “I’d like to think I’d be able to spot one if I saw one”: How science journalists navigate predatory journals. *Journalism Practice*. doi: 10.1080/17512786.2025.2551984 {gs:DyXnQzXoVgIC}
 
 - [peer-reviewed,journal] ~Chtena, N~^, Alperin, J.P.^, Pinfield, S., ~Fleerackers, A~, & Pasquetto, I. Preprint servers and journals: rivals or allies? *Journal of Documentation*. doi: 10.1108/JD-09-2024-0215
 
