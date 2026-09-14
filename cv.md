@@ -309,22 +309,25 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 ### UNDER REVIEW
 - Chtena, N., Laakso, M., & Alperin, J.P. Who Owns, Publishes, and Governs Diamond Open Access? Institutional Arrangements Among Journals Using Open Journal Systems. *MetAriXiv*. [link](https://osf.io/preprints/metaarxiv/72hjr_v1)
 
+- [journal] Matthias, L.^, Alperin, J.P., Laakso, M. Diamond Fractures: Tracing Journal Transitions Away from Diamond Open Access. *arXiv*. [link](https://arxiv.org/abs/2606.31302)
+
+- Matthias, L., Schares, E., Alperin, J. P., Butler, L.-A., Kuang, S., Schönfelder, N., & Haustein, S. Estimating global article processing charges paid to 14 publishers for open access between 2019 and 2025. *arXiv*. [link](http://doi.org/10.48550/ARXIV.2608.16322)
+  
+- Matthias, L., Chavarro, D., Schares, E., Alperin, J. P., Rose, M., Frost, M., Camargo, F., Höfting, J., Butler, L.-A., Schönfelder, N., & Haustein, S. A dataset of article processing charges from 14 scholarly publishers, 2019-2025. *arXiv*. [link](https://doi.org/10.48550/ARXIV.2608.14116)
+  
+- [journal] van Bellen, S.^, Alperin, J.P. & Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. [link](https://arxiv.org/abs/2406.17893)
+
+- [conference] Sarin, P., Alperin, J.P. Citation Parsing and Analysis with Language Models. Workshop on Open Citations & Open Scholarly Metadata 2025. *arXiv*. [link](https://arxiv.org/abs/2505.15948v1)
+
 ### IN PRESS
 
 - [peer-reviewed,journal] ~Chtena, N~^, Pasquetto, I., Fleerackers, A., Pinfield, S., ~Benson  Marshall, M~, & Alperin, J.P. "Does it feel like a scientific paper?": Discretionary valuation and epistemic boundaries on preprint servers. *Engaging Science, Technology, and Society*.
   
 ### 2026
 
-- [journal] Matthias, L.^, Alperin, J.P., Laakso, M. Diamond Fractures: Tracing Journal Transitions Away from Diamond Open Access. *arXiv*. arXiv:2606.31302 
-
 - [peer-reviewed,journal] ~Donathan II, D~^, Alperin, J.P.^, Nason, M., Tullney, M., & Shi, J. Evaluating Multilingual Metadata Quality in Crossref. *Journal of Librarianship and Scholarly Communications*. 
 
 ### 2025
-  
-- [peer-reviewed,journal] van Bellen, S.^, Alperin, J.P. & Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. doi: 10.48550/arXiv.2406.17893
-
-- [conference] Sarin, P., Alperin, J.P. Citation Parsing and Analysis with Language Models. Workshop on Open Citations & Open Scholarly Metadata 2025. *arXiv*. doi:10.48550/arXiv.2505.15948
-
 - [peer-reviewed,journal] ~Chavarro, D~^, Alperin, J.P.^ & Willinsky, J. On the open road to universal indexing: OpenAlex and Open Journal Systems. *Quantitative Science Studies*. doi: 10.1162/QSS.a.17
 
 - [peer-reviewed,journal] ~Benson Marshall, M~, Pinfield, S., Abott, P., Cox, A., Alperin, J.P., et al. “It’s messy and it’s massive”: How has the open science debate developed in the post-COVID era? *F1000*. doi: 10.12688/f1000research.162577.1
