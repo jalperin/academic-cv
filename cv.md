@@ -307,13 +307,13 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 ## PUBLICATIONS
 
 ### UNDER REVIEW
-- Chtena, N., Laakso, M., & Alperin, J.P. Who Owns, Publishes, and Governs Diamond Open Access? Institutional Arrangements Among Journals Using Open Journal Systems. *MetAriXiv*. [link](https://osf.io/preprints/metaarxiv/72hjr_v1)
+- [journal] Chtena, N., Laakso, M., & Alperin, J.P. Who Owns, Publishes, and Governs Diamond Open Access? Institutional Arrangements Among Journals Using Open Journal Systems. *MetAriXiv*. [link](https://osf.io/preprints/metaarxiv/72hjr_v1)
 
 - [journal] Matthias, L.^, Alperin, J.P., Laakso, M. Diamond Fractures: Tracing Journal Transitions Away from Diamond Open Access. *arXiv*. [link](https://arxiv.org/abs/2606.31302)
 
-- Matthias, L., Schares, E., Alperin, J. P., Butler, L.-A., Kuang, S., Schönfelder, N., & Haustein, S. Estimating global article processing charges paid to 14 publishers for open access between 2019 and 2025. *arXiv*. [link](http://doi.org/10.48550/ARXIV.2608.16322)
+- [journal] Matthias, L., Schares, E., Alperin, J. P., Butler, L.-A., Kuang, S., Schönfelder, N., & Haustein, S. Estimating global article processing charges paid to 14 publishers for open access between 2019 and 2025. *arXiv*. [link](http://doi.org/10.48550/ARXIV.2608.16322)
   
-- Matthias, L., Chavarro, D., Schares, E., Alperin, J. P., Rose, M., Frost, M., Camargo, F., Höfting, J., Butler, L.-A., Schönfelder, N., & Haustein, S. A dataset of article processing charges from 14 scholarly publishers, 2019-2025. *arXiv*. [link](https://doi.org/10.48550/ARXIV.2608.14116)
+- [dataset] Matthias, L., Chavarro, D., Schares, E., Alperin, J. P., Rose, M., Frost, M., Camargo, F., Höfting, J., Butler, L.-A., Schönfelder, N., & Haustein, S. A dataset of article processing charges from 14 scholarly publishers, 2019-2025. *arXiv*. [link](https://doi.org/10.48550/ARXIV.2608.14116)
   
 - [journal] van Bellen, S.^, Alperin, J.P. & Larivière, V. The oligopoly of academic publishers persists in exclusive database. *arXiv*. [link](https://arxiv.org/abs/2406.17893)
 
@@ -324,7 +324,8 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 - [peer-reviewed,journal] ~Chtena, N~^, Pasquetto, I., Fleerackers, A., Pinfield, S., ~Benson  Marshall, M~, & Alperin, J.P. "Does it feel like a scientific paper?": Discretionary valuation and epistemic boundaries on preprint servers. *Engaging Science, Technology, and Society*.
   
 ### 2026
-
+- [peer-reviewed,journal] Pradier, C., Céspedes, C., van Bellen, S., Alperin, J.P., Larivière, V. Who Needs National Journals? Dissemination Strategies in Canadian Scholarly Communication. *The Canadian Journal of Information and Library Science*. doi: 10.5206/cjils-rcsib.v49i2.24726
+  
 - [peer-reviewed,journal] ~Donathan II, D~^, Alperin, J.P.^, Nason, M., Tullney, M., & Shi, J. Evaluating Multilingual Metadata Quality in Crossref. *Journal of Librarianship and Scholarly Communications*. 
 
 ### 2025
