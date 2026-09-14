@@ -307,13 +307,13 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 ## PUBLICATIONS
 
 ### UNDER REVIEW
+- Chtena, N., Laakso, M., & Alperin, J.P. Who Owns, Publishes, and Governs Diamond Open Access? Institutional Arrangements Among Journals Using Open Journal Systems. *MetAriXiv*. [link](https://osf.io/preprints/metaarxiv/72hjr_v1)
 
 ### IN PRESS
 
-- [peer-reviewed,journal] ~Chtena, N~^, Pasquetto, I., Fleerackers, A., Pinfield, S., ~Benson  Marshall, M~, & Alperin, J.P. "Does it feel like a scientific paper?": Discretionary valuation and epistemic boundaries on preprint servers. *Engaging Science, Technology, and Society*
+- [peer-reviewed,journal] ~Chtena, N~^, Pasquetto, I., Fleerackers, A., Pinfield, S., ~Benson  Marshall, M~, & Alperin, J.P. "Does it feel like a scientific paper?": Discretionary valuation and epistemic boundaries on preprint servers. *Engaging Science, Technology, and Society*.
   
 ### 2026
-- [journal] Alperin, J.P.^, Kramer, B., Farley, A., Church, A., van Eck, N. J., Mitchell, D., Marcum, C., Takenaka, R., Harrison, M., Gatti, R. Recommendations for Revising the Open Access Classification System in OpenAlex. *Zenodo*. doi: 10.5281/zenodo.21934113 
 
 - [journal] Matthias, L.^, Alperin, J.P., Laakso, M. Diamond Fractures: Tracing Journal Transitions Away from Diamond Open Access. *arXiv*. arXiv:2606.31302 
 
@@ -524,6 +524,10 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 ### NON-TRADITIONAL OUTPUTS
 
 ### 2026
+- Matthias, L., Chavarro, D., Schares, E., Alperin, J. P., Rose, M. A., Frost, M., Camargo, F., Höfting, J., Butler, L.-A., Schönfelder, N., & Haustein, S. An open dataset of article processing charges from 14 scholarly publishers, 2019–2025. *Harvard Dataverse*. doi: 10.7910/DVN/AZ985C 
+  
+- Alperin, J.P.^, Kramer, B., Farley, A., Church, A., van Eck, N. J., Mitchell, D., Marcum, C., Takenaka, R., Harrison, M., Gatti, R. Recommendations for Revising the Open Access Classification System in OpenAlex. *Zenodo*. doi: 10.5281/zenodo.21934113 
+
 - Alperin, J.P. Markets serve customers. Public options serve citizens. *National Observer* [link](https://www.nationalobserver.com/2026/05/05/opinion/canada-avi-lewis-public-options-nationalization)
   
 - Alperin, J.P. & Nizami, U. Exploring what it means for the Public Knowledge Project to be driven by research with Juan Pablo Alperin. *PKP Blog.* [link](https://doi.org/10.59350/pe618-tnd23)
