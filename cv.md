@@ -148,6 +148,8 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 **significance:** This edited volume offers a thorough exploration of the unique nature of Latin America's approach to scholarly communication; an approach that results in nearly universal open access. The book is the culmination of my dissertation project, where I shed light on the value of Latin America's Approach to Open Access, including the surprising finding that ⅓ of downloads to Latin American journals come from non-academics.
 
 ## MEDIA COVERAGE
+*Nature*. [Hundreds of ‘free’ academic journals have started charging fees](https://www.nature.com/articles/d41586-026-02818-5)| Sept 22, 2026
+
 *Nature*. [Why preprint servers are increasing moderation — and what that means for researchers](https://www.nature.com/articles/d41586-026-01203-6) | Apr 30, 2026
 
 *Undark*. [In Scientific Publishing, Who Should Foot the Bill?](https://undark.org/2026/01/07/apc-science-publishing/) | Jan 7, 2026
@@ -528,6 +530,8 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 ### NON-TRADITIONAL OUTPUTS
 
 ### 2026
+- Alperin, J.P. & van Zyl, K. D2.1_Comparative Analysis of Quality Support Instruments and Evaluation Systems. *Zenodo*. doi: 10.5281/zenodo.23062130
+  
 - Matthias, L., Chavarro, D., Schares, E., Alperin, J. P., Rose, M. A., Frost, M., Camargo, F., Höfting, J., Butler, L.-A., Schönfelder, N., & Haustein, S. An open dataset of article processing charges from 14 scholarly publishers, 2019–2025. *Harvard Dataverse*. doi: 10.7910/DVN/AZ985C 
   
 - Alperin, J.P.^, Kramer, B., Farley, A., Church, A., van Eck, N. J., Mitchell, D., Marcum, C., Takenaka, R., Harrison, M., Gatti, R. Recommendations for Revising the Open Access Classification System in OpenAlex. *Zenodo*. doi: 10.5281/zenodo.21934113 
