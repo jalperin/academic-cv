@@ -150,6 +150,8 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 ## MEDIA COVERAGE
 *Nature*. [Hundreds of ‘free’ academic journals have started charging fees](https://www.nature.com/articles/d41586-026-02818-5)| Sept 22, 2026
 
+*Science*. [U.S. agencies aren’t ready for the rising cost of making research papers free, report warns](https://www.science.org/content/article/u-s-agencies-aren-t-ready-rising-cost-making-research-papers-free-report-warns)| May 22, 2026
+
 *Nature*. [Why preprint servers are increasing moderation — and what that means for researchers](https://www.nature.com/articles/d41586-026-01203-6) | Apr 30, 2026
 
 *Undark*. [In Scientific Publishing, Who Should Foot the Bill?](https://undark.org/2026/01/07/apc-science-publishing/) | Jan 7, 2026
