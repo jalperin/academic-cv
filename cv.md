@@ -638,6 +638,18 @@ Alperin, J.P. & Fischman, G.E. (eds.) (2015). Made in Latin America: Open Access
 
 ## PRESENTATIONS
 ### 2026 
+- [invited] Alperin, J.P. (November 25). Emerging Approaches in Scientometrics for Monitoring Inequalities and Information Justice. *9th Congress of Information Science Professionals*. Online. 
+
+- [invited,keynote] Alperin, J.P. (November 20). Comunicando Ciencia en América Latina: revistas académicas, acceso abierto e infraestructuras que dan voz a la región. *XI Congreso Internacional IDI-UNICyT 2026*. Online.
+
+- [invited] Alperin, J.P. (November 19). Recuperar el control: la comunicación científica como bien común, no como mercancía. *Ciencia sin Barreras: Integridad Académica y Nuevos Horizontes del Conocimiento Abierto*. Online.
+ 
+- [invited] Alperin, J.P. & Ovando, P. (October 21). ¿Quién sostiene el conocimiento abierto? Responsabilidades compartidas para financiar infraestructuras, capacidades y trabajo. *Semana Internacional de Acceso Abierto 2026, UAM-X*. Online.
+
+- [invited,keynote] Alperin, J.P. (October 21). Scholarly Journals in Global Scholarly Communication. *Fifth International Conference: Open Science and Innovation in Ukraine 2026*. Online.
+  
+- [invited] Alperin, J.P. (October 19). La comunicación científica como bien común, no como mercancía. *3ª Semana de Acceso Abierto de la Universidad Federal Fluminense*. Online. 
+
 - [invited] Alperin, J.P. (July 16). Avoiding Rankings Is Not the Same as Valuing the Public. *July Dr. RIRC*. Online. 
   
 -  Alperin, J.P., Nason, M., Cormier, D. (May 12). Questions with Difficult Answers : AI technologies and Open Community Infrastructures. *CRKN Virtual Conference: Creative Collaborations, Collective Momentum*. Online. 
